@@ -1,0 +1,10 @@
+---
+title: 'Field trip in Ilo'
+date: 2019-11-25 16:30
+author: hvlepage
+category: field-work
+---
+
+Here is a description of our visit in Ilo
+
+![Measuring river discharge](/assets/posts/july2019.jpeg)
