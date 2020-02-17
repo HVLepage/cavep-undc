@@ -22,6 +22,7 @@ The Mavic 2 Pro utilises a three-axis gimbal with Hasselblad camera and 1-inch C
 <img src="https://www.dropbox.com/s/76hbz1itfmw4ika/HM9Q2_AV7.jpeg?raw=1" alt="Mavic 2 Pro" >
 </p>
 
+
 Key features that make the Mavic 2 Pro a preferred choice for this project:
 - Hasselblad camera with a 1-inch CMOS sensor.
 - Access to 10-bit Dlog-M colour profile.
