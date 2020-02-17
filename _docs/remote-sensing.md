@@ -35,7 +35,7 @@ Key features that make the Mavic 2 Pro a preferred choice for this project:
 
 ### Automated Flight Plans
 
-<img src="/cavep-canete/assets/docs/remote-sensing/dronedeploy_examplemap.png" align="right" alt="DroneDeploy" style="width:50%;">
+<img src="/assets/docs/remote-sensing/dronedeploy_examplemap.png" align="right" alt="DroneDeploy" style="width:50%;">
 
 #### DroneDeploy
 DroneDeploy offer a professional photogrammetry platform for collecting and analysing geographic data using drones. For this project, we are interested in their free flight app for mobile devices. This app allows the automation of flight plans and photography. Gathering land data in a controlled and systematic way is essential for scientific analysis. The image below shows an example plan defined by an operator. The drone automatically covers the region of interest by following the green flight path and takes a number of pictures at an interval defined by the user.
@@ -57,7 +57,7 @@ OpenDroneMap (ODM) is a free and open-source photogrammetry toolkit for processi
 Satellites both public and private are constantly monitoring the surface of the Earth. Processing spectral data from the images taken provides useful information pertaining to the composition of the ground, the presence of vegetation, the type and density of vegetation. A deeper analysis can reveal the effects of industrial activity on the environment over time and the propagation of contaminants via rivers.
 
 ### Landsat
-<img src="/cavep-canete/assets/docs/remote-sensing/Landsat_Data_Continuity_Mission_Observatory_testing.jpg" align="right" alt="Landsat 8" style="width:30%;">
+<img src="/assets/docs/remote-sensing/Landsat_Data_Continuity_Mission_Observatory_testing.jpg" align="right" alt="Landsat 8" style="width:30%;">
 
 The Landsat program is the longest-running enterprise for acquisition of satellite imagery of Earth. The program has been operated by NASA, NOAA and USGS. Currently, the two active programmes are Landsat 7 and Landsat 8. Both are capable of collecting multi-spectral data split into differnt bands.
 
@@ -135,8 +135,5 @@ Below is an example map of the area around Moquegua, Peru. Here, dark green area
 * **H. V. Lepage**
 * **C. H. W. Barnes**
 
-See the list of [contributors](https://github.com/HVLepage/RemoteSensing/contributors) who participated in this project.
-
-## Acknowledgments
 
 ---
