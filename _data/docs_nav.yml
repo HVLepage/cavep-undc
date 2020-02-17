@@ -2,9 +2,11 @@
   docs:
     - link: /docs/
     - link: /docs/remote-sensing/
-- title: Water Collection Sites
+- title: Interactive Map
   docs:
     - link: /docs/observation-sites/
+- title: Water Collection Sites
+  docs:
     - link: /docs/RC00/
     - link: /docs/RC01/
     - link: /docs/RC02a/
