@@ -2,14 +2,18 @@
   docs:
     - link: /docs/
     - link: /docs/remote-sensing/
-- title: Site Network
+- title: Water Collection Sites
   docs:
     - link: /docs/observation-sites/
     - link: /docs/RC00/
     - link: /docs/RC01/
     - link: /docs/RC02a/
-    - link: /docs/RC02b/
     - link: /docs/RC06i/
     - link: /docs/RC06ii/
     - link: /docs/RC07/
     - link: /docs/RC08/
+
+  - title: Camarone Collection Point
+  docs:
+    - link: /docs/RC02b/
+    - link: /docs/RC02c/
