@@ -126,10 +126,6 @@ Normalized difference vegetation index (NDVI) is a technique that quantifies veg
 <br clear="right"/>
 
 
-Below is an example map of the area around Moquegua, Peru. Here, dark green areas indicate regions where green plant density is high compared to lighter green areas. Orange colored regions are devoid of vegetation.
-
-![Moquegua NDVI Map](https://www.dropbox.com/s/kb1bkomu48y0u12/ndvi_moquegua_2018.png?raw=1)
-
 
 ## Authors
 
