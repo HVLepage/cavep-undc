@@ -7,3 +7,6 @@
 - title: News
   link: /news/
   show_on_mobile: true
+- title: Team
+  link: /team/
+  show_on_mobile: true
