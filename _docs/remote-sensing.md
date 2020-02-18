@@ -3,7 +3,7 @@ title: Remote Sensing
 permalink: /docs/remote-sensing/
 ---
 
-In this project, we use various remote sensing tools to analyze vegetation characteristics in the Moquegua district, Peru. Three levels of data collection are used:
+In this project, we use various remote sensing tools to analyze vegetation characteristics in Peru. Three levels of data collection are used:
 1. Field expiditions (Water, plant, and camarones sampling).
 2. Drone photography and mapping.
 3. Satellite spectral analysis.
