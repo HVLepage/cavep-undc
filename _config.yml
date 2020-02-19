@@ -33,7 +33,7 @@ defaults:
 - scope:
     path: ''
   values:
-    image: "/img/jekyll-og.png"
+    image: "/img/logo-2x.png"
 future: true
 plugins:
 - jekyll-avatar
