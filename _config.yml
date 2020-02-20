@@ -55,6 +55,6 @@ exclude:
 - CNAME
 - icomoon-selection.json
 - readme.md
-algolia:
-  application_id: '???'
-  index_name: '???'
+#algolia:
+#  application_id: '???'
+#  index_name: '???'
