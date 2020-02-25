@@ -9,3 +9,5 @@ category: Website
 Hi! Welcome to the first live version of the CavEP online distribution platform!
 
 You will notice that the look of the website has changed from the beta version. I have completely revamped both the style and functionality. Hopefully this should make it easier to navigate and find relevant information.
+
+![CavEP Homepage](/assets/posts/website_1_0_0.png)
