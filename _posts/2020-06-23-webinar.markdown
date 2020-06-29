@@ -1,0 +1,17 @@
+---
+title: 'First Online Webinar Series'
+date: 2020-06-23 16:30:00 
+author: hvlepage
+category: talks
+---
+
+The first online lecture series was broadcasted from the University of Cambridge and the Universidad Nacional de Cañete to members of the public. 
+
+![Online Webinar](/assets/posts/20200623-webinar.png)
+
+
+Speaker: Hugo V. Lepage
+
+Title:  Remote sensing and environmental change of the Cañete valley
+
+Abstract: We use satellite images to analyze the vegetation around the Cañete Valley. Vegetation indices provide a quantitative measure for vegetation cover as well as large-scale changes in the past 20 years. We find two major types of changes. One is caused by seasonality and the other is a response to trend changes over the past two decades. We identify key points of interest along the Rio Cañete and its associated tributaries. We also promote the need for gathering ground truth information to confirm hypotheses that arise from remote sensing observations.
