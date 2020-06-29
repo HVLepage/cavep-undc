@@ -31,4 +31,5 @@ Principal investigators
   
 Co-investigators
 * Oscar Enrique Aguinaga Vargas - Geochemist; water chemistry analysis.
-* Katharine L Sanchez Cacho - Biologist; bioindicators and biosensors.
+* Katharine L Sanchez Caycho - Biologist; bioindicators and biosensors.
+* Miriam Vilca Arana
