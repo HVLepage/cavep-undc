@@ -1,0 +1,17 @@
+---
+title: 'Webinar 2: Morag Hunter'
+date: 2020-07-21 16:30:00 
+author: hvlepage
+category: talks
+---
+
+The second online lecture series was broadcasted from the University of Cambridge and the Universidad Nacional de Cañete to members of the public. 
+
+![Online Webinar](/assets/posts/20200721-webinar.png)
+
+
+Speaker: Morag Hunter
+
+Title: River Water Geochemistry: Cañete River
+
+Abstract: This talk will look at the Cañete River Basin. After introducing the watershed we will look at the factors that affect river water chemistry including rainwater, groundwater, geology, mining and other anthropogenic factors. The geology of Peru is dominated by the eastward subduction of the Nazca plate under South America. This has given rise to the Andean Mountains which in turn supply the water for most of Western Peru. The geology in Cañete is dominated by predominately carbonate sedimentary rocks in the upper basin, giving way to younger igneous rocks associated with the active volcanic arc in the middle basin and the older intrusive Coastal Batholith at the coast. This gives the Cañete Basin its unique characteristics and beautiful scenery, it also controls the chemistry of the tributaries which in turn control the chemistry of the main river. Initial results from this project suggest that in general the water in the river is of a very high standard with very little contamination. The chemistry of the river, and its sediments is dominantly controlled by the geology, with varying contribution from hydrothermal waters and minor anthropogenic factors predominantly affecting the tributaries. The significant proportion of Jurassic and Cretaceous carbonate rocks is reflected in the high to moderate pH, high alkalinity and major ions dominated by bicarbonate and calcium. The high alkalinity in the river acts as a buffer to any acidic inputs, be they geological or from anthropogenic factors such as mining or agriculture, and means that the river is able to safely support many aquatic species such as trout and shrimp.
