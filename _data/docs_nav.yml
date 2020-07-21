@@ -2,6 +2,7 @@
   docs:
     - link: /docs/
     - link: /docs/remote-sensing/
+    - link: /docs/hydro-geochemistry/
 - title: Interactive Map
   docs:
     - link: /docs/observation-sites/
