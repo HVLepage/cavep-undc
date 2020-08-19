@@ -1,0 +1,19 @@
+---
+title: 'Webinar 2: Noorhayati Idros*, Eustace Barnes'
+date: 2020-08-18 16:30:00 
+author: hvlepage
+category: talks
+---
+
+The third online lecture series was broadcasted from the University of Cambridge and the Universidad Nacional de Cañete to members of the public. 
+
+![Online Webinar](/assets/posts/20200818-webinar.png)
+
+
+Speaker: Noorhayati Idros*, Eustace Barnes
+
+Title: Assessing Environmental Quality in the Rio Cañete Drainage Basin
+The Andean River Shrimp (*Cryphiops caementarius*) as a Bioindicator Species
+
+
+Abstract: The Andean River Shrimp (*Cryphiops caementarius*) is an important economic and cultural resource. We propose that it can be used to assess water and environmental quality and better understand trace metal transfer, bioaccumulation and environmental impact in Andean rivers. This work is readily divided into four areas of study.  Firstly, a comparative study of environmental quality using  DNA barcoding along with biotic and diversity indices. Secondly, using the Andean River Shrimp,  to measure the bioaccumulation of trace metals (using ICP-MS). Thirdly, to describe pathways of trophic transfer in the Rio Cañete using Andean River Shrimp diet alongside invertebrate and vegetative tissue analyses and,  fourthly, to identify the impact of trace metal accumulation on this species and its environment.
