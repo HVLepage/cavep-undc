@@ -1,0 +1,18 @@
+---
+title: 'Webinar 5: Alex Pacheco, Katherine Sánchez'
+date: 2020-10-06 16:30:00 
+author: hvlepage
+category: talks
+---
+
+The fifth online lecture series was broadcasted from the University of Cambridge and the Universidad Nacional de Cañete to members of the public. 
+
+[![Online Webinar](/assets/posts/20201006-webinar.png)](https://www.facebook.com/Universidad-Nacional-de-Ca%C3%B1ete-134369873573109/videos/376959363331168)
+
+
+Speaker: Alex Pacheco, Katherine Sánchez
+
+Title: Fotogrametría con RPAS
+
+
+Abstract: En los últimos años los vehículos aéreos no tripulados (UAVs) conocidos como Remotely Piloted Aircraft Systems (RPAS) comúnmente Drones, se han vuelto una herramienta indispensable para la recolección aérea de datos a partir de varias imágenes verticales y oblicuas, utilizando procedimientos eficientes en menores tiempos y con mayor precisión. Para ello se describirán los tipos de RPAS, los términos fotogramétricos, el flujo de trabajo conformado por tres fases: la preparación fotogramétrica; que abarca la planificación del vuelo automático, ubicación de puntos de control, estimación meteorológica, los índices Kps y la restricción zonal; en la segunda fase, el Vuelo fotogramétrico, que realiza la verificación meteorológica in situ, el índice Kp, monitoreo del RPAS con el backup de las fotos y la tercera fase, el Pos proceso fotogramétrico, que comprende el proceso inicial, el proceso de georreferenciación y proceso final a través del software fotogramétrico.

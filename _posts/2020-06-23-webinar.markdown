@@ -7,7 +7,7 @@ category: talks
 
 The first online lecture series was broadcasted from the University of Cambridge and the Universidad Nacional de Cañete to members of the public. 
 
-![Online Webinar](/assets/posts/20200623-webinar.png)
+[![Online Webinar](/assets/posts/20200623-webinar.png)](https://www.facebook.com/Universidad-Nacional-de-Ca%C3%B1ete-134369873573109/videos/308516183482369)
 
 
 Speaker: Hugo V. Lepage
