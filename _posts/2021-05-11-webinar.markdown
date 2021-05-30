@@ -1,0 +1,18 @@
+---
+title: 'Webinar 9: Eleanor Korprasertsri'
+date: 2021-03-23 16:30:00 
+author: hvlepage
+category: talks
+---
+
+The eigth online lecture series was broadcasted from the University of Cambridge and the Universidad Nacional de Cañete to members of the public. 
+
+[![Online Webinar](/assets/posts/20210511-webinar.png)](https://www.facebook.com/134369873573109/videos/282007726914239)
+
+
+Speaker: Eleanor Korprasertsri
+
+Title: Using remote sensing to track vegetation change over time
+
+Abstract: 
+This talk covers methods and tools used to extract, clean, process and display remote sensing data in the west of Peru and what this data can tell us about its climate and environment.
