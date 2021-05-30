@@ -1,0 +1,24 @@
+---
+title: 'Webinar 8: Kristian Haralampiev'
+date: 2021-03-23 16:30:00 
+author: hvlepage
+category: talks
+---
+
+The eigth online lecture series was broadcasted from the University of Cambridge and the Universidad Nacional de Cañete to members of the public. 
+
+[![Online Webinar](/assets/posts/20210323-webinar.png)](#)
+
+
+Speaker: Kristian Haralampiev
+
+Title: Analysis of bofedales and their health by applying machine learning to satellite images
+
+Abstract: 
+The project has 3 main objectives:
+1. Research and development of a tool which identifies bofedales structure from other vegetation, dessert, etc. - referenced as “bofedales identifier”.
+2. Research and development of a tool which classifies bofedales either as healthy or unhealthy - referenced as : “bofedales health classifier”
+3. Research and development of a tool which assesses the dynamics and the evolution of bofedales.
+The first two tools are based on Deep Learning (subset of Machine Learning). In particular using a specific type of Neural Network: Convolutional Neural Network (CNN) in order to classify the examined bofedales. The train set of the neural networks is composed of satellite images and the respective success rate of the classification procedure is validated on completely unseen images. 
+The tool in the third part of the project features how to make use of the available time-series data of satellite images and calculates various indices such as NDVI, NDWI as a function of time. Techniques such as time-series forecasting are then further applied to the calculated values in order to examine how bofedales change and to forecast future dynamics. 
+The technologies used in the development of the above mentioned tools are Python, Colab, TensorFlow, Google Earth Engine and Google Earth.
