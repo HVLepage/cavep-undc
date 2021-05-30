@@ -5,7 +5,7 @@ author: hvlepage
 category: talks
 ---
 
-The eigth online lecture series was broadcasted from the University of Cambridge and the Universidad Nacional de Cañete to members of the public. 
+The ninth online lecture series was broadcasted from the University of Cambridge and the Universidad Nacional de Cañete to members of the public. 
 
 [![Online Webinar](/assets/posts/20210511-webinar.png)](https://www.facebook.com/134369873573109/videos/282007726914239)
 
