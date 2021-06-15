@@ -13,11 +13,11 @@ The following river and water quality data was collected from this site:
 | Season:                      | Austral Winter                | Austral Summer           |
 | Date:                        | 11.07.2019                    | 20.11.2019               |
 | Time:                        | 12.45pm                       | 11.30m                   |
-| Width (m)                    | 14                            | 17                       |
-| Depth (Av.) (m)              | 0.969                         | 0.385                    |
-| CSA (Av.) (m²)               | 13.56                         | 6.545                    |
-| Velocity (Av.) (m/s)         | 1.103                         | 0.419                    |
-| Discharge (Av.) (m³/s)       | 14.96                         | 2.742                    |
+| Width (m)                    |                               | 17                       |
+| Depth (Av.) (m)              |                               | 0.385                    |
+| CSA (Av.) (m²)               |                               | 6.545                    |
+| Velocity (Av.) (m/s)         |                               | 0.419                    |
+| Discharge (Av.) (m³/s)       |                               | 2.742                    |
 | Riverbed sediment            | Gravel, cobbles & boulders    | Gravel, cobbles & boulders |
 | Temp. (Atmospheric) (°C)     | 24                            | 23
 | Temp. (Water) (°C)           | 12.16                         | 13.5                     |
