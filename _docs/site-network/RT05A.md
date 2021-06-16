@@ -1,5 +1,5 @@
 
-RT05A - Rio Ayauca 
+RT05A - Rio Colonia
 
 Site Code: RT05A.  GPS: S12°35.468, W75°56.513. Elevation:
 2010m asl.
