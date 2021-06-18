@@ -37,3 +37,17 @@ The following river and water quality data was collected from this site:
 | Alkalinity (mg/l CaCO3)      | Pink to colourless 104 (1.6N) |  -                       |
 
 ### Data Analysis
+Discharge at this site varies significantly seasonally. It is significantly reduced downstream by the El Platanal HEP scheme. The river is also impacted by gravel workings in the channel just downstream from the site.
+
+At just over 1650m asl the DO readings at RC06 are as expected. Again, the increased elevation and diurnal fluctuations in temperature in narrow, sheltered sections of the valley produces fluctuations in maximum absolute oxygen capacity and, in consequence, percentage saturation. This then fluctuates with that rhythm accordingly. At DO levels from 5.25-6.8 mg/l and 75-83% oxygen saturation aquatic vertebrates survive and invertebrates thrive.
+
+The conductivity readings at this site (423-454 µS/cm) are as expected at this altitude.
+
+pH readings of 8.76 November 2019 are as expected. At these levels the alkalinity of the river is suitable for aquatic life and not approaching the tolerances of most aquatic vertebrates and invertebrates. The July data requires confirmation. 
+
+### Site Description
+Site RC06 is located just below the settlement of Calachota and above the mid-catchment reservoir at Capillucas at 1660m asl in the arid subtropics. The valley here is broad with a highly braided channel. There are significant areas of cultivation, requiring irrigation waters. These are abstracted in the traditional fashion with many channels carrying water along valley side contours to feed fields by superficial watering. The valley is deeply incised with steep arid slopes rising from the flood plain. Valley sides at this elevation remain very dry, mainly supporting the xeric vegetative communities found lower down in the valley system. At this point in the sub-catchment farming is mainly subsistence, with some limited production being offered to local markets down the valley. There are areas devoted to avocados, citrus and some plantains. 
+
+As elsewhere in the drainage basin discharge is highly variable with a marked seasonality. Discharge measurements from January to March being considerably greater. The channel itself is braided with large area of ephemeral gravel islands found in the channel. In addition to the abstraction of water the extraction of gravels and sands is undertaken just below the village. 
+
+Natural vegetation is limited to scattered willows and river cane along the banks. The fauna and flora in the valley remain depauperate. Scrub Blackbird, Black-necked Woodpecker and Bare-faced and Croaking Ground Doves are common.
