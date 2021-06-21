@@ -1,12 +1,15 @@
 ---
-title: RC06(i) - Below Calachota
+title: RC06 - River Canete - below Calachota
 permalink: /docs/RC06i/
 ---
 
 <iframe width="100%" height="640" allowfullscreen style="border-style:none;" src="https://cavep-undc-hosting.netlify.com/sites/RC06i/app-files/"></iframe>
 
 
-Site Code: RC06.  GPS: S12°40.102, W75°57.548. Elevation:
+Site Code: RC06.  
+July 2019 - GPS: S12°40.057, W75°57.335. Elevation:
+1606m asl.
+November 2019 - GPS: S12°40.102, W75°57.548. Elevation:
 1666m asl.
 
 ### Water Quality Data
@@ -51,3 +54,5 @@ Site RC06 is located just below the settlement of Calachota and above the mid-ca
 As elsewhere in the drainage basin discharge is highly variable with a marked seasonality. Discharge measurements from January to March being considerably greater. The channel itself is braided with large area of ephemeral gravel islands found in the channel. In addition to the abstraction of water the extraction of gravels and sands is undertaken just below the village. 
 
 Natural vegetation is limited to scattered willows and river cane along the banks. The fauna and flora in the valley remain depauperate. Scrub Blackbird, Black-necked Woodpecker and Bare-faced and Croaking Ground Doves are common.
+
+Site RC06i (July 2019) is located further downriver where the road to San Lorenzo de Putinza crosses the river. This site has been replaced by RC06 for future data and sample collection. The narrow flood-plain and lands below and around the village are farmed with citrus fruit and avocado orchards as well as maize, onions, garlic, and pepper production. The river here is lined with acacia and some willow.
