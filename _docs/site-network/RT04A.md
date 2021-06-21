@@ -1,4 +1,7 @@
-RT04A - 
+---
+title: RT04A - Allauca bajo
+permalink: /docs/RT04A/
+---
 
 Site Code: RT04A.  GPS: S12°48.040, W75°53.452. Elevation:
 1740m asl.

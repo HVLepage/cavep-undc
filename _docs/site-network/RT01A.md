@@ -1,5 +1,7 @@
-
-RT01A - Rio Vinac
+---
+title: RT01A - Rio Vinac
+permalink: /docs/RT01A/
+---
 
 Site Code: RT01A.  GPS: S12°50.764, W75°56.599. Elevation:
 980m asl.

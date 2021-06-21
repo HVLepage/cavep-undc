@@ -1,4 +1,7 @@
-RT08B - Rio Laraos
+---
+title: RT08B - Rio Laraos
+permalink: /docs/RT08B/
+---
 
 
 Site Code: RT08B.  GPS: S12°21.721, W75°45.700. Elevation:

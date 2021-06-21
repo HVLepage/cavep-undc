@@ -1,5 +1,7 @@
-
-RT05A - Rio Colonia
+---
+title: RT05A - Rio Colonia
+permalink: /docs/RT05A/
+---
 
 Site Code: RT05A.  GPS: S12°35.468, W75°56.513. Elevation:
 2010m asl.

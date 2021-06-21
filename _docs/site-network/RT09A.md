@@ -1,4 +1,7 @@
-RT09A -  Rio Alis
+---
+title: RT09A -  Rio Alis
+permalink: /docs/RT09A/
+---
 
 
 Site Code: RT09A.  GPS: S12°17.164, W75°47.288. Elevation:

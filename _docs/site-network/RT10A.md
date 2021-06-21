@@ -1,4 +1,7 @@
-RT10A - Rio Miraflores
+---
+title: RT10A - Rio Miraflores
+permalink: /docs/RT10A/
+---
 
 
 Site Code: RT10A.  GPS: S12°15.384, W75°42.935. Elevation:

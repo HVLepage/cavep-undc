@@ -1,5 +1,8 @@
+---
+title: RT07A - Rio Huantan
+permalink: /docs/RT07A/
+---
 
-RT07A - Rio Huantan
 
 Site Code: RT07A.  GPS: S12°25.548, W75°50.853. Elevation:
 2572m asl.

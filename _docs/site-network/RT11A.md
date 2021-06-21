@@ -1,4 +1,7 @@
-RT11A - Rio Vilca
+---
+title: RT11A - Rio Vilca
+permalink: /docs/RT11A/
+---
 
 
 Site Code: RT11A.  GPS: S12°06.991, W75°49.081. Elevation:

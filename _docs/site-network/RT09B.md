@@ -1,4 +1,7 @@
-RT9B - Rio Alis
+---
+title: RT09B -  Rio Alis
+permalink: /docs/RT09B/
+---
 
 Site Code: RT9B.  GPS: S12°15.384, W75°42.935. Elevation:
 3689m asl.

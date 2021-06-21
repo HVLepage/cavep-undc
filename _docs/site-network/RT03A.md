@@ -1,3 +1,7 @@
+---
+title: RT03A - Rio Tupe
+permalink: /docs/RT03A/
+---
 RT03A - Rio Tupe
 
 Site Code: RT03A.  GPS: S12°48.262, W75°53.622. Elevation:

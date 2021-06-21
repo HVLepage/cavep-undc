@@ -1,4 +1,7 @@
-RT06A - Rio Yauyos
+---
+title: RT06A - Rio Yauyos
+permalink: /docs/RT06A/
+---
 
 
 Site Code: RT06A.  GPS: S12°37.862, W75°58.689. Elevation:
