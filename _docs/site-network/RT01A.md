@@ -51,5 +51,5 @@ The valley at this point is a narrow and deeply incised in largely sedimentary s
 The progressive drying of the west flank ridges and high Andean habitats will continue to reduce biodiversity along the west flank. A process that will be accelerated by global warming, the melting of the glaciers in the headwaters and consequent increase in water stress in the region. This is already well understood with the dramatic reduction in the extent of snow cover along the Cordillera Occidental from Ancash south to Tacna.
 
 
-![Tributary T01 - the Vinak subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T1/T1Vinaksubcatchment.jpg)
+![Tributary T01 - the Vinak subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T1/T1Vinacsubcatchment.jpg)
 Tributary 01 - the Vinak subcatchment. (Eustace Barnes)
