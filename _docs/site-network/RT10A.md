@@ -35,3 +35,16 @@ The following river and water quality data was collected from this site:
 | Alkalinity (mg/l CaCO3)      |   -   |
 
 ### Data Analysis
+Discharge in the Rio Miraflores is year-round and as expected. The sub-catchment drains the three highest peaks with permanent snow cover, including both Llongote and Ticlla, in the area. 
+
+At just above 3300m asl the DO readings at T10a are within the expected range and again follow the pattern of slowly falling as elevation increases. Conductivity and total solids measurements are lower, reflecting the scale of the sub-catchment and reduced input from weathering processes, consequently, water quality is good. The impact of Miraflores and associated agricultural development is not known, but in this sub-catchment there is limited agriculture, no mining and low population density. 
+
+### Site Description
+Sites T10a lies in the arid temperate zone below the small village of Miraflores at 3330m asl. At this point the valley has a sharply v-shaped profile and is more of a canyon in places. The bed load in the river channel is comprised of fluvio-glacial boulders, gravels, and sands. Huge boulders from landslides also lie throughout the valley and along the river channel. The river flow in the Rio Miraflores is year-round with discharge at this time perhaps approaching base flow, as reflected in its clear appearance. 
+
+There is little or no agricultural cultivation, with pastoralism dominating any rural land use. There are smaller areas of terracing on steeper slopes along the Rio Miraflores valley and the Rio Canete valley opposite the confluence. The valley here lies within the Reserva Paisajistica Nor Yauyos-Cochas and the valley sides also have extensive areas of pacific relictual woodlands. 
+
+
+![Tributary T10 - the Miraflores subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T10/T10Mirafloressubcatchment2.jpg)
+Tributary 10 - the Miraflores subcatchment. (Eustace Barnes)
+
