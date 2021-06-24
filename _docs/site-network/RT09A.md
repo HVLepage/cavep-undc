@@ -58,5 +58,5 @@ Site T09A - the study site. (John Forrest)
 Site T09A - View downstream from the study site. (John Forrest)
 
 
-![Site T09A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9AViewupstream2.JPG)
+![Site T09A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9AViewupstream.JPG)
 Site T09A - View upstream from the study site. (John Forrest)
