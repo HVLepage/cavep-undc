@@ -60,7 +60,7 @@ Tributary 07 - the Huantan subcatchment. (Eustace Barnes)
 Site T07A - the study site. (John Forrest)
 
 
-![Site T07A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7AViewdownstream.JPG)
+![Site T07A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7AViewdownstream2.JPG)
 Site T07A - View downstream from the study site. (John Forrest)
 
 
