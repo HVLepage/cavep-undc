@@ -51,5 +51,5 @@ The use of pesticides has been observed at many sites throughout the valley and 
 Above the cultivated areas valley sides are arid, supporting a xeric vegetation. Along the valley bottom, the vegetation is anthropic in origin. There only remain scattered acacia, clumps of river cane and smaller willows along the river edge. The fauna and flora in the valley remains depauperate and largely comprised of synanthropic species. Scrub Blackbird, Black-necked Woodpecker and Bare-faced and Croaking Ground Doves are common as elsewhere up to the temperate zone. It would be interesting to see if there is any bioaccumulation of pesticide residues or other trace metals in the avifauna throughout the valley. 
 
 
-![Tributary T04 - the Ayauca subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T4/T4Ayaucasubcatchment.jpg)
+![Tributary T04 - the Ayauca subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T4/T4Ayuacasubcatchment.jpg)
 Tributary 04 - the Ayauca subcatchment. (Eustace Barnes)
