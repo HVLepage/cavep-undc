@@ -53,3 +53,11 @@ Above the cultivated areas valley sides are arid, supporting a xeric vegetation.
 
 ![Tributary T04 - the Ayauca subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T4/T4Ayuacasubcatchment.jpg)
 Tributary 04 - the Ayauca subcatchment. (Eustace Barnes)
+
+
+![Site T04A - the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4AStudysite.JPG)
+Site T04A - the study site. (John Forrest)
+
+
+![Site T04A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4AViewdownstream.JPG)
+Site T04A - View downstream from the study site. (John Forrest)
