@@ -54,3 +54,15 @@ In the upper parts of this sub-catchment agriculture is low intensity and tradit
 
 ![Tributary T07 - the Huantan subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T7/T7Huantansubcatchment.jpg)
 Tributary 07 - the Huantan subcatchment. (Eustace Barnes)
+
+
+![Site T07A - the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7AStudysite.JPG)
+Site T07A - the study site. (John Forrest)
+
+
+![Site T07A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7AViewdownstream.JPG)
+Site T07A - View downstream from the study site. (John Forrest)
+
+
+![Site T07A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7AViewupstream.JPG)
+Site T07A - View upstream from the study site. (John Forrest)
