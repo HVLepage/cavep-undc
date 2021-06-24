@@ -69,5 +69,5 @@ Site T08A - the study site. (John Forrest)
 Site T08A - View downstream from the study site. (John Forrest)
 
 
-![Site T08A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8AViewupstream2.JPG)
+![Site T08A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8AViewupstream.JPG)
 Site T08A - View upstream from the study site. (John Forrest)
