@@ -50,3 +50,15 @@ Above the cultivated areas valley sides are arid, supporting a xeric vegetation 
 
 ![Tributary T06 - the Yauyos subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T6/T6Yauyossubcatchment.jpg)
 Tributary 06 - the Yauyos subcatchment. (Eustace Barnes)
+
+
+![Site T06A - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6AStudysite.JPG)
+Site T06A - the study site. (John Forrest)
+
+
+![Site T06A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6AViewdownstream.JPG)
+Site T06A - View downstream from the study site. (John Forrest)
+
+
+![Site T06A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6AViewupstream.JPG)
+Site T06A - View upstream from the study site. (John Forrest)
