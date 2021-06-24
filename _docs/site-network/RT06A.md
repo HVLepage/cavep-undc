@@ -59,6 +59,3 @@ Site T06A - the study site. (John Forrest)
 ![Site T06A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6AViewdownstream.JPG)
 Site T06A - View downstream from the study site. (John Forrest)
 
-
-![Site T06A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6AViewupstream.JPG)
-Site T06A - View upstream from the study site. (John Forrest)
