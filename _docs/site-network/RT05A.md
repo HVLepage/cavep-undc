@@ -52,3 +52,15 @@ At this sample point the channel is flowing across a broad outwash fan in a chan
 ![Tributary T05 - the Colonia subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T5/T5Coloniasubcatchment.jpg)
 Tributary 05 - the Colonia subcatchment. (Eustace Barnes)
 
+
+![Site T05A - the study site. (John Forrest)](/assets/SiteDescriptions/T5/T5AStudysite.JPG)
+Site T05A - the study site. (John Forrest)
+
+
+![Site T05A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T5/T5AViewdownstream.JPG)
+Site T05A - View downstream from the study site. (John Forrest)
+
+
+![Site T05A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T5/T5AViewupstream.JPG)
+Site T05A - View upstream from the study site. (John Forrest)
+
