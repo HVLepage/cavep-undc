@@ -50,9 +50,18 @@ The principal anthropic impact at the elevations is usually the periodic burning
 The flora and fauna at this elevation is dominated by high elevation components and communities. Cream-winged and White-winged Cinclodes, Striated Earthcreeper, Peruvian and Plumbeous Sierra Finches are common. In the taller bunch grass Streak-throated and Cordilleran Canasteros are widespread and fairly common. Andean goose, Andean and Puna Ibis are found feeding in the wetter soils higher up. 
 
 
-![Tributary T11 - the Vilca subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T11A/T11AVilcasubcatchment2.jpg)
+![Tributary T11 - the Vilca subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T11/T11AVilcasubcatchment2.jpg)
 Tributary 11 - the Vilca subcatchment. (Eustace Barnes)
 
 
-![Site T11A - the study site. (John Forrest)](/assets/SiteDescriptions/T11A/T11AStudySite.jpg)
+![Site T11A - the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11AStudySite.jpg)
 Site T11A - the study site. (John Forrest)
+
+
+![Site T11A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11AViewdownstream.jpg)
+Site T11A - View downstream from the study site. (John Forrest)
+
+
+![Site T11A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11AViewupstream.jpg)
+Site T11A - View upstream from the study site. (John Forrest)
+
