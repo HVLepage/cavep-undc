@@ -59,3 +59,15 @@ The study site which is dominated by alders, agaves, and tall natural scrub. Abo
 
 ![Tributary T08 - the Laraos subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T8/T8Laraossubcatchment.jpg)
 Tributary 08 - the Laraos subcatchment. (Eustace Barnes)
+
+
+![Site T08A - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8AStudysite.JPG)
+Site T08A - the study site. (John Forrest)
+
+
+![Site T08A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8AViewdownstream.JPG)
+Site T08A - View downstream from the study site. (John Forrest)
+
+
+![Site T08A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8AViewupstream2.JPG)
+Site T08A - View upstream from the study site. (John Forrest)
