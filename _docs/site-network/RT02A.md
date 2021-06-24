@@ -52,3 +52,15 @@ The banks are lined with scattered willow and some acacia scrub. The cultivation
 
 ![Tributary T02 - the Lincha subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T2/T2Linchasubcatchment.jpg)
 Tributary 02 - the Lincha subcatchment. (Eustace Barnes)
+
+
+![Site T02A - the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2AStudysite.JPG)
+Site T02A - the study site. (John Forrest)
+
+
+![Site T02A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2AViewdownstream.JPG)
+Site T02A - View downstream from the study site. (John Forrest)
+
+
+![Site T02A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2AViewupstream.JPG)
+Site T02A - View upstream from the study site. (John Forrest)
