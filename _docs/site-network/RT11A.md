@@ -35,10 +35,6 @@ The following river and water quality data was collected from this site:
 | Alkalinity (mg/l CaCO3)      |    -   |
 
 
-![Site T11A - the study site. (John Forrest)](/assets/SiteDescriptions/T11A/T11AStudySite)
-Site T11A - the study site. (John Forrest)
-
-
 ### Data Analysis
 Discharge for this small tributary is low. It will fluctuate throughout the year and have a flashy storm profile.
 
@@ -52,3 +48,6 @@ There is no agricultural cultivation taking place, with pastoralism dominating a
 The principal anthropic impact at the elevations is usually the periodic burning of hillsides. This being undertaken in the mistaken belief that it creates good grazing. However, given the intensity of stocking and the impact on the drying of hillsides, degradation of soils and increased levels of erosion this is a practice best avoided. 
 
 The flora and fauna at this elevation is dominated by high elevation components and communities. Cream-winged and White-winged Cinclodes, Striated Earthcreeper, Peruvian and Plumbeous Sierra Finches are common. In the taller bunch grass Streak-throated and Cordilleran Canasteros are widespread and fairly common. Andean goose, Andean and Puna Ibis are found feeding in the wetter soils higher up. 
+
+![Site T11A - the study site. (John Forrest)](/assets/SiteDescriptions/T11A/T11AStudySite)
+Site T11A - the study site. (John Forrest)
