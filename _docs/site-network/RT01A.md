@@ -59,9 +59,9 @@ Tributary 01 - the Vinak subcatchment. (Eustace Barnes)
 Site T01A - the study site. (John Forrest)
 
 
-![Site T01A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewdownstream.JPG)
+![Site T01A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewdownstream2.JPG)
 Site T01A - View downstream from the study site. (John Forrest)
 
 
-![Site T01A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewupstream2.JPG)
+![Site T01A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewupstream.JPG)
 Site T01A - View upstream from the study site. (John Forrest)
