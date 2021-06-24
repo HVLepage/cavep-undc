@@ -45,6 +45,6 @@ Sites T10a lies in the arid temperate zone below the small village of Miraflores
 There is little or no agricultural cultivation, with pastoralism dominating any rural land use. There are smaller areas of terracing on steeper slopes along the Rio Miraflores valley and the Rio Canete valley opposite the confluence. The valley here lies within the Reserva Paisajistica Nor Yauyos-Cochas and the valley sides also have extensive areas of pacific relictual woodlands. 
 
 
-![Tributary T10 - the Miraflores subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T10/T10Mirafloressubcatchment2.jpg)
+![Tributary T10 - the Miraflores subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T10/T10Mirafloressubcatchment.jpg)
 Tributary 10 - the Miraflores subcatchment. (Eustace Barnes)
 
