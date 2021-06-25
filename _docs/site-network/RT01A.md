@@ -55,13 +55,25 @@ The progressive drying of the west flank ridges and high Andean habitats will co
 Tributary 01 - the Vinak subcatchment. (Eustace Barnes)
 
 
-![Site T01A - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AStudysite.jpg)
+![Site T01A - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AStudysitedryriverbed(July2019site).JPG)
 Site T01A - the study site. (John Forrest)
 
 
-![Site T01A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewdownstream.jpg)
+![Site T01A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewdownstream(July2019site).JPG)
 Site T01A - View downstream from the study site. (John Forrest)
 
 
-![Site T01A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewupstream.jpg)
+![Site T01A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewupstream%20(July%202019%20site).JPG)
+Site T01A - View upstream from the study site. (John Forrest)
+
+
+![Site T01A - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AStudysite(Nov2019site).JPG)
+Site T01A - the study site. (John Forrest)
+
+
+![Site T01A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewdownstream(Nov2019site).JPG)
+Site T01A - View downstream from the study site. (John Forrest)
+
+
+![Site T01A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewupstream(Nov.2019site).JPG)
 Site T01A - View upstream from the study site. (John Forrest)
