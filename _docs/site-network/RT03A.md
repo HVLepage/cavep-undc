@@ -58,9 +58,5 @@ Tributary 03 - the Tupe subcatchment. (Eustace Barnes)
 Site T03A - the study site. (John Forrest)
 
 
-![Site T03A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T3/T3AViewdownstream.JPG)
-Site T03A - View downstream from the study site. (John Forrest)
-
-
 ![Site T03A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T3/T3AViewupstream.JPG)
 Site T03A - View upstream from the study site. (John Forrest)
