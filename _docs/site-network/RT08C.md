@@ -36,6 +36,12 @@ The following river and water quality data was collected from this site:
 | Alkalinity (mg/l CaCO3)      |   -   |
 
 ### Data Analysis
+Discharge consists of measurements taken from the three main channels flowing from the spring (mantanial).                                                                   
+At well over 3500m asl the DO readings at T8c fall within the range to be expected. The measurements for DO, conductivity and total solids are also as expected. It is likely that the source of the main spring is augmented by a series of groundwater springs throughout the valley and therefore, the difference is only slight. The karst scenery in this area is known for its caves - the deepest, high altitude cave system in the world is located a short distance upstream of the site.
+
+
+### Site Description
+(Please refer to Site T08B).
 
 
 ![Site T08C - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8CMantanial.JPG)
