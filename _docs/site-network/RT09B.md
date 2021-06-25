@@ -34,3 +34,15 @@ The following river and water quality data was collected from this site:
 | Alkalinity (mg/l CaCO3)      |   -   |
 
 ### Data Analysis
+
+
+![Site T09B - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9BStudysite.JPG)
+Site T09B - the study site. (John Forrest)
+
+
+![Site T09B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9BViewdownstream.JPG)
+Site T09B - View downstream from the study site. (John Forrest)
+
+
+![Site T09B - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9BViewupstream.JPG)
+Site T09B - View upstream from the study site. (John Forrest)
