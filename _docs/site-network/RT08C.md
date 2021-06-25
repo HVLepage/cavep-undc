@@ -38,5 +38,5 @@ The following river and water quality data was collected from this site:
 ### Data Analysis
 
 
-![Site T08C - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8CStudysite.JPG)
+![Site T08C - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8CManantial.JPG)
 Site T08C - the study site. (John Forrest)
