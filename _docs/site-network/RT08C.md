@@ -36,3 +36,7 @@ The following river and water quality data was collected from this site:
 | Alkalinity (mg/l CaCO3)      |   -   |
 
 ### Data Analysis
+
+
+![Site T08C - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8CStudysite.JPG)
+Site T08C - the study site. (John Forrest)
