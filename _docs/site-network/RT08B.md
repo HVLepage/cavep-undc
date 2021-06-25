@@ -35,8 +35,10 @@ The following river and water quality data was collected from this site:
 | Alkalinity (mg/l CaCO3)  |   -   |
 
 ### Data Analysis
-Discharge at this point along the Rio Laraos combines the two measurements from the stream just above Puente Union and the spring (manantial).                                                                   
-At well over 3500m asl the DO readings at T8b fall within the range to be expected. The measurements for DO, conductivity and total solids are also as expected. The karst scenery in this area is known for its caves - the deepest, high altitude cave system in the world is located a short distance upstream of the site.
+Discharge at this point along the Rio Laraos combines the two measurements from the stream just above Puente Union and the spring (mantanial).                     
+
+At well over 3500m asl the DO readings at T8b fall within the range to be expected. The measurements for DO, conductivity and total solids are also as expected. 
+
 Our next samples from this sub-catchment may be from the higher headwaters.
 
 
