@@ -50,7 +50,7 @@ There is limited agricultural cultivation. Historically, the terraced valleys wo
 Tributary 09 - the Alis subcatchment. (Eustace Barnes)
 
 
-![Site T09A - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9AStudysite.JPG)
+![Site T09A - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9AViewupstream.JPG)
 Site T09A - the study site. (John Forrest)
 
 
