@@ -41,7 +41,7 @@ The following river and water quality data was collected from this site:
 Site T08B - the study site. (John Forrest)
 
 
-![Site T08B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8BViewimmediatelydownstream.JPG)
+![Site T08B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8BViewdownstream.JPG)
 Site T08B - View downstream from the study site. (John Forrest)
 
 
