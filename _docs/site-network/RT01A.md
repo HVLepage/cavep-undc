@@ -67,11 +67,11 @@ Site T01A - View downstream from the study site. (John Forrest)
 Site T01A - View upstream from the study site. (John Forrest)
 
 
-![Site T01A - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AStudysite(Nov2019site).JPG)
+![Site T01A - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AStudysite(Nov.2019site).JPG)
 Site T01A - the study site. (John Forrest)
 
 
-![Site T01A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewdownstream(Nov2019site).JPG)
+![Site T01A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewdownstream(Nov.2019site).JPG)
 Site T01A - View downstream from the study site. (John Forrest)
 
 
