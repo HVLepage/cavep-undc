@@ -55,12 +55,12 @@ There is little or no natural vegetation remaining in the lower valley and much 
 
 
 ![Site RC02 - the study site. (John Forrest)](/assets/SiteDescriptions/RC02/RC02Studysite.JPG)
-Site RC02 - the study site. (John Forrest)
+Site RC02a - the study site. (John Forrest)
 
 
 ![RC11 View upstream](/assets/SiteDescriptions/RC02/RC02Viewupstream.JPG)
-Site RC02 - View upstream. (John Forrest)
+Site RC02a - View upstream. (John Forrest)
 
 
 ![RC08 View downstream](/assets/SiteDescriptions/RC02/RC02Viewdownstream.JPG)
-Site RC02 - View downstream. (John Forrest)
+Site RC02a - View downstream. (John Forrest)
