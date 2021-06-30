@@ -55,7 +55,7 @@ The progressive drying of the west flank ridges and high Andean habitats will co
 Tributary 01 - the Vinak subcatchment. (Eustace Barnes)
 
 
-![Site T01A - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/RT01ALowerVinakvalley.jpg)
+![Site T01A - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/RT01ALower%20Vinakvalley.jpg)
 Site T01A - the (new) study site location: just above Llangastambo. (John Forrest)
 
 
