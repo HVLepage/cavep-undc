@@ -53,6 +53,10 @@ At this sample point the channel is flowing across a broad outwash fan in a chan
 Tributary 05 - the Colonia subcatchment. (Eustace Barnes)
 
 
+![Site T05A - the study site location. (John Forrest)](/assets/SiteDescriptions/T5/RT05ALowerColoniavalley.jpg)
+Site T05A - the study site location: just up from Puente Auco. (John Forrest)
+
+
 ![Site T05A - the study site. (John Forrest)](/assets/SiteDescriptions/T5/T5AStudysite.JPG)
 Site T05A - the study site. (John Forrest)
 
