@@ -54,6 +54,10 @@ The banks are lined with scattered willow and some acacia scrub. The cultivation
 Tributary 02 - the Lincha subcatchment. (Eustace Barnes)
 
 
+![Site T02A - the study site location. (John Forrest)](/assets/SiteDescriptions/T2/RT02ALowerLinchavalley.jpg)
+Site T02A - the study site location: just below Puente Huayllampi. (John Forrest)
+
+
 ![Site T02A - the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2AStudysite.JPG)
 Site T02A - the study site. (John Forrest)
 
