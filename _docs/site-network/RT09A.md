@@ -51,7 +51,7 @@ Tributary 09 - the Alis subcatchment. (Eustace Barnes)
 
 
 ![Site T09A - the study site location. (John Forrest)](/assets/SiteDescriptions/T9/RT9ALowerAlisvalley.jpg)
-Site T09A - the study site location. (John Forrest)
+Site T09A - the study site location just below the town of Alis. (John Forrest)
 
 
 ![Site T09A - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9AViewupstream.JPG)
