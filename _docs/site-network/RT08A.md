@@ -61,6 +61,10 @@ The study site which is dominated by alders, agaves, and tall natural scrub. Abo
 Tributary 08 - the Laraos subcatchment. (Eustace Barnes)
 
 
+![Site T08A - the study site location. (John Forrest)](/assets/SiteDescriptions/T8/RT08ALowerLaraosvalley.jpg)
+Site T08A - the study site location: just beside the main valley highway. (John Forrest)
+
+
 ![Site T08A - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8AStudysite.JPG)
 Site T08A - the study site. (John Forrest)
 
