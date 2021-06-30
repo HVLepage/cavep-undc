@@ -56,6 +56,10 @@ In the upper parts of this sub-catchment agriculture is low intensity and tradit
 Tributary 07 - the Huantan subcatchment. (Eustace Barnes)
 
 
+![Site T07A - the study site location. (John Forrest)](/assets/SiteDescriptions/T7/RT7ALowerHuantanvalley.jpg)
+Site T07A - the study site location just above the Huantan turn off at Tingo. (John Forrest)
+
+
 ![Site T07A - the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7AStudysite.JPG)
 Site T07A - the study site. (John Forrest)
 
