@@ -52,7 +52,7 @@ Above the cultivated areas valley sides are arid, supporting a xeric vegetation 
 Tributary 06 - the Yauyos subcatchment. (Eustace Barnes)
 
 
-![Site T06A - the study site location. (John Forrest)](/assets/SiteDescriptions/T6/RT6ALowerYauyosvalley.jpg)
+![Site T06A - the study site location. (John Forrest)](/assets/SiteDescriptions/T6/RT06ALowerYauyosvalley.jpg)
 Site T06A - the study site location: below the bridge on the main Canete valley highway. (John Forrest)
 
 
