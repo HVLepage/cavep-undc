@@ -50,7 +50,7 @@ Tributary 10 - the Miraflores subcatchment. (Eustace Barnes)
 
 
 ![Site T10A - the study site location. (John Forrest)](/assets/SiteDescriptions/T10/RT10ALowerMirafloresvalley.jpg)
-Site T10A - the study site location just below the town of Alis. (John Forrest)
+Site T10A - the study site location just below Puente Chunque. (John Forrest)
 
 
 ![Site T10A - the study site. (John Forrest)](/assets/SiteDescriptions/T10/T10AStudysite.JPG)
