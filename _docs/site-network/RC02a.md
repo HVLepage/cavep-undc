@@ -53,6 +53,9 @@ The banks are lined with extensive river cane scattered acacia and stands of stu
 There is little or no natural vegetation remaining in the lower valley and much of what was open desert on the coastal plain has been irrigated and is now highly productive agricultural lands. The water quality in the river at lower elevations is severely impacted by agricultural run-off and sewage disposal. The wider environment and fauna in the valley are largely determined by agriculture with many species expanding their range and abundance to occupy newly created agricultural lands. Desert fauna and flora has decreased accordingly. The impact of water quality on the health of the environment and populations of wildlife occupying these lands is the subject of some aspects of our study here. The valley is intensively cultivated at this elevation. The production of avocado dominates along with viticulture, ajo (garlic), aji (peppers) together with limited areas of apple, pear, and citrus orchards. There are smaller areas of sugar cane, a crop which dominates land use further north. 
 
 
+![RC02a View upstream](/assets/SiteDescriptions/RC02/RC02aBelowPuenteSocsi.jpg)
+Site RC02a - Study site location: below Puente Socsi. (John Forrest)
+
 
 ![Site RC02 - the study site. (John Forrest)](/assets/SiteDescriptions/RC02/RC02Studysite.JPG)
 Site RC02a - the study site. (John Forrest)
