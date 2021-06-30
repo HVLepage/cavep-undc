@@ -54,6 +54,10 @@ The flora and fauna at this elevation is dominated by high elevation components 
 Tributary 11 - the Vilca subcatchment. (Eustace Barnes)
 
 
+![Site T11A - the study site location. (John Forrest)](/assets/SiteDescriptions/T11/RT11ALowerCochasvalley.jpg)
+Site T11A - the study site location just above the old turn off to Vilca. (John Forrest)
+
+
 ![Site T11A - the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11AStudysite.JPG)
 Site T11A - the study site. (John Forrest)
 
