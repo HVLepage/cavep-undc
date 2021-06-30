@@ -51,6 +51,10 @@ High above the settlement of Tomas there are areas of bofedales and polylepis gr
 This valley is the principal transport route to Huancayo, with daily bus services to that city. Above the Mina Yauricocha the road widens and is also used by heavy trucks to access the mining centre of La Oroya. 
 
 
+![Site T09B - the study site location. (John Forrest)](/assets/SiteDescriptions/T9/RT9BMiddleAlisvalley.jpg)
+Site T09B - the study site location just above Puente Huancachi. (John Forrest)
+
+
 ![Site T09B - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9BStudysite.JPG)
 Site T09B - the study site. (John Forrest)
 
