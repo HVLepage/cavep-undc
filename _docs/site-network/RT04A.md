@@ -56,7 +56,7 @@ Tributary 04 - the Ayauca subcatchment. (Eustace Barnes)
 
 
 ![Site T04A - the study site location. (John Forrest)](/assets/SiteDescriptions/T4/RT04ALowerAyaucavalley.jpg)
-Site T04A - the study site location: just up from the main valley highway. (John Forrest)
+Site T04A - the study site location: just above the village of Calchota and up from the main valley highway. (John Forrest)
 
 
 ![Site T04A - the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4AStudysite.JPG)
