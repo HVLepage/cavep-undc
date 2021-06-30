@@ -54,6 +54,10 @@ At this point in the sub-catchment farming is not practised to any great extent.
 Tributary 03 - the Tupe subcatchment. (Eustace Barnes)
 
 
+![Site T03A - the study site location. (John Forrest)](/assets/SiteDescriptions/T3/RT3ALowerTupevalley.jpg)
+Site T03A - the study site location: just beside the settlement of Catahuasi. (John Forrest)
+
+
 ![Site T03A - the study site. (John Forrest)](/assets/SiteDescriptions/T3/T3AStudysite.JPG)
 Site T03A - the study site. (John Forrest)
 
