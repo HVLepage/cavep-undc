@@ -5,8 +5,8 @@ permalink: /docs/RT08C/
 
 
 
-Site Code: RT08C.  GPS: S12°21.721, W75°45.699. Elevation:
-3740m asl.
+Site Code: RT08C.  GPS: S12°36286, W75°763187. Elevation:
+3734m asl.
 
 ### Water Quality Data
 
