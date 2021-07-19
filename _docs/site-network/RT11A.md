@@ -4,8 +4,8 @@ permalink: /docs/RT11A/
 ---
 
 
-Site Code: RT11A.  GPS: S12°06.991, W75°49.081. Elevation:
-3880m asl.
+Site Code: RT11A.  GPS: S12°11645, W75°818042. Elevation:
+3890m asl.
 
 ### Water Quality Data
 
