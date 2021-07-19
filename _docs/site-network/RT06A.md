@@ -4,8 +4,8 @@ permalink: /docs/RT06A/
 ---
 
 
-Site Code: RT06A.  GPS: S12°37.862, W75°58.689. Elevation:
-2345m asl.
+Site Code: RT06A.  GPS: S12°46423, W75°896173. Elevation:
+2379m asl.
 
 ### Water Quality Data
 
