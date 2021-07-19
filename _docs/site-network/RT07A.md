@@ -4,8 +4,8 @@ permalink: /docs/RT07A/
 ---
 
 
-Site Code: RT07A.  GPS: S12°25.548, W75°50.853. Elevation:
-2572m asl.
+Site Code: RT07A.  GPS: S12°42603, W75°848726. Elevation:
+2679m asl.
 
 ### Water Quality Data
 
