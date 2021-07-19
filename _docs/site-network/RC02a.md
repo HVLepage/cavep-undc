@@ -6,7 +6,7 @@ permalink: /docs/RC02a/
 <iframe width="100%" height="640" allowfullscreen style="border-style:none;" src="https://cavep-undc-hosting.netlify.com/sites/RC02a/app-files/"></iframe>
 
 
-Site Code: RC02a.  GPS: S13°03.575, W76°20.5815. Elevation:
+Site Code: RC02a.  GPS: S13°03575, W76°205815. Elevation:
 294m asl.
 
 ### Water Quality Data
