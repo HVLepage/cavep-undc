@@ -3,8 +3,8 @@ title: RT04A - Allauca bajo
 permalink: /docs/RT04A/
 ---
 
-Site Code: RT04A.  GPS: S12°48.040, W75°53.452. Elevation:
-1740m asl.
+Site Code: RT04A.  GPS: S12°62956, W75°979014. Elevation:
+1745m asl.
 
 ### Water Quality Data
 
@@ -29,7 +29,7 @@ The following river and water quality data was collected from this site:
 | pH                           | 5.95                          | 8.87                     |
 | Conductivity (µS/cm)         | 248                           | 236                      |
 | Total Dissolved Solids (ppm) | 124                           | 118                      |
-| ORP (mV)                     | 342.7                         | 132.7                   |
+| ORP (mV)                     | 342.7                         | 132.7                    |
 | Turbidity                    | Clear                         | Clear: slight green colouration |
 | Alkalinity (mg/l CaCO3)      | Pink to colourless 111 (1.6N) |  -                       |
 
