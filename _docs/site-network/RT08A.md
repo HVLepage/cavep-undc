@@ -6,8 +6,8 @@ permalink: /docs/RT08A/
 
 
 
-Site Code: RT08A.  GPS: S12°20.174, W75°49.811. Elevation:
-2914m asl.
+Site Code: RT08A.  GPS: S12°33656, W75°825343. Elevation:
+2924m asl.
 
 ### Water Quality Data
 
