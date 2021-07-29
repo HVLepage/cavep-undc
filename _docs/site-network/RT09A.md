@@ -4,8 +4,8 @@ permalink: /docs/RT09A/
 ---
 
 
-Site Code: RT09A.  GPS: S12°17.164, W75°47.288. Elevation:
-3231m asl.
+Site Code: RT09A.  GPS: S12°28671, W75°787584. Elevation:
+3254m asl.
 
 ### Water Quality Data
 
