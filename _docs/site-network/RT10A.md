@@ -4,8 +4,8 @@ permalink: /docs/RT10A/
 ---
 
 
-Site Code: RT10A.  GPS: S12°15.384, W75°42.935. Elevation:
-3338m asl.
+Site Code: RT10A.  GPS: S12°27948, W75°816499. Elevation:
+3262m asl.
 
 ### Water Quality Data
 
