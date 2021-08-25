@@ -1,5 +1,5 @@
 ---
-title: RT01A - Rio Vinac
+title: RT01A - Rio Viñac
 permalink: /docs/RT01A/
 ---
 

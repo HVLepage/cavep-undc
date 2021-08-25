@@ -1,5 +1,5 @@
 ---
-title: RT08C - Rio Laraos
+title: RT08C - Laraos mantanial (spring)
 permalink: /docs/RT08C/
 ---
 
