@@ -5,7 +5,7 @@ permalink: /docs/RT08B/
 
 
 Site Code: RT08B.  GPS: S12°36259, W75°763129. Elevation:
-3735m asl.
+3730m asl.
 
 ### Water Quality Data
 
