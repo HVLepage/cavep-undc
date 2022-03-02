@@ -27,6 +27,7 @@
     - link: /docs/RC15/
     - link: /docs/RC16/
     - link: /docs/RT01A/
+    - link: /docs/RT01B/ 
     - link: /docs/RT02A/
     - link: /docs/RT03A/
     - link: /docs/RT04A/
@@ -40,6 +41,7 @@
     - link: /docs/RT09B/
     - link: /docs/RT10A/
     - link: /docs/RT11A/
+
 - title: Camarone Collection Point
   docs:
     - link: /docs/RC02b/
