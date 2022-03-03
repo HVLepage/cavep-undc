@@ -1,5 +1,5 @@
 ---
-title: 'Online platform is realeased!'
+title: 'Online platform is released!'
 date: 2019-12-09 16:30:00 
 author: hvlepage
 version: 1.0.0
