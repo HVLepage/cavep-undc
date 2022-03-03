@@ -1,1 +1,17 @@
+---
+title: 'Webinar 11: Peter Newton'
+date: 2022-02-22 15:30:00 
+author: hvlepage
+category: talks
+---
 
+The eleventh online lecture series was broadcasted from the University of Cambridge and the Universidad Nacional de Cañete to members of the public. 
+
+[![Online Webinar](/assets/posts/20212151-webinar.png)](https://www.facebook.com/Unicanete.peru/videos/xiii-videoconferencia-avances-del-proyecto-de-investigaci%C3%B3n-sobre-el-impacto-de-/1218927411967344)
+
+
+Speaker: Dr Peter Newton
+
+Title: “Composite Element Barcodes for Water Quality Testing – Latest Developments in Magnetic Properties” / “Composite Element Barcodes for Water Quality Testing – Latest Developments in Magnetic Properties”.
+
+Abstract: 
