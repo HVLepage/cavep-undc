@@ -10,7 +10,7 @@ The fifth online lecture series was broadcasted from the University of Cambridge
 [![Online Webinar](/assets/posts/20201006-webinar.png)](https://www.facebook.com/Universidad-Nacional-de-Ca%C3%B1ete-134369873573109/videos/376959363331168)
 
 
-Speaker: Alex Pacheco, Katherine Sánchez
+Speaker: Alex Pacheco & Katherine Sánchez
 
 Title: Fotogrametría con RPAS
 
