@@ -17,7 +17,7 @@ Elevation:   ???
 [Full screen panorama](/cavep-canete/assets/pannellum.htm#config=/cavep-canete/assets/docs/canete-sites/RC01/multiresolution.json)
 <iframe width="100%" height="640" allowfullscreen style="border-style:none;" src="/cavep-canete/assets/pannellum.htm#config=/cavep-canete/assets/docs/canete-sites/RC01/multiresolution.json"></iframe>
 
-### Site Code: RC2a
+### Site Code: RC02a
 Latitude: 13° 2' 8.1" S   
 Longitude: 76° 12' 20.616" W    
 Elevation:   ???   
@@ -25,7 +25,7 @@ Elevation:   ???
 
 <iframe width="100%" height="640" allowfullscreen style="border-style:none;" src="/cavep-canete/assets/pannellum.htm#config=/cavep-canete/assets/docs/canete-sites/RC2a/multiresolution.json"></iframe>
 
-### Site Code: RC2b
+### Site Code: RC02b
 Latitude: 13° 1' 42.194" S  
 Longitude: 76° 11' 39.06" W  
 Elevation:   ???   
