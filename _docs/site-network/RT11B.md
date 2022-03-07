@@ -24,3 +24,8 @@ Bed load in the river channel is comprised almost entirely of smaller stones, la
 There is no agricultural cultivation taking place, the banks and hillsides are lined with open pasture where cattle and alpacas graze. However, there is evidence of more intensive land use having taken place in the past; old corrals being located nearby. 
 Andean goose, Andean and Puna Ibis are found feeding in the wetter soils and marshland.  
 There are no permanent settlements higher up the valley. 
+
+
+![Site T11B - the study site. (John Forrest)](/assets/SiteDescriptions/T11B/T11Bstudysite.JPG)
+Site T11B - the study site (Nov.2021. (John Forrest)
+
