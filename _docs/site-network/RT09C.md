@@ -7,3 +7,20 @@ Site Code: RT09C.  GPS: S12°277975, W75°644980. Elevation:
 4180m asl.
 
 ### Water Quality Data
+
+The following river and water quality data was collected from this site: (to be added)
+
+### Data Analysis
+
+Discharge at this point on the Rio Alis was very low suggesting that the rains had not yet started in the headwaters of this sub-catchment. 
+At nearly 4200m asl the DO readings at T9c were lower than at many other sites but still fall within the range to be expected for a November data set. 
+The conductivity reading at this site (773 µS/cm) is slightly higher than is expected for a site located above all major settlements within a sub-catchment but probably reflects local geological conditions and weathering processes in the river channel, but this is yet to be determined. 
+The pH reading of 7.92, is as expected. At these levels the alkalinity of the river is suitable for aquatic life and indicative of clean water. 
+
+### Site description
+
+Site T9c lies in the Rio Alis valley at 4180m asl. The valley at this point is wide with a u-shaped profile and a wide flood-plain though there is little evidence of the river frequently overflowing its narrow channel.
+Bed load in the river channel is comprised almost entirely of smaller sediment material. River flow in the Rio Alis is year-round and makes a significant input to the Rio Cañete further downstream.
+There is no agricultural cultivation taking place, the banks and hillsides are lined with open pasture where cattle and alpacas graze. However, there is some evidence of more intensive land use having taken place in the past; old corrals being located nearby. 
+Andean goose, Andean and Puna Ibis are found feeding in the wetter soils and marshland.  
+There is only permanent settlement (homestead) slightly higher up the valley. 
