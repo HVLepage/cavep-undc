@@ -26,7 +26,7 @@ Andean goose, Andean and Puna Ibis are found feeding in the wetter soils and mar
 There are no permanent settlements higher up the valley. 
 
 
-![Site T11B - the study site. (John Forrest)](/assets/SiteDescriptions/T11B/T11B Site.JPG)
+![Site T11B - the study site. (John Forrest)](/assets/SiteDescriptions/T11B/T11BSite.JPG)
 Site T11B - the study site (Nov.2021. (John Forrest)
 
 ![Site T11B - the study site. (John Forrest)](/assets/SiteDescriptions/T11B/T11BViewupstream.JPG)
