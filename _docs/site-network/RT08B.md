@@ -53,7 +53,7 @@ In the upper parts of this sub-catchment agriculture is pastoral. The road is us
 
 
 ![Site T08B - the study site location. (John Forrest)](/assets/SiteDescriptions/T8/RT8B&RT8CMiddleLaraos.jpg)
-Site T08B & T08C - the study site locations: T08B just below Puente Union & T08C in the mantanial, just above Puente Union. (John Forrest)
+Site T08B & T08C - the study site locations: T08B just below Puente Union & T08C just above Puente Union - in the mantanial (Nov.2019) & just above the mantanial (Nov.2021). (John Forrest)
 
 
 ![Site T08B - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8BStudysite.JPG)
