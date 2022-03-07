@@ -7,3 +7,22 @@ Site Code: RT04B.  GPS: S12°588960, W75°040085. Elevation:
 3114m asl.
 
 ### Water Quality Data
+
+The following river and water quality data was collected from this site: (to be added)
+
+### Recommendation – 
+To switch the sample site to a location immediately above the settlement of Aucampi on the main Rio Allauca channel next time.
+
+### Data Analysis
+
+The sample was taken from an irrigation canal emanating from the third / fourth largest tributary of the Rio Allauca. Water from another small tributary entered the canal at this point but contributed a minimal amount to the flow.
+At just over 3100m asl the DO readings at T4b fall within the range to be expected for a November data set. 
+The conductivity reading at this site (131 µS/cm) is as expected for a site located high in the sub-catchment above all settlements. It suggests ideal conditions for aquatic life.
+The pH reading of 8.34, is as expected. At these levels the alkalinity of the river is highly suitable for aquatic life and indicative of clean water. 
+
+### Site description
+
+Site T4b as sampled on this occasion, is an irrigation canal transferring water from the third or fourth main tributary of the Rio Allauca a short distance upstream, to the settlements of Allauca and Aucampi, lower down the valley. The site is at the point where the canal crosses another small tributary valley. Potentially, some water from this small tributary can enter  the canal.
+The site lies in the Rio Allauca valley at 3114m asl, a short distance above the settlement of Allauca. The small tributary valley at this point is narrow with a v-shaped profile, very steep sided and with a very narrow flood-plain. The main valley below is much wider.
+The canal flows year-round, delivering a constant input to the settlements and irrigated land lower down the valley.
+Eucalyptus trees, shrubs and grasses surround the site and there is evidence of grazing animals passing by.
