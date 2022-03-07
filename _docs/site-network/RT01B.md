@@ -8,7 +8,7 @@ Site Code: RT01B.  GPS: S12°923350, W75°712100. Elevation:
 
 ### Water Quality Data
 
-
+The following river and water quality data was collected from this site: (to be added)
 
 ### Data Analysis  
 
