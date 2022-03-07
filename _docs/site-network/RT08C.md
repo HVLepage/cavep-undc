@@ -45,6 +45,6 @@ At well over 3500m asl the DO readings at T8c fall within the range to be expect
 
 
 ![Site T08C - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8CMantanial.JPG)
-Site T08C - the study site (Nov.2019). (John Forrest)
+Site T08C - the mantanial study site (Nov.2019) & new study site above the mantanial - channel to the left in the photo (Nov.2021). (John Forrest)
 
 
