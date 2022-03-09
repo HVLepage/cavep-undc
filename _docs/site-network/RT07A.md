@@ -1,5 +1,5 @@
 ---
-title: RT07A - Rio Huantan
+title: RT07A - Lower Huantan
 permalink: /docs/RT07A/
 ---
 
