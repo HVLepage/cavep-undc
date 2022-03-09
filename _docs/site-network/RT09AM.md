@@ -25,3 +25,7 @@ The manantial appears to drain a significant area to the south of the Alis valle
 The study site is dominated by eucalyptus and tall natural scrub. 
 Water is drawn immediately from the manantial to supply the nearby settlement of Alis thereby reducing the discharge that it is possible to measure.
 
+
+![Site T9A.M - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9A.Manantial1.JPG)
+Site T09A.M - the study site (Nov.2021). (John Forrest)
+
