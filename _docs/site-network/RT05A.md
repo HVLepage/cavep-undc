@@ -1,5 +1,5 @@
 ---
-title: RT05A - Rio Colonia
+title: RT05A - Lower Colonia
 permalink: /docs/RT05A/
 ---
 
