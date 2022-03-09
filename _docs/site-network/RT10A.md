@@ -1,5 +1,5 @@
 ---
-title: RT10A - Rio Miraflores
+title: RT10A - Lower Miraflores
 permalink: /docs/RT10A/
 ---
 
