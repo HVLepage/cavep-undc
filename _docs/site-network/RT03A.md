@@ -1,8 +1,8 @@
 ---
-title: RT03A - Rio Tupe
+title: RT03A - Lower Tupe (Catahuasi)
 permalink: /docs/RT03A/
 ---
-RT03A - Rio Tupe
+RT03A - Lower Tupe (Catahuasi)
 
 Site Code: RT03A.  GPS: S12°80101, W75°891699. Elevation:
 1184m asl.
