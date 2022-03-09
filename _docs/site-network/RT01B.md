@@ -25,3 +25,14 @@ At this point the valley has narrowed to a gulley with a distinct v-shaped profi
 Bed load in the river channel is comprised of scattered large boulders and smaller stones. River flow in the Rio Viñak is year-round but delivers a minimal input to the Rio Ca\~nete. 
 The minimal input to the main Rio Canete channel is largely due to the high levels of water abstraction for terraced agriculture associated with the many settlements in the valley; including Huangascar, Viñak  and Madean.
 The study site is dominated by puna grasses and scrub but little or no aquatic plant life. 
+
+
+
+![Site T1B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1BSite.JPG)
+Site T01B - the study site (Nov.2021). (John Forrest)
+
+![Site T1B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1BViewupstream.JPG)
+Site T01B - the view upstream (Nov.2021). (John Forrest)
+
+![Site T1B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1BViewdownstream.JPG)
+Site T01B - the view downstream (Nov.2021). (John Forrest)
