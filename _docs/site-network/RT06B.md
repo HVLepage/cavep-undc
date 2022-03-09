@@ -1,5 +1,6 @@
-8 lines (5 sloc)  121 Bytes
-   
+---
+title: RT06B - Upper Yauyos
+permalink: /docs/RT06B/
 ---
 RT06B - Upper Yauyos
 
