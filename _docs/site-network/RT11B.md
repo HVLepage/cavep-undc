@@ -1,6 +1,6 @@
 ---
 title: RT11B - Upper Vilca
-permalink: /docs/RC11B/
+permalink: /docs/RT11B/
 ---
 RT11B - Upper Vilca
 
