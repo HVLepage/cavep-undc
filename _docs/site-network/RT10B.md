@@ -1,5 +1,6 @@
-8 lines (5 sloc)  121 Bytes
-   
+---
+title: RT10B - Upper Yauyos
+permalink: /docs/RT10B/
 ---
 RT10B - Upper Yauyos
 
