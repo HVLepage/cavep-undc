@@ -1,5 +1,5 @@
 ---
-title: RT06A - Rio Yauyos
+title: RT06A - Lower Yauyos
 permalink: /docs/RT06A/
 ---
 
