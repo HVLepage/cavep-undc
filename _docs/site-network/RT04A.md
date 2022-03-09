@@ -1,5 +1,5 @@
 ---
-title: RT04A - Allauca bajo
+title: RT04A - Lower Allauca
 permalink: /docs/RT04A/
 ---
 
