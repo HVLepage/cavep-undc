@@ -1,5 +1,5 @@
 ---
-title: RT08C - Laraos mantanial (spring)
+title: RT08C - Laraos manantial (spring)
 permalink: /docs/RT08C/
 ---
 
