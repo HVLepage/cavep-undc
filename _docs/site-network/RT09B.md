@@ -1,5 +1,5 @@
 ---
-title: RT09B -  Rio Alis
+title: RT09B -  Middle Alis (Above Puente Huancachi)
 permalink: /docs/RT09B/
 ---
 
