@@ -1,8 +1,8 @@
 ---
-title: RT10B - Upper Yauyos
+title: RT10B - Upper Miraflores
 permalink: /docs/RT10B/
 ---
-RT10B - Upper Yauyos
+RT10B - Upper Miraflores
 
 Site Code: RT10B.  GPS: S12°274660, W75°855145. Elevation:
 3683m asl.
