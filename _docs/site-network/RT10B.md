@@ -25,3 +25,12 @@ The study site is dominated by exotic eucalyptus plantations, tall shrubs and tr
 Just upstream is a small fish farm but no permanent settlement. There is access to the headwaters via a rough track. In the headwaters a new project has recently started to restore and enlarge bofedales to allow greater water storage and improve year round supply for agriculture and domestic use in the lower valley. 
 
 
+
+![Site T10B - the study site. (John Forrest)](/assets/SiteDescriptions/T10/T10BSSite.JPG)
+Site T10B - the study site (Nov.2021). (John Forrest)
+
+![Site T10B - the study site. (John Forrest)](/assets/SiteDescriptions/T10/T10Bviewupstream.JPG)
+Site T10B - the view upstream (Nov.2021). (John Forrest)
+
+![Site T10B - the study site. (John Forrest)](/assets/SiteDescriptions/T10/T10Bviewdownstream.JPG)
+Site T10B - the view downstream (Nov.2021). (John Forrest)
