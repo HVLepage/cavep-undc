@@ -1,5 +1,6 @@
-8 lines (5 sloc)  121 Bytes
-   
+---
+title: RT04B - Upper Allauca
+permalink: /docs/RT04B/
 ---
 RT04B - Upper Allauca
 
