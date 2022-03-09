@@ -1,8 +1,8 @@
 ---
-title: RT02A - Rio Lincha
+title: RT02A - Lower Lincha
 permalink: /docs/RT02A/
 ---
-RT02A - Rio Lincha (Puente Huayllampi)
+RT02A - Lower Lincha (Puente Huayllampi)
 
 Site Code: RT02A.  GPS: S12°80846, W75°896536. Elevation:
 1109m asl.
