@@ -2,7 +2,7 @@
 title: RT09C - Upper Alis
 permalink: /docs/RT09C/
 ---
-RT09C - Upper Alis
+
 
 Site Code: RT09C.  GPS: S12°277975, W75°644980. Elevation:
 4180m asl.
