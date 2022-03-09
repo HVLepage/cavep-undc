@@ -27,11 +27,11 @@ There are no permanent settlements higher up the valley and access is only by fo
 
 
 
-![Site T06B - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T06BSSite.JPG)
+![Site T06B - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6BSSite.JPG)
 Site T06B - the study site (Nov.2021). (John Forrest)
 
-![Site T06B - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T06BViewupstream.JPG)
+![Site T06B - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6BViewupstream.JPG)
 Site T06B - the view upstream (Nov.2021). (John Forrest)
 
-![Site T06B - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T06BViewdownstream.JPG)
+![Site T06B - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6BViewdownstream.JPG)
 Site T06B - the view downstream (Nov.2021). (John Forrest)
