@@ -28,11 +28,11 @@ The study site is dominated by puna grasses and scrub but little or no aquatic p
 
 
 
-![Site T1B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1BSite.JPG)
+![Site T01B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1BSite.JPG)
 Site T01B - the study site (Nov.2021). (John Forrest)
 
-![Site T1B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1BViewupstream.JPG)
+![Site T01B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1BViewupstream.JPG)
 Site T01B - the view upstream (Nov.2021). (John Forrest)
 
-![Site T1B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1BViewdownstream.JPG)
+![Site T01B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1BViewdownstream.JPG)
 Site T01B - the view downstream (Nov.2021). (John Forrest)
