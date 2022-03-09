@@ -1,5 +1,5 @@
 ---
-title: RT08B - Rio Laraos
+title: RT08B - Middle Laraos (Below Puente Union)
 permalink: /docs/RT08B/
 ---
 
