@@ -1,9 +1,7 @@
 ---
-title: RT08A -  Rio Laraos
+title: RT08A -  Lower Laraos
 permalink: /docs/RT08A/
 ---
-
-
 
 
 Site Code: RT08A.  GPS: S12°33656, W75°825343. Elevation:
