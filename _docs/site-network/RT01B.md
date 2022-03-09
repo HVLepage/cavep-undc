@@ -2,7 +2,7 @@
 title: RT01B - Upper Viñak
 permalink: /docs/RT01B/
 ---
-RT01B - Upper Viñak
+
 
 Site Code: RT01B.  GPS: S12°923350, W75°712100. Elevation:
 37070m asl.
