@@ -9,7 +9,31 @@ Site Code: RT04B.  GPS: S12°588960, W75°040085. Elevation:
 
 ### Water Quality Data
 
-The following river and water quality data was collected from this site: (to be added)
+The following river and water quality data was collected from this site: 
+
+|     T4b                                     |      November 2021    |
+|---------------------------------------------|:---------------------:|
+|     Season:                                 |     Austral Summer    |
+|     Date:                                   |        12.11.21       |
+|     Time:                                   |         13.45pm       |
+|     Width (m)                               |           0.4         |
+|     Depth (Av.) (m)                         |          0.15         |
+|     CSA (Av.) (m²)                          |          0.06         |
+|     Velocity (Av.) (m/s)                    |          1.56         |
+|     Discharge (Av.) (m³/s)                  |          0.095        |
+|     Riverbed sediment                       |            -          |
+|     Temp. (Atmospheric) (°C)                |           22          |
+|     Temp. (Water) (°C)                      |          16.59        |
+|     Atmospheric pressure (mbar)             |                       |
+|     Dissolved oxygen (mg/l)                 |          5.61         |
+|     Dissolved oxygen (%)                    |          81.23        |
+|     pH                                      |          8.34         |
+|     Conductivity (µS/cm)                    |           131         |
+|     Total Dissolved Solids (ppm)            |           65          |
+|     ORP (mV)                                |          56.5         |
+|     Turbidity                               |         Clear:        |
+|     Alkalinity (mg/l CaCO₃)                 |        78 (1.6N)      |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |           46          |
 
 ### Recommendation – 
 To switch the sample site to a location immediately above the settlement of Aucampi on the main Rio Allauca channel next time.
