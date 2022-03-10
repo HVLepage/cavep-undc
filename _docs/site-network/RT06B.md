@@ -9,7 +9,30 @@ Site Code: RT06B.  GPS: S12°457210, W75°924855. Elevation:
 
 ### Water Quality Data
 
-The following river and water quality data was collected from this site: (to be added)
+The following river and water quality data was collected from this site:
+|     T6b                                     |            November 2021           |
+|---------------------------------------------|:----------------------------------:|
+|     Season:                                 |            Austral Summer          |
+|     Date:                                   |               14.11.21             |
+|     Time:                                   |               11.15am              |
+|     Width (m)                               |                 3.6                |
+|     Depth (Av.) (m)                         |                 0.09               |
+|     CSA (Av.) (m²)                          |                 0.33               |
+|     Velocity (Av.) (m/s)                    |                 0.64               |
+|     Discharge (Av.) (m³/s)                  |                0.208               |
+|     Riverbed sediment                       |           Mainly Boulders          |
+|     Temp. (Atmospheric) (°C)                |                  20                |
+|     Temp. (Water) (°C)                      |                12.72               |
+|     Atmospheric pressure (mbar)             |                                    |
+|     Dissolved oxygen (mg/l)                 |                 6.08               |
+|     Dissolved oxygen (%)                    |                75.80               |
+|     pH                                      |                 7.39               |
+|     Conductivity (µS/cm)                    |                 107                |
+|     Total Dissolved Solids (ppm)            |                  53                |
+|     ORP (mV)                                |                127.05              |
+|     Turbidity                               |     Clear: very slightly turbid    |
+|     Alkalinity (mg/l CaCO₃)                 |              70 (1.6N)             |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |                  -                 |
 
 ### Data Analysis
 
