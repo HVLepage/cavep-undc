@@ -2,7 +2,7 @@
 title: RT11B - Upper Vilca
 permalink: /docs/RT11B/
 ---
-RT11B - Upper Vilca
+
 
 Site Code: RT11B.  GPS: S12°093520, W75°811620. Elevation:
 4080m asl.
