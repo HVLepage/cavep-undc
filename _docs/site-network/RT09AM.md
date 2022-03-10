@@ -9,7 +9,31 @@ Site Code: RT09A.M.  GPS: S12°266150, W75°768910. Elevation:
 
 ### Water Quality Data
 
-The following river and water quality data was collected from this site: (to be added)
+The following river and water quality data was collected from this site: 
+
+|     T9aM                                    |      November 2021    |
+|---------------------------------------------|:---------------------:|
+|     Season:                                 |     Austral Summer    |
+|     Date:                                   |        16.11.21       |
+|     Time:                                   |         9.00am        |
+|     Width (m)                               |          18.0         |
+|     Depth (Av.) (m)                         |          0.16         |
+|     CSA (Av.) (m²)                          |          2.88         |
+|     Velocity (Av.) (m/s)                    |          0.62         |
+|     Discharge (Av.) (m³/s)                  |          1.786        |
+|     Riverbed sediment                       |            -          |
+|     Temp. (Atmospheric) (°C)                |           17          |
+|     Temp. (Water) (°C)                      |          12.45        |
+|     Atmospheric pressure (mbar)             |                       |
+|     Dissolved oxygen (mg/l)                 |          3.22         |
+|     Dissolved oxygen (%)                    |          45.33        |
+|     pH                                      |          7.16         |
+|     Conductivity (µS/cm)                    |           920         |
+|     Total Dissolved Solids (ppm)            |           460         |
+|     ORP (mV)                                |          150.7        |
+|     Turbidity                               |         Clear:        |
+|     Alkalinity (mg/l CaCO₃)                 |       210 (1.6N)      |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |            -          |
 
 ### Data Analysis
 
