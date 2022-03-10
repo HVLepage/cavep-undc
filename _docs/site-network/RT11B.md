@@ -9,7 +9,31 @@ Site Code: RT11B.  GPS: S12°093520, W75°811620. Elevation:
 
 ### Water Quality Data
 
-The following river and water quality data was collected from this site: (to be added)
+The following river and water quality data was collected from this site: 
+
+|     T11b                                    |      November 2021    |
+|---------------------------------------------|:---------------------:|
+|     Season:                                 |     Austral Summer    |
+|     Date:                                   |        21.11.21       |
+|     Time:                                   |         12.45pm       |
+|     Width (m)                               |           3.0         |
+|     Depth (Av.) (m)                         |          0.04         |
+|     CSA (Av.) (m²)                          |          0.12         |
+|     Velocity (Av.) (m/s)                    |          0.67         |
+|     Discharge (Av.) (m³/s)                  |          0.080        |
+|     Riverbed sediment                       |     Mainly pebbles    |
+|     Temp. (Atmospheric) (°C)                |           10          |
+|     Temp. (Water) (°C)                      |          7.70         |
+|     Atmospheric pressure (mbar)             |                       |
+|     Dissolved oxygen (mg/l)                 |          5.56         |
+|     Dissolved oxygen (%)                    |          75.1         |
+|     pH                                      |          8.42         |
+|     Conductivity (µS/cm)                    |          1010         |
+|     Total Dissolved Solids (ppm)            |           505         |
+|     ORP (mV)                                |          113.0        |
+|     Turbidity                               |         Clear:        |
+|     Alkalinity (mg/l CaCO₃)                 |       172 (1.6N)      |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |            -          |
 
 ### Data Analysis
 
