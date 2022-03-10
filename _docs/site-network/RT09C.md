@@ -9,7 +9,31 @@ Site Code: RT09C.  GPS: S12°277975, W75°644980. Elevation:
 
 ### Water Quality Data
 
-The following river and water quality data was collected from this site: (to be added)
+The following river and water quality data was collected from this site:
+
+|     T9c                                     |       November 2021      |
+|---------------------------------------------|:------------------------:|
+|     Season:                                 |       Austral Summer     |
+|     Date:                                   |          18.11.21        |
+|     Time:                                   |           8.00am         |
+|     Width (m)                               |            2.05          |
+|     Depth (Av.) (m)                         |            0.07          |
+|     CSA (Av.) (m²)                          |            0.14          |
+|     Velocity (Av.) (m/s)                    |            0.16          |
+|     Discharge (Av.) (m³/s)                  |           0.023          |
+|     Riverbed sediment                       |     Pebbles & Cobbles    |
+|     Temp. (Atmospheric) (°C)                |             12           |
+|     Temp. (Water) (°C)                      |            8.08          |
+|     Atmospheric pressure (mbar)             |                          |
+|     Dissolved oxygen (mg/l)                 |            5.01          |
+|     Dissolved oxygen (%)                    |           69.05          |
+|     pH                                      |            7.92          |
+|     Conductivity (µS/cm)                    |            773           |
+|     Total Dissolved Solids (ppm)            |            387           |
+|     ORP (mV)                                |            47.2          |
+|     Turbidity                               |           Clear:         |
+|     Alkalinity (mg/l CaCO₃)                 |            170           |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |             -            |
 
 ### Data Analysis
 
