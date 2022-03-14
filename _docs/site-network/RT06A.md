@@ -11,28 +11,30 @@ Site Code: RT06A.  GPS: S12°46423, W75°896173. Elevation:
 
 The following river and water quality data was collected from this site:
 
-| RT06A                        | July 2019                     | November 2019            |
-|------------------------------|-------------------------------|--------------------------|
-| Season:                      | Austral Winter                | Austral Summer           |
-| Date:                        | 9.07.2019                     | 19.11.2019               |
-| Time:                        | 11.15am                       | 16.30pm                  |
-| Width (m)                    | 1.5                           | 3.5                      |
-| Depth (Av.) (m)              | 0.021                         | 0.141                    |
-| CSA (Av.) (m²)               | 0.032                         | 0.494                    |
-| Velocity (Av.) (m/s)         | 0.332                         | 0.501                    |
-| Discharge (Av.) (m³/s)       | 0.010                         | 0.247                    |
-| Riverbed sediment            | Gravel, cobbles & boulders    | Gravel, cobbles & boulders |
-| Temp. (Atmospheric) (°C)     | 15                            | 21                       |
-| Temp. (Water) (°C)           | 10.21                         | 14.52                    |
-| Atmospheric pressure (mbar)  | 765                           | 765                      |
-| Dissolved oxygen (mg/l)      | 5.9                           | 4.43                     |
-| Dissolved oxygen (%)         | 70.1                          | 64.9                     |
-| pH                           | 5.95                          | 8.24                     |
-| Conductivity (µS/cm)         | 125                           | 153                      |
-| Total Dissolved Solids (ppm) | 62                            | 76                       |
-| ORP (mV)                     | 345.1                         | 114.2                    |
-| Turbidity                    | Clear                         | Clear: slightly milky    |
-| Alkalinity (mg/l CaCO3)      | Pink to colourless 76 (1.6N)  |  -                       |
+|     T6a                                     |              July 2019             |            November 2019           |            November 2021           |
+|---------------------------------------------|:----------------------------------:|:----------------------------------:|:----------------------------------:|
+|     Season:                                 |            Austral Winter          |            Austral Summer          |            Austral Summer          |
+|     Date:                                   |              9.07.2019             |              19.11.2019            |               14.11.21             |
+|     Time:                                   |               11.15am              |               16.30pm              |               10.15am              |
+|     Width (m)                               |                 1.5                |                 3.5                |                 2.2                |
+|     Depth (Av.) (m)                         |                 0.02               |                 0.14               |                 0.09               |
+|     CSA (Av.) (m²)                          |                 0.03               |                 0.49               |                 0.20               |
+|     Velocity (Av.) (m/s)                    |                 0.33               |                 0.50               |                 0.90               |
+|     Discharge (Av.) (m³/s)                  |                0.010               |                0.247               |                0.180               |
+|     Riverbed sediment                       |     Pebbles, cobbles & boulders    |     Pebbles, cobbles & boulders    |     Pebbles, cobbles & boulders    |
+|     Temp. (Atmospheric) (°C)                |                  15                |                  21                |                  21                |
+|     Temp. (Water) (°C)                      |                10.21               |                14.52               |                14.29               |
+|     Atmospheric pressure (mbar)             |                 765                |                 765                |                                    |
+|     Dissolved oxygen (mg/l)                 |                 5.90               |                 4.43               |                 7.07               |
+|     Dissolved oxygen (%)                    |                 70.1               |                 64.9               |                 89.1               |
+|     pH                                      |                 5.95               |                 8.24               |                 8.12               |
+|     Conductivity (µS/cm)                    |                 125                |                 153                |                 178                |
+|     Total Dissolved Solids (ppm)            |                  62                |                  76                |                  89                |
+|     ORP (mV)                                |                345.1               |                114.2               |                100.3               |
+|     Turbidity                               |               Clear:               |        Clear: slightly milky       |               Clear:               |
+|     Alkalinity (mg/l CaCO₃)                 |              76 (1.6N)             |                  -                 |              48 (1.6N)             |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |                  -                 |                  -                 |                  16                |
+
 
 ### Data Analysis
 Discharge in the Rio Yauyos is very similar to that in other sub-catchments. Elevated discharge being recorded for the months January to April, followed by a gradual diminution until the rains start in December. The periods we have sampled lie within the dry season.   
