@@ -12,28 +12,29 @@ Site Code: RT08C.  GPS: S12°36286, W75°763187. Elevation:
 
 The following river and water quality data was collected from this site:
 
-| RT08C                        | November 2019                 | 
-|------------------------------|-------------------------------|
-| Season:                      | Austral Summer                |
-| Date:                        | 21.11.2019                    |
-| Time:                        | 9.30am                        |
-| Width (m)                    | 11                            |
-| Depth (Av.) (m)              | 0.061                         |
-| CSA (Av.) (m²)               | 0.671                         |
-| Velocity (Av.) (m/s)         | 0.298                         |
-| Discharge (Av.) (m³/s)       | 0.200                         |
-| Riverbed sediment            | Gravel & Cobbles              |
-| Temp. (Atmospheric) (°C)     | 18.5                          |
-| Temp. (Water) (°C)           | 10.34                         |
-| Atmospheric pressure (mbar)  | 700                           |
-| Dissolved oxygen (mg/l)      | 2.95                          |
-| Dissolved oxygen (%)         | 45.0                          |
-| pH                           | 7.94                          |
-| Conductivity (µS/cm)         | 287                           |
-| Total Dissolved Solids (ppm) | 143                           |
-| ORP (mV)                     | 154.4                         |
-| Turbidity                    | Clear                         |
-| Alkalinity (mg/l CaCO3)      |   -   |
+|     T8c                                     |     November 2019 (old site)    |       November 2021 (new site)     |
+|---------------------------------------------|:-------------------------------:|:----------------------------------:|
+|     Season:                                 |          Austral Summer         |            Austral Summer          |
+|     Date:                                   |            21.11.2019           |               16.11.21             |
+|     Time:                                   |              9.30am             |               13.45pm              |
+|     Width (m)                               |                11               |                 0.11               |
+|     Depth (Av.) (m)                         |               0.06              |                 0.09               |
+|     CSA (Av.) (m²)                          |               0.67              |                 0.01               |
+|     Velocity (Av.) (m/s)                    |               0.30              |                 0.03               |
+|     Discharge (Av.) (m³/s)                  |               0.200             |                0.000               |
+|     Riverbed sediment                       |         Gravel & Cobbles        |     Pebbles, Cobbles & Boulders    |
+|     Temp. (Atmospheric) (°C)                |               18.5              |                  23                |
+|     Temp. (Water) (°C)                      |               10.34             |                16.99               |
+|     Atmospheric pressure (mbar)             |                700              |                                    |
+|     Dissolved oxygen (mg/l)                 |               2.95              |                 6.60               |
+|     Dissolved oxygen (%)                    |               45.0              |                105.3               |
+|     pH                                      |               7.94              |                 8.39               |
+|     Conductivity (µS/cm)                    |                287              |                 409                |
+|     Total Dissolved Solids (ppm)            |                143              |                 204                |
+|     ORP (mV)                                |               154.4             |                149.5               |
+|     Turbidity                               |              Clear:             |                Clear:              |
+|     Alkalinity (mg/l CaCO₃)                 |                 -               |              120 (1.6N)            |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |                 -               |                  -                 |
 
 ### Data Analysis
 Discharge consists of measurements taken from the three main channels flowing from the spring (mantanial).                                                                   
