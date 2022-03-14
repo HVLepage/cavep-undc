@@ -11,28 +11,30 @@ Site Code: RT02A.  GPS: S12°80846, W75°896536. Elevation:
 
 The following river and water quality data was collected from this site:
 
-| RT02A                        | July 2019                     | November 2019            |
-|------------------------------|-------------------------------|--------------------------|
-| Season:                      | Austral Winter                | Austral Summer           |
-| Date:                        | 10.07.2019                    | 1811.2019                |
-| Time:                        | 12.20pm                       | 13.15pm                  |
-| Width (m)                    | 11                            | 10                       |
-| Depth (Av.) (m)              | 0.251                         | 0.21                     |
-| CSA (Av.) (m²)               | 2.761                         | 2.1                      |
-| Velocity (Av.) (m/s)         | 0.688                         | 0.881                    |
-| Discharge (Av.) (m³/s)       | 1.9                           | 1.85                     |
-| Riverbed sediment            | Cobbles & boulders            | Cobbles & boulders       |
-| Temp. (Atmospheric) (°C)     | 30                            | 33                       |
-| Temp. (Water) (°C)           | 17.9                          | 24.23                    |
-| Atmospheric pressure (mbar)  | 888                           | 876                      |
-| Dissolved oxygen (mg/l)      | 7.14                          | 5.81                     |
-| Dissolved oxygen (%)         | 84.4                          | 82.5                     |
-| pH                           | 5.86                          | 9.3                      |
-| Conductivity (µS/cm)         | 438                           | 493                      |
-| Total Dissolved Solids (ppm) | 219                           | 247                      |
-| ORP (mV)                     | 346.2                         | 132.8                    |
-| Turbidity                    | Clear: slight green colouration| Clear                  |
-| Alkalinity (mg/l CaCO3)      | Pink to colourless 108 (1.6N) |  -                       |
+|     T2a                                     |                 July 2019               |        November 2019      |      November 2021     |
+|---------------------------------------------|:---------------------------------------:|:-------------------------:|:----------------------:|
+|     Season:                                 |              Austral Winter             |       Austral Summer      |      Austral Summer    |
+|     Date:                                   |                10.07.2019               |         18.11.2019        |        10.11.2021      |
+|     Time:                                   |                  12.20pm                |           13.15pm         |         13.15pm        |
+|     Width (m)                               |                   11.0                  |            10.0           |           8.0          |
+|     Depth (Av.) (m)                         |                   0.25                  |            0.21           |           0.30         |
+|     CSA (Av.) (m²)                          |                   2.76                  |            2.10           |           2.40         |
+|     Velocity (Av.) (m/s)                    |                   0.69                  |            0.88           |           0.60         |
+|     Discharge (Av.) (m³/s)                  |                   1.900                 |            1.850          |          1.435         |
+|     Riverbed sediment                       |            Cobbles & Boulders           |     Cobbles & Boulders    |     Mainly Boulders    |
+|     Temp. (Atmospheric) (°C)                |                    30                   |             33            |            26          |
+|     Temp. (Water) (°C)                      |                   17.90                 |            24.23          |          23.89         |
+|     Atmospheric pressure (mbar)             |                    888                  |             876           |                        |
+|     Dissolved oxygen (mg/l)                 |                   7.14                  |            5.81           |           6.55         |
+|     Dissolved oxygen (%)                    |                   84.4                  |            82.5           |           86.5         |
+|     pH                                      |                   5.86                  |            9.30           |           8.84         |
+|     Conductivity (µS/cm)                    |                    438                  |             493           |           571          |
+|     Total Dissolved Solids (ppm)            |                    219                  |             247           |           286          |
+|     ORP (mV)                                |                   346.2                 |            132.8          |           30.0         |
+|     Turbidity                               |     Clear: slight green colouration     |           Clear:          |          Clear:        |
+|     Alkalinity (mg/l CaCO₃)                 |                108 (1.6N)               |              -            |        95 (1.6N)       |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |                     -                   |              -            |            79          |
+
 
 ### Data Analysis
 Discharge at this site is impacted by seasonal abstraction in the upper Rio Lincha. The scale of the sub-catchment and limited agriculture practised does nor reduce discharge to zero at present as happens in the Rio Vinac at sample site T1a. 
