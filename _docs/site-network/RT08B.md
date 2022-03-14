@@ -11,28 +11,29 @@ Site Code: RT08B.  GPS: S12°36259, W75°763129. Elevation:
 
 The following river and water quality data was collected from this site:
 
-| RT08B                        | November 2019                 | 
-|------------------------------|-------------------------------|
-| Season:                      | Austral Summer                |
-| Date:                        | 21.11.2019                    |
-| Time:                        | 9.00am                        |
-| Width (m)                    | 7                             |
-| Depth (Av.) (m)              | 0.116                         |
-| CSA (Av.) (m²)               | 0.812                         |
-| Velocity (Av.) (m/s)         | 0.17                          |
-| Discharge (Av.) (m³/s)       | 0.138                         |
-| Riverbed sediment            | Cobbles & small boulders      |
-| Temp. (Atmospheric) (°C)     | 22                            |
-| Temp. (Water) (°C)           | 10.61                         |
-| Atmospheric pressure (mbar)  | 700                           |
-| Dissolved oxygen (mg/l)      | 3.45                          |
-| Dissolved oxygen (%)         | 52.8                          |
-| pH                           | 8.33                          |
-| Conductivity (µS/cm)         | 287                           |
-| Total Dissolved Solids (ppm) | 143                           |
-| ORP (mV)                     | 136.6                         |
-| Turbidity                    | Clear                         |
-| Alkalinity (mg/l CaCO3)  |   -   |
+|     T8b                                     |        November 2019      |        November 2021      |
+|---------------------------------------------|:-------------------------:|:-------------------------:|
+|     Season:                                 |       Austral Summer      |       Austral Summer      |
+|     Date:                                   |         21.11.2019        |          16.11.21         |
+|     Time:                                   |           9.00am          |           13.30pm         |
+|     Width (m)                               |             7.0           |             8.0           |
+|     Depth (Av.) (m)                         |            0.12           |            0.19           |
+|     CSA (Av.) (m²)                          |            0.81           |            1.52           |
+|     Velocity (Av.) (m/s)                    |            0.17           |            0.44           |
+|     Discharge (Av.) (m³/s)                  |            0.138          |            0.669          |
+|     Riverbed sediment                       |     Cobbles & Boulders    |     Cobbles & Boulders    |
+|     Temp. (Atmospheric) (°C)                |             22            |             21            |
+|     Temp. (Water) (°C)                      |            10.61          |            11.05          |
+|     Atmospheric pressure (mbar)             |             700           |                           |
+|     Dissolved oxygen (mg/l)                 |            3.45           |            5.80           |
+|     Dissolved oxygen (%)                    |            52.8           |            80.7           |
+|     pH                                      |            8.33           |            8.06           |
+|     Conductivity (µS/cm)                    |             287           |             379           |
+|     Total Dissolved Solids (ppm)            |             143           |             188           |
+|     ORP (mV)                                |            136.6          |            156.4          |
+|     Turbidity                               |           Clear:          |           Clear:          |
+|     Alkalinity (mg/l CaCO₃)                 |              -            |         118 (1.6N)        |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |              -            |
 
 ### Data Analysis
 Discharge at this point along the Rio Laraos combines the two measurements from the stream just above Puente Union and the spring (mantanial).                     
