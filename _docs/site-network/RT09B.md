@@ -10,28 +10,29 @@ Site Code: RT9B.  GPS: S12°25671, W75°715075. Elevation:
 
 The following river and water quality data was collected from this site:
 
-| RT9B                         | November 2019                 | 
-|------------------------------|-------------------------------|
-| Season:                      | Austral Summer                |
-| Date:                        | 21.11.2019                    |
-| Time:                        | 16.45pm                       |
-| Width (m)                    | 13                            |
-| Depth (Av.) (m)              | 0.108                         |
-| CSA (Av.) (m²)               | 1.404                         |
-| Velocity (Av.) (m/s)         | 0.657                         |
-| Discharge (Av.) (m³/s)       | 0.923                         |
-| Riverbed sediment            | Cobbles & boulders            |
-| Temp. (Atmospheric) (°C)     | 16                            |
-| Temp. (Water) (°C)           | 10.73                         |
-| Atmospheric pressure (mbar)  | 650                           |
-| Dissolved oxygen (mg/l)      | 3.64                          |
-| Dissolved oxygen (%)         | 56.1                          |
-| pH                           | 8.62                          |
-| Conductivity (µS/cm)         | 442                           |
-| Total Dissolved Solids (ppm) | 221                           |
-| ORP (mV)                     | 179.5                         |
-| Turbidity                    | Clear                         |
-| Alkalinity (mg/l CaCO3)      |   -   |
+|     T9b                                     |        November 2019      |          November 2021        |
+|---------------------------------------------|:-------------------------:|:-----------------------------:|
+|     Season:                                 |       Austral Summer      |         Austral Summer        |
+|     Date:                                   |         21.11.2019        |            17.11.21           |
+|     Time:                                   |           16.45pm         |             11.15am           |
+|     Width (m)                               |            13.0           |               7.5             |
+|     Depth (Av.) (m)                         |            0.11           |              0.14             |
+|     CSA (Av.) (m²)                          |            1.40           |              1.03             |
+|     Velocity (Av.) (m/s)                    |            0.66           |              0.65             |
+|     Discharge (Av.) (m³/s)                  |            0.923          |              0.673            |
+|     Riverbed sediment                       |     Cobbles & Boulders    |         Mainly pebbles        |
+|     Temp. (Atmospheric) (°C)                |             16            |               12              |
+|     Temp. (Water) (°C)                      |            10.73          |              11.11            |
+|     Atmospheric pressure (mbar)             |             650           |                               |
+|     Dissolved oxygen (mg/l)                 |            3.64           |              5.41             |
+|     Dissolved oxygen (%)                    |            56.1           |              76.05            |
+|     pH                                      |            8.62           |              8.27             |
+|     Conductivity (µS/cm)                    |             442           |               670             |
+|     Total Dissolved Solids (ppm)            |             221           |               335             |
+|     ORP (mV)                                |            179.5          |              102.7            |
+|     Turbidity                               |           Clear:          |     Clear: slightly turbid    |
+|     Alkalinity (mg/l CaCO₃)                 |              -            |            90 (1.6N)          |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |                -              |
 
 ### Data Analysis
 Discharge at this point along the Rio Alis reflects the timing. Discharge rapidly declines in the latter part of the dry season.         
