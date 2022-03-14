@@ -11,28 +11,29 @@ Site Code: RT09A.  GPS: S12°28671, W75°787584. Elevation:
 
 The following river and water quality data was collected from this site:
 
-| RT09A                        | July 2019                     | November 2019            |
-|------------------------------|-------------------------------|--------------------------|
-| Season:                      | Austral Winter                | Austral Summer           |
-| Date:                        | 11.07.2019                    | 21.11.2019               |
-| Time:                        | 16.25pm                       | 15.45pm                  |
-| Width (m)                    | 8                             | 6                        |
-| Depth (Av.) (m)              | 0.636                         | 0.9                      |
-| CSA (Av.) (m²)               | 5.088                         | 5.4                      |
-| Velocity (Av.) (m/s)         | 1.171                         | 0.678                    |
-| Discharge (Av.) (m³/s)       | 5.958                         | 3.661                    |
-| Riverbed sediment            | Cobbles & small boulders      | Cobbles & small boulders |
-| Temp. (Atmospheric) (°C)     | 16                            | 24                       |
-| Temp. (Water) (°C)           | 11.24                         | 12.69                    |
-| Atmospheric pressure (mbar)  | 599                           | 680                      |
-| Dissolved oxygen (mg/l)      | 5.04                          | 3.63                     |
-| Dissolved oxygen (%)         | 67.6                          | 59.6                     |
-| pH                           | 6.24                          | 8.35                     |
-| Conductivity (µS/cm)         | 602                           | 625                      |
-| Total Dissolved Solids (ppm) | 301                           | 312                      |
-| ORP (mV)                     | 349.3                         | 154.5                    |
-| Turbidity                    | Clear                         | Clear                    |
-| Alkalinity (mg/l CaCO3)      | Pink to colourless 193 (1.6N) |  -                       |
+|     T9a                                     |          July 2019        |        November 2019      |      November 2021    |
+|---------------------------------------------|:-------------------------:|:-------------------------:|:---------------------:|
+|     Season:                                 |       Austral Winter      |       Austral Summer      |     Austral Summer    |
+|     Date:                                   |         11.07.2019        |         21.11.2019        |        15.11.21       |
+|     Time:                                   |           16.25pm         |           15.45pm         |         12.30pm       |
+|     Width (m)                               |             8.0           |             6.0           |           9.0         |
+|     Depth (Av.) (m)                         |            0.64           |            0.90           |          0.83         |
+|     CSA (Av.) (m²)                          |            5.09           |            5.40           |          7.47         |
+|     Velocity (Av.) (m/s)                    |            1.17           |            0.68           |          1.33         |
+|     Discharge (Av.) (m³/s)                  |            5.958          |            3.661          |          9.935        |
+|     Riverbed sediment                       |     Cobbles & Boulders    |     Cobbles & Boulders    |        Boulders       |
+|     Temp. (Atmospheric) (°C)                |             16            |             24            |           19          |
+|     Temp. (Water) (°C)                      |            11.24          |            12.69          |          12.22        |
+|     Atmospheric pressure (mbar)             |             599           |             680           |                       |
+|     Dissolved oxygen (mg/l)                 |            5.04           |            3.63           |          6.06         |
+|     Dissolved oxygen (%)                    |            67.6           |            59.6           |          82.1         |
+|     pH                                      |            6.24           |            8.35           |          8.05         |
+|     Conductivity (µS/cm)                    |             602           |             625           |           803         |
+|     Total Dissolved Solids (ppm)            |             301           |             312           |           402         |
+|     ORP (mV)                                |            349.3          |            154.5          |          143.3        |
+|     Turbidity                               |           Clear:          |           Clear:          |         Clear:        |
+|     Alkalinity (mg/l CaCO₃)                 |         193 (1.6N)        |              -            |       206 (1.6N)      |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |              -            |            -          |
 
 ### Data Analysis
 Discharge fluctuations at this point along the Rio Alis reflect the timing, with discharge slowing and reducing as the dry season progresses.                       
