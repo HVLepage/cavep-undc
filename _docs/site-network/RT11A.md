@@ -11,29 +11,29 @@ Site Code: RT11A.  GPS: S12°11645, W75°818042. Elevation:
 
 The following river and water quality data was collected from this site:
 
-| RT11A                        | November 2019                 | 
-|------------------------------|-------------------------------|
-| Season:                      | Austral Summer                |
-| Date:                        | 22.11.2019                    |
-| Time:                        | 9.45am                        |
-| Width (m)                    | 3                             |
-| Depth (Av.) (m)              | 0.041                         |
-| CSA (Av.) (m²)               | 0.123                         |
-| Velocity (Av.) (m/s)         | 0.567                         |
-| Discharge (Av.) (m³/s)       | 0.070                         |
-| Riverbed sediment            | Cobbles & boulders            |
-| Temp. (Atmospheric) (°C)     | 11                            |
-| Temp. (Water) (°C)           | 8.5                           |
-| Atmospheric pressure (mbar)  | 660                           |
-| Dissolved oxygen (mg/l)      | 3.56                          |
-| Dissolved oxygen (%)         | 52.6                          |
-| pH                           | 8.72                          |
-| Conductivity (µS/cm)         | 502                           |
-| Total Dissolved Solids (ppm) | 250                           |
-| ORP (mV)                     | 125.6                         |
-| Turbidity                    | Clear                         |
-| Alkalinity (mg/l CaCO3)      |    -   |
-
+|     T11a                                    |        November 2019      |        November 2021      |
+|---------------------------------------------|:-------------------------:|:-------------------------:|
+|     Season:                                 |       Austral Summer      |       Austral Summer      |
+|     Date:                                   |         22.11.2019        |          21.11.21         |
+|     Time:                                   |           9.45am          |            12.00          |
+|     Width (m)                               |             3.0           |            2.85           |
+|     Depth (Av.) (m)                         |            0.04           |            0.07           |
+|     CSA (Av.) (m²)                          |            0.12           |            0.20           |
+|     Velocity (Av.) (m/s)                    |            0.57           |            0.63           |
+|     Discharge (Av.) (m³/s)                  |            0.070          |            0.126          |
+|     Riverbed sediment                       |     Cobbles & Boulders    |     Cobbles & Boulders    |
+|     Temp. (Atmospheric) (°C)                |             11            |             15            |
+|     Temp. (Water) (°C)                      |             8.5           |            12.33          |
+|     Atmospheric pressure (mbar)             |             660           |                           |
+|     Dissolved oxygen (mg/l)                 |            3.56           |            5.41           |
+|     Dissolved oxygen (%)                    |            52.6           |            78.85          |
+|     pH                                      |            8.72           |            8.43           |
+|     Conductivity (µS/cm)                    |             502           |             660           |
+|     Total Dissolved Solids (ppm)            |             250           |             330           |
+|     ORP (mV)                                |            125.6          |            109.9          |
+|     Turbidity                               |           Clear:          |           Clear:          |
+|     Alkalinity (mg/l CaCO₃)                 |              -            |         142 (1.6N)        |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |              -            |
 
 ### Data Analysis
 Discharge for this small tributary is low. It will fluctuate throughout the year and have a flashy storm profile.
