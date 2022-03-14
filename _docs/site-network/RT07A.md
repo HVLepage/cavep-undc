@@ -11,29 +11,30 @@ Site Code: RT07A.  GPS: S12°42603, W75°848726. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T8c                                     |     November 2019 (old site)    |       November 2021 (new site)     |
-|---------------------------------------------|:-------------------------------:|:----------------------------------:|
-|     Season:                                 |          Austral Summer         |            Austral Summer          |
-|     Date:                                   |            21.11.2019           |               16.11.21             |
-|     Time:                                   |              9.30am             |               13.45pm              |
-|     Width (m)                               |                11               |                 0.11               |
-|     Depth (Av.) (m)                         |               0.06              |                 0.09               |
-|     CSA (Av.) (m²)                          |               0.67              |                 0.01               |
-|     Velocity (Av.) (m/s)                    |               0.30              |                 0.03               |
-|     Discharge (Av.) (m³/s)                  |               0.200             |                0.000               |
-|     Riverbed sediment                       |         Gravel & Cobbles        |     Pebbles, Cobbles & Boulders    |
-|     Temp. (Atmospheric) (°C)                |               18.5              |                  23                |
-|     Temp. (Water) (°C)                      |               10.34             |                16.99               |
-|     Atmospheric pressure (mbar)             |                700              |                                    |
-|     Dissolved oxygen (mg/l)                 |               2.95              |                 6.60               |
-|     Dissolved oxygen (%)                    |               45.0              |                105.3               |
-|     pH                                      |               7.94              |                 8.39               |
-|     Conductivity (µS/cm)                    |                287              |                 409                |
-|     Total Dissolved Solids (ppm)            |                143              |                 204                |
-|     ORP (mV)                                |               154.4             |                149.5               |
-|     Turbidity                               |              Clear:             |                Clear:              |
-|     Alkalinity (mg/l CaCO₃)                 |                 -               |              120 (1.6N)            |
-|     Alkalinity Field Tester (ppm/ CaCO₃)    |                 -               |                  -                 |
+|     T7a                                     |        July 2019       |      November 2019     |      November 2021     |
+|---------------------------------------------|:----------------------:|:----------------------:|:----------------------:|
+|     Season:                                 |      Austral Winter    |      Austral Summer    |      Austral Summer    |
+|     Date:                                   |        11.07.2019      |        20.11.2019      |         14.11.21       |
+|     Time:                                   |         11.00am        |         15.35pm        |         15.00pm        |
+|     Width (m)                               |           2.0          |           4.0          |          12.00         |
+|     Depth (Av.) (m)                         |           0.26         |           0.19         |           0.27         |
+|     CSA (Av.) (m²)                          |           0.51         |           0.75         |           3.23         |
+|     Velocity (Av.) (m/s)                    |           0.60         |           0.56         |           0.32         |
+|     Discharge (Av.) (m³/s)                  |          0.308         |          0.424         |          1.023         |
+|     Riverbed sediment                       |     Mainly Boulders    |     Mainly Boulders    |     Mainly Boulders    |
+|     Temp. (Atmospheric) (°C)                |            17          |            18          |            22          |
+|     Temp. (Water) (°C)                      |           8.30         |          12.97         |          16.32         |
+|     Atmospheric pressure (mbar)             |           725          |           745          |                        |
+|     Dissolved oxygen (mg/l)                 |           6.04         |           4.69         |           6.21         |
+|     Dissolved oxygen (%)                    |           69.3         |           73.7         |           85.7         |
+|     pH                                      |           5.96         |           8.56         |           8.33         |
+|     Conductivity (µS/cm)                    |           180          |           173          |           289          |
+|     Total Dissolved Solids (ppm)            |            90          |            86          |           145          |
+|     ORP (mV)                                |          354.1         |          145.5         |           91.6         |
+|     Turbidity                               |          Clear:        |          Clear:        |          Clear:        |
+|     Alkalinity (mg/l CaCO₃)                 |            -           |            -           |        102 (1.6N)      |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |            -           |            -           |            -           |
+
 
 ### Data Analysis
 Discharge at this point along the Rio Huantan increased from July to November, suggesting that the rains had already started in the headwaters of this sub-catchment. The periods we have sampled as such fall principally within the dry season. However, rains in the high sierra do begin from mid-October.
