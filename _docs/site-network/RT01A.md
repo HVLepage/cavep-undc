@@ -10,28 +10,29 @@ Site Code: RT01A.  GPS: S12°85054, W75°940725. Elevation:
 
 The following river and water quality data was collected from this site:
 
-| RT01A                        | July 2019                     | November 2019            |
-|------------------------------|-------------------------------|--------------------------|
-| Season:                      | Austral Winter                | Austral Summer           |
-| Date:                        | 10.07.2019                    | 18.11.2019               |
-| Time:                        | 9.30am                        | 11.00am                  |
-| Width (m)                    | 6.5                           | 1.5                      |
-| Depth (Av.) (m)              | 0.065                         | 0.049                    |
-| CSA (Av.) (m²)               | 0.423                         | 0.074                    |
-| Velocity (Av.) (m/s)         | 0.222                         | 0.109                    |
-| Discharge (Av.) (m³/s)       | 0.094                         | 0.008                    |
-| Riverbed sediment            | Cobbles & boulders            | Cobbles & boulders       |
-| Temp. (Atmospheric) (°C)     | 26                            | 33                       |
-| Temp. (Water) (°C)           | 18.87                         | 26.84                    |
-| Atmospheric pressure (mbar)  | 905                           | 889                      |
-| Dissolved oxygen (mg/l)      | 7.9                           | 9.63                     |
-| Dissolved oxygen (%)         | 93.6                          | 141.7                    |
-| pH                           | 5.81                          | 8.7                      |
-| Conductivity (µS/cm)         | 778                           | 1111                     |
-| Total Dissolved Solids (ppm) | 389                           | 558                      |
-| ORP (mV)                     | 348.4                         | 84.4                     |
-| Turbidity                    | Clear                         | Clear: slight green colouration |
-| Alkalinity (mg/l CaCO3)      | Pink to colourless 117 (1.6N) |  -                       |
+|     T1a                                     |          July 2019        |              November 2019             |            November 2021           |
+|---------------------------------------------|:-------------------------:|:--------------------------------------:|:----------------------------------:|
+|     Season:                                 |       Austral Winter      |              Austral Summer            |            Austral Summer          |
+|     Date:                                   |         10.07.2019        |                18.11.2019              |              10.11.2021            |
+|     Time:                                   |           9.30am          |                 11.00am                |               10.30am              |
+|     Width (m)                               |             6.5           |                   1.5                  |                 2.3                |
+|     Depth (Av.) (m)                         |            0.07           |                   0.05                 |                 0.12               |
+|     CSA (Av.) (m²)                          |            0.42           |                   0.07                 |                 0.28               |
+|     Velocity (Av.) (m/s)                    |            0.22           |                   0.11                 |                 0.13               |
+|     Discharge (Av.) (m³/s)                  |            0.094          |                  0.008                 |                0.036               |
+|     Riverbed sediment                       |     Cobbles & Boulders    |            Cobbles & Boulders          |     Pebbles, cobbles & boulders    |
+|     Temp. (Atmospheric) (°C)                |             26            |                    33                  |                  24                |
+|     Temp. (Water) (°C)                      |            18.87          |                  26.84                 |                22.61               |
+|     Atmospheric pressure (mbar)             |             905           |                   889                  |                                    |
+|     Dissolved oxygen (mg/l)                 |            7.90           |                   9.63                 |                 8.26               |
+|     Dissolved oxygen (%)                    |            93.6           |                  141.7                 |                106.6               |
+|     pH                                      |            5.81           |                   8.70                 |                 7.88               |
+|     Conductivity (µS/cm)                    |             778           |                   1111                 |                 1090               |
+|     Total Dissolved Solids (ppm)            |             389           |                   558                  |                 545                |
+|     ORP (mV)                                |            348.4          |                   84.4                 |                -25.0               |
+|     Turbidity                               |           Clear:          |     Clear: slight green colouration    |               Clear:               |
+|     Alkalinity (mg/l CaCO₃)                 |         117 (1.6N)        |                    -                   |              135 (1.6N)            |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |                    -                   |                 122                |
 
 ### Data Analysis
 At 7.54-8.2 mg/l the DO reading is almost at full saturation. In November, the  exceptionally high readings reflect the early processes of eutrophication taking place with readings of 10.1 mg/l. This being produced by high rates of photosynthetic activity in the stream, probably as a result of agricultural runoff and sewage wastes. Aquatic life can survive well at these levels of DO. High concentrations of nutrients (particularly phosphorus and nitrogen) fuel algae blooms, which initially boosts dissolved oxygen levels but then rapidly reduce DO. When the algae die, bacterial decomposition spikes, using up most or all of the dissolved oxygen available. This creates an anoxic, or oxygen-depleted, environment where few organisms survive. Such nutrient levels can occur naturally but are more often caused by pollution from fertilizer runoff or poorly treated waste waters which could apply to this site.  
