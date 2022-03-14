@@ -10,28 +10,30 @@ Site Code: RT05A.  GPS: S12°59107, W75°941799. Elevation:
 
 The following river and water quality data was collected from this site:
 
-| RT05A                        | July 2019                     | November 2019            |
-|------------------------------|-------------------------------|--------------------------|
-| Season:                      | Austral Winter                | Austral Summer           |
-| Date:                        | 12.07.2019                    | 19.11.2019               |
-| Time:                        | 12.30pm                       | 11.45am                  |
-| Width (m)                    |                               | 3                        |
-| Depth (Av.) (m)              |                               | 0.047                    |
-| CSA (Av.) (m²)               |                               | 0.141                    |
-| Velocity (Av.) (m/s)         |                               | 0.97                     |
-| Discharge (Av.) (m³/s)       |                               | 0.14                     |
-| Riverbed sediment            | Cobbles & boulders            | Cobbles & boulders       |
-| Temp. (Atmospheric) (°C)     | 25                            | 28                       |
-| Temp. (Water) (°C)           | 16.47                         | 19.52                    |
-| Atmospheric pressure (mbar)  | 800                           | 798                      |
-| Dissolved oxygen (mg/l)      | 6.16                          | 5.19                     |
-| Dissolved oxygen (%)         | 78.7                          | 77.9                     |
-| pH                           | 6.48                          | 9.25                     |
-| Conductivity (µS/cm)         | 270                           | 267                      |
-| Total Dissolved Solids (ppm) | 134                           | 133                      |
-| ORP (mV)                     | 347.3                         | 152.9                    |
-| Turbidity                    | Clear                         | Clear                    |
-| Alkalinity (mg/l CaCO3)      | Pink to colourless 152 (1.6N) |  -                       |
+|     T5a                                     |                         July 2019                        |              November 2019             |      November 2021     |
+|---------------------------------------------|:--------------------------------------------------------:|:--------------------------------------:|:----------------------:|
+|     Season:                                 |                       Austral Winter                     |              Austral Summer            |      Austral Summer    |
+|     Date:                                   |                         12.07.2019                       |                19.11.2019              |         13.11.21       |
+|     Time:                                   |                          12.30pm                         |                 11.45am                |         12.45pm        |
+|     Width (m)                               |                                                          |                   3.0                  |           8.2          |
+|     Depth (Av.) (m)                         |                                                          |                   0.05                 |           0.08         |
+|     CSA (Av.) (m²)                          |                                                          |                   0.14                 |           0.66         |
+|     Velocity (Av.) (m/s)                    |                                                          |                   0.97                 |           0.35         |
+|     Discharge (Av.) (m³/s)                  |                                                          |                  0.140                 |          0.231         |
+|     Riverbed sediment                       |                     Cobbles & boulders                   |            Cobbles & boulders          |     Mainly Boulders    |
+|     Temp. (Atmospheric) (°C)                |                             25                           |                    28                  |            24          |
+|     Temp. (Water) (°C)                      |                           16.47                          |                  19.52                 |          19.57         |
+|     Atmospheric pressure (mbar)             |                              800                         |                   798                  |                        |
+|     Dissolved oxygen (mg/l)                 |                            6.16                          |                   5.19                 |           7.30         |
+|     Dissolved oxygen (%)                    |                            78.7                          |                   77.9                 |           98.9         |
+|     pH                                      |                            6.48                          |                   9.25                 |           8.64         |
+|     Conductivity (µS/cm)                    |                            270                           |                   267                  |           321          |
+|     Total Dissolved Solids (ppm)            |                            134                           |                   133                  |           161          |
+|     ORP (mV)                                |                           347.3                          |                  152.9                 |           81.1         |
+|     Turbidity                               |                    Brownish colouration                  |     Clear: slight green colouration    |         Clear:         |
+|     Alkalinity (mg/l CaCO₃)                 |                         152 (1.6N)                       |                    -                   |        142 (1.6N)      |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |                             -                            |                    -                   |           119          |
+
 
 ### Data Analysis
 Discharge in the Rio Colonia demonstrates a similar pattern to that recorded in other sub-catchments. Elevated discharge being recorded for the months January to April, followed by a gradual diminution until the rains start in December. The periods we have sampled lie within the dry season. As such discharge has always been very low in our sample sessions.   
