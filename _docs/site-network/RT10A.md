@@ -11,28 +11,29 @@ Site Code: RT10A.  GPS: S12°27948, W75°816499. Elevation:
 
 The following river and water quality data was collected from this site:
 
-| RT10A                        | November 2019                 | 
-|------------------------------|-------------------------------|
-| Season:                      | Austral Summer                |
-| Date:                        | 21.11.2019                    |
-| Time:                        | 13.00pm                       |
-| Width (m)                    | 8                             |
-| Depth (Av.) (m)              | 0.475                         |
-| CSA (Av.) (m²)               | 3.8                           |
-| Velocity (Av.) (m/s)         | 0.158                         |
-| Discharge (Av.) (m³/s)       | 0.600                         |
-| Riverbed sediment            | Cobbles & boulders            |
-| Temp. (Atmospheric) (°C)     | 26                            |
-| Temp. (Water) (°C)           | 13.4                          |
-| Atmospheric pressure (mbar)  | 689                           |
-| Dissolved oxygen (mg/l)      | 3.97                          |
-| Dissolved oxygen (%)         | 65.4                          |
-| pH                           | 8.89                          |
-| Conductivity (µS/cm)         | 230                           |
-| Total Dissolved Solids (ppm) | 115                           |
-| ORP (mV)                     | 144.3                         |
-| Turbidity                    | Clear                         |
-| Alkalinity (mg/l CaCO3)      |   -   |
+|     T10a                                    |        November 2019      |      November 2021    |
+|---------------------------------------------|:-------------------------:|:---------------------:|
+|     Season:                                 |       Austral Summer      |     Austral Summer    |
+|     Date:                                   |         21.11.2019        |        17.11.21       |
+|     Time:                                   |           13.00pm         |         9.30am        |
+|     Width (m)                               |             8.0           |           5.5         |
+|     Depth (Av.) (m)                         |            0.48           |          0.36         |
+|     CSA (Av.) (m²)                          |            3.80           |          1.96         |
+|     Velocity (Av.) (m/s)                    |            0.16           |          0.46         |
+|     Discharge (Av.) (m³/s)                  |            0.600          |          0.894        |
+|     Riverbed sediment                       |     Cobbles & Boulders    |        Boulders       |
+|     Temp. (Atmospheric) (°C)                |             26            |           14          |
+|     Temp. (Water) (°C)                      |            13.4           |          12.36        |
+|     Atmospheric pressure (mbar)             |             689           |                       |
+|     Dissolved oxygen (mg/l)                 |            3.97           |          6.07         |
+|     Dissolved oxygen (%)                    |            65.4           |          82.90        |
+|     pH                                      |            8.89           |          8.52         |
+|     Conductivity (µS/cm)                    |             230           |           398         |
+|     Total Dissolved Solids (ppm)            |             115           |           199         |
+|     ORP (mV)                                |            144.3          |          116.8        |
+|     Turbidity                               |           Clear:          |         Clear:        |
+|     Alkalinity (mg/l CaCO₃)                 |              -            |           83          |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |            -          |
 
 ### Data Analysis
 Discharge in the Rio Miraflores is year-round and as expected. The sub-catchment drains the three highest peaks with permanent snow cover, including both Llongote and Ticlla, in the area. 
