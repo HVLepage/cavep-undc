@@ -11,28 +11,29 @@ Site Code: RT08A.  GPS: S12°33656, W75°825343. Elevation:
 
 The following river and water quality data was collected from this site:
 
-| RT08A                        | July 2019                     | November 2019            |
-|------------------------------|-------------------------------|--------------------------|
-| Season:                      | Austral Winter                | Austral Summer           |
-| Date:                        | 11.07.2019                    | 20.11.2019               |
-| Time:                        | 12.30pm                       | 11.00am                  |
-| Width (m)                    | 3                             | 3                        |
-| Depth (Av.) (m)              | 0.113                         | 0.158                    |
-| CSA (Av.) (m²)               | 0.339                         | 0.474                    |
-| Velocity (Av.) (m/s)         | 0.652                         | 0.339                    |
-| Discharge (Av.) (m³/s)       | 0.221                         | 0.161                    |
-| Riverbed sediment            | Gravel, cobbles & small boulders| Cobbles & small boulders |
-| Temp. (Atmospheric) (°C)     | 12                            | 23                       |
-| Temp. (Water) (°C)           | 11.93                         | 12.85                    |
-| Atmospheric pressure (mbar)  | 697                           | 726                      |
-| Dissolved oxygen (mg/l)      | 5.24                          | 3.99                     |
-| Dissolved oxygen (%)         | 67.3                          | 63.3                     |
-| pH                           | 6.05                          | 8.68                     |
-| Conductivity (µS/cm)         | 263                           | 296                      |
-| Total Dissolved Solids (ppm) | 132                           | 148                      |
-| ORP (mV)                     | 350.2                         | 123.6                    |
-| Turbidity                    | Slightly turbid               | Clear                    |
-| Alkalinity (mg/l CaCO3)      | Pink to colourless 119 (1.6N) |  -                       |
+|     T8a                                     |              July 2019            |        November 2019      |      November 2021    |
+|---------------------------------------------|:---------------------------------:|:-------------------------:|:---------------------:|
+|     Season:                                 |           Austral Winter          |       Austral Summer      |     Austral Summer    |
+|     Date:                                   |             11.07.2019            |         20.11.2019        |        15.11.21       |
+|     Time:                                   |               12.30pm             |           11.00am         |         10.15am       |
+|     Width (m)                               |                 3.0               |             3.0           |           3.4         |
+|     Depth (Av.) (m)                         |                0.11               |            0.16           |          0.28         |
+|     CSA (Av.) (m²)                          |                0.34               |            0.47           |          0.96         |
+|     Velocity (Av.) (m/s)                    |                0.65               |            0.34           |          0.44         |
+|     Discharge (Av.) (m³/s)                  |                0.221              |            0.161          |          0.420        |
+|     Riverbed sediment                       |     Gravel, cobbles & boulders    |     Cobbles & Boulders    |     Mainly Cobbles    |
+|     Temp. (Atmospheric) (°C)                |                 12                |             23            |           20          |
+|     Temp. (Water) (°C)                      |                11.93              |            12.85          |          12.28        |
+|     Atmospheric pressure (mbar)             |                 697               |             726           |                       |
+|     Dissolved oxygen (mg/l)                 |                5.24               |            3.99           |          6.71         |
+|     Dissolved oxygen (%)                    |                67.3               |            63.3           |          87.20        |
+|     pH                                      |                6.05               |            8.68           |          8.33         |
+|     Conductivity (µS/cm)                    |                 263               |             296           |           371         |
+|     Total Dissolved Solids (ppm)            |                 132               |             148           |           186         |
+|     ORP (mV)                                |                350.2              |            123.6          |          146.1        |
+|     Turbidity                               |           Slightly turbid         |           Clear:          |         Clear:        |
+|     Alkalinity (mg/l CaCO₃)                 |             119 (1.6N)            |              -            |       110 (1.6N)      |
+|     Alkalinity Field Tester (ppm/ CaCO₃)    |                  -                |              -            |            -          |
 
 ### Data Analysis
 Discharge at this point along the Rio Laraos is always low. It is a small tributary and significant water abstraction takes place for the small town of Laraos and the irrigation of extensive Andenes (terraced hillsides). Discharge fell but remained similar from July to November. Any increased rainfall in this period would have been retained in the reservoir above Laraos and/or used for agricultural purposes.    
