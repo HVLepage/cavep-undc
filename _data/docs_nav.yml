@@ -28,7 +28,11 @@
     - link: /docs/RC16/
     - link: /docs/RT01A/
     - link: /docs/RT01B/ 
+    - link: /docs/RT01C/
+    - link: /docs/RT01D/
+    - link: /docs/RT01E/ 
     - link: /docs/RT02A/
+    - link: /docs/RT02B/ 
     - link: /docs/RT03A/
     - link: /docs/RT04A/
     - link: /docs/RT04B/
@@ -42,13 +46,15 @@
     - link: /docs/RT09A/
     - link: /docs/RT09AM/
     - link: /docs/RT09B/
-    - link: /docs/RT09C/
+    - link: /docs/RT09S/ 
+    - link: /docs/RT09Y/ 
+    - link: /docs/RT09C/    
     - link: /docs/RT10A/
     - link: /docs/RT10B/
     - link: /docs/RT11A/
     - link: /docs/RT11B/
 
-- title: Camarone Collection Point
+- title: Camarones Collection Point
   docs:
     - link: /docs/RC02b/
     - link: /docs/RC02c/
