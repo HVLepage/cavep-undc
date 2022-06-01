@@ -15,11 +15,11 @@ The following river and water quality data was collected from this site:
 
 
 
-![Site T02B - the study site location. (John Forrest)](/assets/SiteDescriptions/T2/T2Studysitelocation.jpg)
+![Site T02B - the study site location. (John Forrest)](/assets/SiteDescriptions/T2/T2b.jpg)
 Site T02B - the study site location: just above the village of Lincha. (John Forrest)
 
 
-![Site T02B - the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2BStudysite.JPG)
+![Site T02B - the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2Bstudysite.JPG)
 Site T02A - the study site. (John Forrest)
 
 
