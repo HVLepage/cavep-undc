@@ -24,7 +24,7 @@ Site T02A - the study site. (John Forrest)
 
 
 ![Site T02B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2BViewdownstream.jpg)
-Site T02A - View downstream from the study site. (John Forrest)
+Site T02B - View downstream from the study site. (John Forrest)
 
 
 ![Site T02B - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2BViewupstream.jpg)
