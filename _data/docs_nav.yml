@@ -3,6 +3,9 @@
     - link: /docs/
     - link: /docs/remote-sensing/
     - link: /docs/hydro-geochemistry/
+- title: Field Manuals
+  docs:
+    - link: /docs/field-manuals/
 - title: Interactive Map
   docs:
     - link: /docs/observation-sites/
