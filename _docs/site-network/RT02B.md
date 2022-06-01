@@ -20,7 +20,7 @@ Site T02B - the study site location: just above the village of Lincha. (John For
 
 
 ![Site T02B - the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2Bstudysite.jpg)
-Site T02A - the study site. (John Forrest)
+Site T02B - the study site. (John Forrest)
 
 
 ![Site T02B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2BViewdownstream.jpg)
