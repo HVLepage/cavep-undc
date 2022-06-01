@@ -4,6 +4,9 @@
 - title: Documentation
   link: /docs/
   show_on_mobile: true
+- title: Publications
+  link: /publications/
+  show_on_mobile: true
 - title: News
   link: /news/
   show_on_mobile: true
