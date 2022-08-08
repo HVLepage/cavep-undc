@@ -518,7 +518,7 @@ aside {
       left: -30px;
     }
     &.current a {
-        color: #fff;
+        color: #eee;
     }
   }
 }
@@ -777,11 +777,11 @@ pre.highlight { padding: 10px 0.5em; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 
 a {
-  color: #fc0;
+  color: #fff;
   text-decoration: none;
   @include transition(all .25s);
 
-  &:hover { color: #f90; }
+  &:hover { color: #eee; }
 }
 
 strong { font-weight: 700; }
