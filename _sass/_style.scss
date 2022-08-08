@@ -13,7 +13,7 @@
 body {
   font: 300 21px Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #ddd;
-  background-color: #7c8723;
+  background-color: #ffffff;
   @include box-shadow(inset 0 3px 30px rgba(0,0,0,.3));
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
   -webkit-font-feature-settings: "kern" 1;
@@ -131,8 +131,8 @@ nav, .meta {
   a {
     float: left;
     width: 100%;
-    background-color: #333;
-    color: #fc0;
+    background-color: #355918;
+    color: #57831a;
     text-align: center;
     text-transform: uppercase;
     font-size: 0.625em;
@@ -150,8 +150,8 @@ nav, .meta {
   .current {
 
     a {
-      background-color: #fc0;
-      color: #222;
+      background-color: #57831a;
+      color: #355918;
       @include box-shadow(inset 0 1px 0 rgba(255,255,255,.5), 0 1px 5px rgba(0,0,0,.5));
       text-shadow: 0 1px 0 rgba(255,255,255,.3);
     }
@@ -454,7 +454,7 @@ footer {
 
 
 article {
-  background-color: #444;
+  background-color: #ffffff;
   @include border-radius(10px);
   padding: 20px;
   margin: 0 10px;
