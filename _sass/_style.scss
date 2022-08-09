@@ -777,11 +777,11 @@ pre.highlight { padding: 10px 0.5em; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 
 a {
-  color: #eee;
+  color: #0000ff;
   text-decoration: none;
   @include transition(all .25s);
 
-  &:hover { color: #fff; }
+  &:hover { color: #3333ff; }
 }
 
 strong { font-weight: 700; }
