@@ -784,6 +784,14 @@ a {
   &:hover { color: #3333ff; }
 }
 
+#menu-nav a {
+  color: #ddd;
+  text-decoration: none;
+  @include transition(all .25s);
+
+  &:hover { color: #fff; }
+}
+
 strong { font-weight: 700; }
 
 p { line-height: 1.5em; }
@@ -835,7 +843,7 @@ blockquote {
 
 table {
   width: 100%;
-  background-color: #555;
+  background-color: #eee;
   margin: .5em 0;
   @include border-radius(5px);
   @include box-shadow(0 1px 3px rgba(0,0,0,.3));
