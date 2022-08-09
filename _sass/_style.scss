@@ -518,7 +518,7 @@ aside {
       left: -30px;
     }
     &.current a {
-        color: #eee;
+        color: #fff;
     }
   }
 }
@@ -777,11 +777,11 @@ pre.highlight { padding: 10px 0.5em; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 
 a {
-  color: #fff;
+  color: #eee;
   text-decoration: none;
   @include transition(all .25s);
 
-  &:hover { color: #eee; }
+  &:hover { color: #fff; }
 }
 
 strong { font-weight: 700; }
@@ -1135,7 +1135,7 @@ code.output {
   height: 0;
   padding-bottom: 62.623762376237624%; /* You define this doing height / width * 100% */
   position: relative;
-  background: #717171;
+  background: #AAAAAA;
   display: block;
 
   img {
