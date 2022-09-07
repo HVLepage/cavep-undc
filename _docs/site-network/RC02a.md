@@ -29,7 +29,7 @@ The following river and water quality data was collected from this site:
 |     Atmospheric pressure (mbar)             |                    978                   |                 960                |                                  |
 |     Dissolved oxygen (mg/l)                 |                    6.82                  |                 8.82               |                3.39              |
 |     Dissolved oxygen (%)                    |                    78.0                  |                108.4               |                38.9              |
-|     pH                                      |                    5.91                  |                 8.63               |                8.39              |
+|     pH                                      |                     -                    |                 8.63               |                8.39              |
 |     Conductivity (µS/cm)                    |                    408                   |                 405                |                507               |
 |     Total Dissolved Solids (ppm)            |                    204                   |                 202                |                253               |
 |     ORP (mV)                                |                   348.8                  |                176.3               |               127.6              |
@@ -42,7 +42,7 @@ It is the case that the amount of dissolved oxygen at 100% saturation at sea lev
 
 The conductivity reading at this site is 405-408 µS/cm across all seasons for these sample times. The level of conductivity in the Rio Canete at RC02 is an indicator of some contamination from waste waters and agricultural runoff. This is, however, lower than that found at RC00a or b, where sewage and agricultural waste would be expected to raise conductivity. Generally, agricultural runoff and sewage will increase conductivity due to the additional chloride, phosphate, and nitrate ions. Nitrate levels recorded at RC00b were also lower. Throughout the catchment nitrate levels ranged from ‘under range’ to 6.79 mg/l NO3 perhaps underlining the limited extent of intensive agriculture in the catchment.
 
-The pH in November of 8.6 falls within the tolerances of most aquatic vertebrates and invertebrates while the July readings require confirmation.
+The pH in November of just over 8.0 falls within the tolerances of most aquatic vertebrates and invertebrates.
 
 ### Site description
 Site RC02 is located in the tropical zone just below Puente Socsi and the long linear settlement of Lunahuana. It is flanked by intensively farmed lands on riverine terraces irrigated by waters extracted from the river at several points higher up. The town of Lunahuana is directly upriver and largely located atop a high riverine terrace on the south side of the channel. The valley floor at this point is a narrowing flat flood plain bounded north and south by arid desertic hills with little or no vegetation.
