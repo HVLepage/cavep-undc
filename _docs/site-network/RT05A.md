@@ -26,7 +26,7 @@ The following river and water quality data was collected from this site:
 |     Atmospheric pressure (mbar)             |                              800                         |                   798                  |                        |
 |     Dissolved oxygen (mg/l)                 |                            6.16                          |                   5.19                 |           7.30         |
 |     Dissolved oxygen (%)                    |                            78.7                          |                   77.9                 |           98.9         |
-|     pH                                      |                            6.48                          |                   9.25                 |           8.64         |
+|     pH                                      |                             -                            |                   9.25                 |           8.64         |
 |     Conductivity (µS/cm)                    |                            270                           |                   267                  |           321          |
 |     Total Dissolved Solids (ppm)            |                            134                           |                   133                  |           161          |
 |     ORP (mV)                                |                           347.3                          |                  152.9                 |           81.1         |
@@ -42,7 +42,7 @@ At just over 2000m asl the DO readings at T5a are similar to other tributaries a
 
 The conductivity reading at this site (2266 (µS/cm) is very low, as expected at this elevation. 
 
-pH readings of 9.25 in November 2019, are on the high side. At these levels the alkalinity of the river is suitable for aquatic life but will be impacting on the reproductive success of many aquatic vertebrates. The July data requires confirmation. 
+An average pH reading of 9.25 in November 2019 is on the high side as is the overall average for this site of around 9.0 compared to the pH values recorded in the main valley. At these levels the alkalinity of the river is suitable for aquatic life but could start to impact on the reproductive success of many aquatic vertebrates.
 
 
 ### Site Description
