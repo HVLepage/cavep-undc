@@ -27,7 +27,7 @@ The following river and water quality data was collected from this site:
 |     Atmospheric pressure (mbar)             |                    888                  |             876           |                        |
 |     Dissolved oxygen (mg/l)                 |                   7.14                  |            5.81           |           6.55         |
 |     Dissolved oxygen (%)                    |                   84.4                  |            82.5           |           86.5         |
-|     pH                                      |                   5.86                  |            9.30           |           8.84         |
+|     pH                                      |                     -                   |            9.30           |           8.84         |
 |     Conductivity (µS/cm)                    |                    438                  |             493           |           571          |
 |     Total Dissolved Solids (ppm)            |                    219                  |             247           |           286          |
 |     ORP (mV)                                |                   346.2                 |            132.8          |           30.0         |
@@ -43,7 +43,7 @@ At just over 1000m asl the DO readings at RT2a are as expected for both July and
 
 The conductivity at this site 437-491 (µS/cm) is higher than that recorded in the main channel. 
 
-At pH 9.29, as recorded in November 2019, readings are what would be expected and suitable for aquatic life and not approaching the tolerances of most aquatic vertebrates and invertebrates. The July data requires confirmation. 
+At around 9.0 the pH recorded in November is slightly higher than expected and higher than the average recordings for all main channel sites but is not approaching the maximum tolerances of most aquatic vertebrates and invertebrates. 
 
 
 ### Site Description
