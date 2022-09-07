@@ -27,7 +27,7 @@ The following river and water quality data was collected from this site:
 |     Atmospheric pressure (mbar)             |                 765                |                 765                |                                    |
 |     Dissolved oxygen (mg/l)                 |                 5.90               |                 4.43               |                 7.07               |
 |     Dissolved oxygen (%)                    |                 70.1               |                 64.9               |                 89.1               |
-|     pH                                      |                 5.95               |                 8.24               |                 8.12               |
+|     pH                                      |                  -                 |                 8.24               |                 8.12               |
 |     Conductivity (µS/cm)                    |                 125                |                 153                |                 178                |
 |     Total Dissolved Solids (ppm)            |                  62                |                  76                |                  89                |
 |     ORP (mV)                                |                345.1               |                114.2               |                100.3               |
@@ -41,7 +41,9 @@ Discharge in the Rio Yauyos is very similar to that in other sub-catchments. Ele
 
 At just over 2345m asl the DO readings at T6a fall within the range to be expected for both July and November data sets. Again, the increased elevation and diurnal fluctuations in temperature in narrow, sheltered sections of the valley will produce fluctuations in maximum absolute oxygen capacity and, in consequence, percentage saturation. This then fluctuates with that rhythm accordingly. The DO levels appear to be rather variable at this site, perhaps indicating that the conditions for life are likewise rather variable.
 
-The conductivity reading at this site (153 (µS/cm) is very low as expected from higher elevation tributaries. pH readings of 8.26 in November 2019, are as expected. At these levels the alkalinity of the river is suitable for aquatic life and not approaching the tolerances of most aquatic vertebrates and invertebrates. The July 2019 readings require confirmation.
+The conductivity reading at this site (153 (µS/cm) is very low as expected from higher elevation tributaries. 
+
+The average pH readings of just over 8.0 in November are as expected. At these levels the alkalinity of the river is suitable for aquatic life and not approaching the tolerances of most aquatic vertebrates and invertebrates. 
 
 
 ### Site Description
