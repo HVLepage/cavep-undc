@@ -27,7 +27,7 @@ The following river and water quality data was collected from this site:
 |     Atmospheric pressure (mbar)             |             599           |             680           |                       |
 |     Dissolved oxygen (mg/l)                 |            5.04           |            3.63           |          6.06         |
 |     Dissolved oxygen (%)                    |            67.6           |            59.6           |          82.1         |
-|     pH                                      |            6.24           |            8.35           |          8.05         |
+|     pH                                      |              -            |            8.35           |          8.05         |
 |     Conductivity (µS/cm)                    |             602           |             625           |           803         |
 |     Total Dissolved Solids (ppm)            |             301           |             312           |           402         |
 |     ORP (mV)                                |            349.3          |            154.5          |          143.3        |
@@ -36,9 +36,12 @@ The following river and water quality data was collected from this site:
 |     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |              -            |            -          |
 
 ### Data Analysis
-Discharge fluctuations at this point along the Rio Alis reflect the timing, with discharge slowing and reducing as the dry season progresses.                       
+Discharge fluctuations at this point along the Rio Alis reflect the timing, with discharge slowing and reducing as the dry season progresses.                     
 
-At well over 3200m asl the DO readings at T9a fall within the range to be expected. It again shows the fall in DO readings from July to November for this tributary. Data from this site may reflect the significantly higher temperatures in November, although water temperatures were similar. The measurements for conductivity and total solids are all high and may reflect the fact that this site lies below a more significant settlement. Sewage outfall and other pollutants from domestic waste may enter the channel here. However, despite this readings for water quality are not poor.
+At well over 3200m asl the DO readings at T9a fall within the range to be expected. It again shows the fall in DO readings from July to November for this tributary. Data from this site may reflect the significantly higher temperatures in November, although water temperatures were similar. 
+
+The measurements for conductivity and total solids are all high and may reflect the fact that this site lies below a more significant settlement. Sewage outfall and other pollutants from domestic waste may enter the channel here. However, despite this readings for water quality are not poor.
+
 
 
 ### Site Description
