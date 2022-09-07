@@ -27,7 +27,7 @@ The following river and water quality data was collected from this site:
 |     Atmospheric pressure (mbar)             |             879           |             845           |                       |
 |     Dissolved oxygen (mg/l)                 |            6.59           |            4.80           |                       |
 |     Dissolved oxygen (%)                    |            81.6           |            64.9           |                       |
-|     pH                                      |            5.96           |            9.41           |                       |
+|     pH                                      |              -            |            9.41           |                       |
 |     Conductivity (µS/cm)                    |             181           |             182           |                       |
 |     Total Dissolved Solids (ppm)            |             90            |             91            |                       |
 |     ORP (mV)                                |            341.0          |            159.8          |                       |
@@ -42,7 +42,7 @@ At just over 1200m asl the DO readings at T3a are as expected for both July and 
 
 The conductivity readings at this site (180-183 µS/cm) are low, as would be expected for a relatively small sub-catchment. 
 
-pH readings of 9.43 in November 2019, are more alkaline than in the main channel. This does require further investigation to identify the causes of this. However, at these levels the alkalinity of the river is suitable for aquatic life and not approaching the tolerances of most aquatic vertebrates and invertebrates. The July data requires confirmation. 
+An average pH reading of 9.41 in November 2021 was the highest recorded in the Canete valley indicating that it is more alkaline than the main channel. This requires further investigation to identify the causes. However, at these levels the alkalinity of the river is still suitable for aquatic life and not approaching the tolerances of most aquatic vertebrates and invertebrates.
 
 
 ### Site Description
