@@ -27,7 +27,7 @@ The following river and water quality data was collected from this site:
 |     Atmospheric pressure (mbar)             |                 697               |             726           |                       |
 |     Dissolved oxygen (mg/l)                 |                5.24               |            3.99           |          6.71         |
 |     Dissolved oxygen (%)                    |                67.3               |            63.3           |          87.20        |
-|     pH                                      |                6.05               |            8.68           |          8.33         |
+|     pH                                      |                  -                |            8.68           |          8.33         |
 |     Conductivity (µS/cm)                    |                 263               |             296           |           371         |
 |     Total Dissolved Solids (ppm)            |                 132               |             148           |           186         |
 |     ORP (mV)                                |                350.2              |            123.6          |          146.1        |
@@ -47,8 +47,9 @@ The solubility of oxygen decreases as temperature increases; warmer surface wate
 -dissolved oxygen increases as pressure increases. This is true of both atmospheric and hydrostatic pressures. Water at lower altitudes can hold more dissolved oxygen than water at higher altitudes. This relationship also explains the potential for “supersaturation” of waters below the thermocline. Hydrostatic saturation decreases by 10% per meter increase in depth due to hydrostatic pressure. This means that if the concentration of dissolved oxygen is at 100% air saturation at the surface, it would only be at 70% air saturation three meters below the surface.
 -as one ascends through the Andes the capacity of water to hold dissolved oxygen increases as temperature falls. This typically takes place at 1-1.5°C for every 100m increase in elevation. At the same time DO decreases as atmospheric pressure falls. As such another variable is required to explain this anomalous measurement.
 
-The conductivity readings at this site (180-185 µS/cm) are as expected for a sub-catchment. pH readings of 8.52 in November 2019, is as expected. At these levels the alkalinity of the river is highly suitable for aquatic life and indicative of clean water. The July data is an outlier that has been discussed since that visit. It is thought most likely the product of a calibration error but requires confirmation. 
+The conductivity readings at this site (180-185 µS/cm) are as expected for a sub-catchment. 
 
+Average pH readings of about 8.5 in November are as expected. At these levels the alkalinity of the river is highly suitable for aquatic life and indicative of clean water. 
 
 ### Site Description
 Site T8a lies in the Rio Laraos valley at 2914m asl and just above the confluence with the Rio Canete. It is located in the temperate zone, above the HEP station G2, in a picturesque section of the valley. The valley at this point is narrow with a v-shaped profile and a narrow flood-plain. Bed load in the river channel is comprised of scattered large boulders, gravels, and smaller stones. River flow in the Rio Laraos is year-round and delivers a minimal input to the Rio Canete. This is probably because water abstraction is significant for the settlement of Laraos and the surrounding terraces. 
