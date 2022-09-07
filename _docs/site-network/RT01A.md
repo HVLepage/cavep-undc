@@ -26,7 +26,7 @@ The following river and water quality data was collected from this site:
 |     Atmospheric pressure (mbar)             |             905           |                   889                  |                                    |
 |     Dissolved oxygen (mg/l)                 |            7.90           |                   9.63                 |                 8.26               |
 |     Dissolved oxygen (%)                    |            93.6           |                  141.7                 |                106.6               |
-|     pH                                      |            5.81           |                   8.70                 |                 7.88               |
+|     pH                                      |              -            |                   8.70                 |                 7.88               |
 |     Conductivity (µS/cm)                    |             778           |                   1111                 |                 1090               |
 |     Total Dissolved Solids (ppm)            |             389           |                   558                  |                 545                |
 |     ORP (mV)                                |            348.4          |                   84.4                 |                -25.0               |
@@ -39,7 +39,7 @@ At 7.54-8.2 mg/l the DO reading is almost at full saturation. In November, the  
 
 The conductivity readings from 750 to over 1100 (µS/cm) are exceptionally high in the catchment and these reading require further investigation. It is almost certainly the case that they reflect both the underlying geology and pollution from both wastewater and agricultural runoff. Generally, agricultural runoff and sewage will increase conductivity due to the additional chloride, phosphate, and nitrate ions. 
 
-Recorded levels of pH at around 8.5-9.1 in November are as would be expected. The pH of water here falls well within the tolerances of most aquatic vertebrates and invertebrates. The July data requires confirmation. 
+Recorded levels of pH at around 8.0 in November are as expected though the November 2021 average recording (7.88) was lower than most recordings in the main river channel. The pH of water here falls well within the tolerances of most aquatic vertebrates and invertebrates. 
 
 
 ### Site Description
