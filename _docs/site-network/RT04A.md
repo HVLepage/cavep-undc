@@ -26,7 +26,7 @@ The following river and water quality data was collected from this site:
 |     Atmospheric pressure (mbar)             |             825           |                   824                  |                           |
 |     Dissolved oxygen (mg/l)                 |            5.49           |                   4.95                 |            7.86           |
 |     Dissolved oxygen (%)                    |            68.1           |                   69.6                 |            107.5          |
-|     pH                                      |            5.95           |                   8.87                 |            8.73           |
+|     pH                                      |              -            |                   8.87                 |            8.73           |
 |     Conductivity (µS/cm)                    |             248           |                   236                  |             365           |
 |     Total Dissolved Solids (ppm)            |             124           |                   118                  |             182           |
 |     ORP (mV)                                |            342.7          |                  132.7                 |            59.3           |
@@ -41,7 +41,7 @@ At just over 1740m asl the DO readings at RT4a fall within the range to be expec
 
 The Conductivity reading at this site (235-250 (µS/cm) is very low. Since the stream discharge is very low the impact on the quality of water in the main channel is minimal.  
 
-pH readings of 8.85 in November 2019, are as expected. At these levels the alkalinity of the river is suitable for aquatic life and not approaching the tolerances of most aquatic vertebrates and invertebrates. The July data requires confirmation. 
+pH readings approaching 9.0 in November are slightly on the high side comapred to the main valley. At these levels the alkalinity of the river is still suitable for most aquatic life and not approaching the tolerances of most aquatic vertebrates and invertebrates.
 
 
 ### Site description
