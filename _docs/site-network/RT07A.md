@@ -27,7 +27,7 @@ The following river and water quality data was collected from this site:
 |     Atmospheric pressure (mbar)             |           725          |           745          |                        |
 |     Dissolved oxygen (mg/l)                 |           6.04         |           4.69         |           6.21         |
 |     Dissolved oxygen (%)                    |           69.3         |           73.7         |           85.7         |
-|     pH                                      |           5.96         |           8.56         |           8.33         |
+|     pH                                      |            -           |           8.56         |           8.33         |
 |     Conductivity (µS/cm)                    |           180          |           173          |           289          |
 |     Total Dissolved Solids (ppm)            |            90          |            86          |           145          |
 |     ORP (mV)                                |          354.1         |          145.5         |           91.6         |
@@ -43,7 +43,7 @@ At just over 2400m asl the DO readings at T7a fall within the range to be expect
 
 The conductivity readings at this site (180-185 µS/cm) are as expected for a sub-catchment.    
 
-pH readings of 8.52 in November 2019, is as expected. At these levels the alkalinity of the river is highly suitable for aquatic life and indicative of clean water. The July data requires confirmation. 
+Average pH readings of approximately 8.5 in November are as expected. At these levels the alkalinity of the river is highly suitable for aquatic life and indicative of clean water.
 
 
 ### Site Description
