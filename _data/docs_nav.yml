@@ -27,7 +27,9 @@
     - link: /docs/RC12/
     - link: /docs/RC13/
     - link: /docs/RC14/
-    - link: /docs/RC15/
+    - link: /docs/RC15A/
+    - link: /docs/RC15B/
+    - link: /docs/RC15C/
     - link: /docs/RC16/
     - link: /docs/RT01A/
     - link: /docs/RT01B/ 
@@ -43,15 +45,19 @@
     - link: /docs/RT06A/
     - link: /docs/RT06B/
     - link: /docs/RT07A/
+    - link: /docs/RT07B/
     - link: /docs/RT08A/
     - link: /docs/RT08B/
     - link: /docs/RT08C/
     - link: /docs/RT09A/
+    - link: /docs/RT09A2/
     - link: /docs/RT09AM/
     - link: /docs/RT09B/
     - link: /docs/RT09S/ 
     - link: /docs/RT09Y/ 
-    - link: /docs/RT09C/    
+    - link: /docs/RT09C/
+    - link: /docs/RT09S1/
+    - link: /docs/RT09S2/    
     - link: /docs/RT10A/
     - link: /docs/RT10B/
     - link: /docs/RT11A/
