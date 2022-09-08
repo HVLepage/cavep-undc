@@ -4,7 +4,7 @@ permalink: /docs/RC15B/
 ---
 
 
-Site Code: RC15B.  GPS: S12075708, W75.771023. Elevation: 4025m asl.
+Site Code: RC15B.  GPS: S12°075708, W75°771023. Elevation: 4025m asl.
 
 
 ### Water Quality Data
