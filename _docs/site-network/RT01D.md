@@ -20,3 +20,7 @@ The following river and water quality data was collected from this site:
 Site RT01d - the study site (Geothermal spring) beside the rio Viñac. (John Forrest)
 
 
+![Site RT01D - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/T1dGeothermalsource.jpg)
+Site RT01d - the study site (Geothermal spring). (John Forrest)
+
+
