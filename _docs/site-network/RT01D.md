@@ -21,6 +21,6 @@ Site RT01d - the study site (Geothermal spring) beside the rio Viñac. (John For
 
 
 ![Site RT01D - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/T1dGeothermalsource.jpg)
-Site RT01d - the study site (Geothermal spring). (John Forrest)
+Site RT01d - the study site (Geothermal spring) adjoining the rio Cañete (on the right). (John Forrest)
 
 
