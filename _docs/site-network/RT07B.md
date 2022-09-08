@@ -15,7 +15,7 @@ The following river and water quality data was collected from this site:
 
 
 
-### Data Analysis
+### Data Analysis  (to be completed)
 Discharge at this point along the Rio Huantan
 
 At just over 3600m asl the DO readings at T7b 
@@ -26,7 +26,7 @@ Average pH readings of approximately  in June
 At these levels the alkalinity of the river is suitable for aquatic life and indicative of clean water.
 
 
-### Site Description
+### Site Description (to be completed)
 Site T7b lies in the Rio Huantan valley at 3625m asl and well above the village of Huantan. 
 River flow in the Rio Huantan is year-round and delivers a significant proportion of river discharge at this point in the catchment. 
 
