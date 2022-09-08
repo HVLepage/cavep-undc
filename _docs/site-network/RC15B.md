@@ -41,7 +41,7 @@ Site RC15B - Study site location: subterranean outflow from below the cave of th
 Site RC15B - the study site: subterrenean outflow pool. (John Forrest)
 
 
-![RC15B View upstream](/assets/SiteDescriptions/RC15/RC15BStudysite.JPG)
-Site RC15B - View upstream. (John Forrest)
+![RC15B Study site](/assets/SiteDescriptions/RC15/RC15BStudysite.JPG)
+Site RC15B - the study site and view of the main river channel in the background. (John Forrest)
 
 
