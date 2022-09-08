@@ -3,7 +3,7 @@ title: RC15C - Baños del Inca
 permalink: /docs/RC15C/
 ---
 
-Site Code: RC15C.  GPS: SXXX, WXXX. Elevation: XXXm asl.
+Site Code: RC15C.  GPS: S12.083573, W75.952793. Elevation: 4,185m asl.
 
 ### Water Quality Data
 
@@ -20,7 +20,7 @@ As the population density above Puente Vilca is very low, the impact of anthropi
 
   
 ### Site Descriptions  (To be completed)
-Site RC15C lies at 4025m asl in 
+Site RC15C lies at nearly 4,200m asl in 
 At this point the valley enters a narrow 
 This reflects the fact that we are reaching the headwaters and clearly glaciated landscapes.
 The bed load in the river channel is comprised of sands, gravels, and smaller boulders. 
