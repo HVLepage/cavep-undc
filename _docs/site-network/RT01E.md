@@ -16,7 +16,7 @@ The following river and water quality data was collected from this site:
 
 
 
-![Site RT01E - the study site location. (John Forrest)](/assets/SiteDescriptions/T91/RT1eVinaksource.jpg)
+![Site T01E - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/RT1eVinaksource.jpg)
 Site RT01E - the study site location: in the bofedal at the base of the scree slope. (John Forrest)
 
 
