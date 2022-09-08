@@ -37,8 +37,12 @@ At these elevations the fauna and flora are now more typical of the high Andes. 
 Site RC15B - Study site location: subterranean outflow. (John Forrest)
 
 
-![Site RC15B - the study site & view upstream. (John Forrest)](/assets/SiteDescriptions/RC15/RC15BStudysite.jpg)
+![Site RC15B - the study site](/assets/SiteDescriptions/RC15/RC15BStudysite.jpg)
 Site RC15B - the study site: subterrenean outflow pool. (John Forrest)
+
+
+![Site RC15B - the study site](/assets/SiteDescriptions/RC15/RC15BRiverreemergence.jpg)
+Site RC15B - the study site: reemergence of the river. (John Forrest)
 
 
 ![RC15B View upstream](/assets/SiteDescriptions/RC15/RC15BViewupstream.jpg)
