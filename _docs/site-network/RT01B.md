@@ -30,3 +30,11 @@ Site RT01B - The study site post-flood. (John Forrest)
 
 ![Site T01B - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1bStudysitepostflood2.jpg)
 Site RT01B - The study site post-flood. (John Forrest)
+
+
+![Site T01B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1bViewdownstream.jpg)
+Site RT01B - view downstream. (John Forrest)
+
+
+![Site T01B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1bViewupstream.jpg)
+Site RT01B - view upstream. (John Forrest)
