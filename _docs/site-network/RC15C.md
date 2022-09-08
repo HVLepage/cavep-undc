@@ -3,7 +3,7 @@ title: RC15C - Baños del Inca
 permalink: /docs/RC15C/
 ---
 
-Site Code: RC15C.  GPS: S12.083573, W75.952793. Elevation: 4,185m asl.
+Site Code: RC15C.  GPS: S12°083573, W75°952793. Elevation: 4,185m asl.
 
 ### Water Quality Data
 
