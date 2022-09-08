@@ -1,7 +1,7 @@
 
 ---
 title: RT09Y - Yauricocha 
-permalink: /docs/RT09S1/
+permalink: /docs/RT09Y/
 ---
 RT09Y - Yauricocha (upper Alis valley)
 
@@ -21,12 +21,12 @@ Site RT09Y - the study site location: in the Alis valley just below the village 
 
 
 ![Site T09Y - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9YStudysite.jpg)
-Site T09Y - the study site. (John Forrest)
+Site RT09Y - the study site. (John Forrest)
 
 
 ![Site T09Y - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9YViewdownstream.jpg)
-Site T09Y - View downstream from the study site. (John Forrest)
+Site RT09Y - View downstream from the study site. (John Forrest)
 
 
 ![Site T09Y - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9YViewupstream.jpg)
-Site T09Y - View upstream from the study site. (John Forrest)
+Site RT09Y - View upstream from the study site. (John Forrest)
