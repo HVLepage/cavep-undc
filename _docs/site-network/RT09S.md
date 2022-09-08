@@ -15,7 +15,7 @@ The following river and water quality data was collected from this site:
 
 
 
-![Site RT09S1 - the study site location. (John Forrest)](/assets/SiteDescriptions/T9/RT9 (Sinhua).jpg)
+![Site RT09S1 - the study site location. (John Forrest)](/assets/SiteDescriptions/T9/RT9(Sinhua).jpg)
 Site RT09S1 - the study site location: in the lower Sinhua valley above Tomas. (John Forrest)
 
 
