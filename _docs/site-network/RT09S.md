@@ -20,12 +20,12 @@ Site RT09S1 - the study site location: in the lower Sinhua valley above Tomas. (
 
 
 ![Site T09S1 - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9SStudysite.jpg)
-Site T09S1 - the study site. (John Forrest)
+Site RT09S1 - the study site. (John Forrest)
 
 
 ![Site T09S1 - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9SViewdownstream.jpg)
-Site T09S1 - View downstream from the study site. (John Forrest)
+Site RT09S1 - View downstream from the study site. (John Forrest)
 
 
 ![Site T09S1 - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9SViewupstream.jpg)
-Site T09S1 - View upstream from the study site. (John Forrest)
+Site RT09S1 - View upstream from the study site. (John Forrest)
