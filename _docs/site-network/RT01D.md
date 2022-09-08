@@ -1,7 +1,6 @@
 
 ---
 title: RT01D - Upper Viñac 
-
 permalink: /docs/RT01D/
 ---
 RT01D - Upper Viñac
@@ -17,7 +16,7 @@ The following river and water quality data was collected from this site:
 
 
 
-![Site RT01d - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/RT1dGeothermalspring.jpg)
+![Site RT01D - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/RT1dGeothermalspring.jpg)
 Site RT01d - the study site (Geothermal spring) beside the rio Viñac. (John Forrest)
 
 
