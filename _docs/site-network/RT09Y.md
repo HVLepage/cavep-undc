@@ -16,8 +16,8 @@ The following river and water quality data was collected from this site:
 
 
 
-![Site RT09Y - the study site location. (John Forrest)](/assets/SiteDescriptions/T9/RT9(Yauricocha).jpg)
-Site RT09Y - the study site location: in the Alis valley close to Tingo. (John Forrest)
+![Site RT09Y - the study site location. (John Forrest)](/assets/SiteDescriptions/T9/RT9(Yauricochabelowmine).jpg)
+Site RT09Y - the study site location: in the Alis valley just below the village of Tingo. (John Forrest)
 
 
 ![Site T09Y - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9YStudysite.jpg)
