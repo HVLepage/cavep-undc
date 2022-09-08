@@ -1,11 +1,11 @@
 ---
-title: RC15 - Puente Vilca
-permalink: /docs/RC15/
+title: RC15A - Puente Vilca
+permalink: /docs/RC15A/
 ---
 
 
 
-Site Code: RC15.  GPS: S12°12978, W75°818722. Elevation:
+Site Code: RC15A.  GPS: S12°12978, W75°818722. Elevation:
 3822m asl.
 
 ### Water Quality Data
