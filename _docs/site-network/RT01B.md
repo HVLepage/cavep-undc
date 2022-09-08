@@ -3,7 +3,7 @@
 title: RT01B - Middle Viñac
 permalink: /docs/RT01B/
 ---
-RT01B1 - Middle Viñac (Below Viñac)
+RT01B - Middle Viñac (Below Viñac)
 
 Site Code: RT01B.  GPS: S12°927273, W75°794645. Elevation:
 2770m asl.
