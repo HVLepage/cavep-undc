@@ -1,12 +1,13 @@
 
 ---
-title: RT09S1 - Lower Sinhua
-permalink: /docs/RT09S1/
----
-RT09S1 - Lower Sinhua (Alis tributary)
+title: RT01D - Upper Viñac 
 
-Site Code: RT09S1.  GPS: S12°20695, W75°738432. Elevation:
-3810m asl.
+permalink: /docs/RT01D/
+---
+RT01D - Upper Viñac
+
+Site Code: RT01D.  GPS: S12°914459, W75°701602. Elevation:
+3825m asl.
 
 ### Water Quality Data
 
@@ -16,18 +17,7 @@ The following river and water quality data was collected from this site:
 
 
 
-![Site RT09S1 - the study site location. (John Forrest)](/assets/SiteDescriptions/T9/RT9(Sinhua).jpg)
-Site RT09S1 - the study site location: in the lower Sinhua valley above Tomas. (John Forrest)
+![Site RT01d - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/RT1dGeothermalspring.jpg)
+Site RT01d - the study site (Geothermal spring) beside the rio Viñac. (John Forrest)
 
-
-![Site T09S1 - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9SStudysite.jpg)
-Site RT09S1 - the study site. (John Forrest)
-
-
-![Site T09S1 - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9SViewdownstream.jpg)
-Site RT09S1 - View downstream from the study site. (John Forrest)
-
-
-![Site T09S1 - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9SViewupstream.jpg)
-Site RT09S1 - View upstream from the study site. (John Forrest)
 
