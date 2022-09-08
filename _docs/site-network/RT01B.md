@@ -21,7 +21,7 @@ Site RT01B - the study site location: in the middle Viñac valley below the vill
 
 
 ![Site T01B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1bStudysite.jpg)
-Site RT01B - the study site. (John Forrest)
+Site RT01B - the study site post-flood. (John Forrest)
 
 
 ![Site T01B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1bStudysitepostflood1.jpg)
