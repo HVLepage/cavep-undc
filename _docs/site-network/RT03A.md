@@ -60,8 +60,9 @@ Site T03A - the study site location: just beside the settlement of Catahuasi and
 
 
 ![Site T03A - the study site. (John Forrest)](/assets/SiteDescriptions/T3/T3AStudysite.JPG)
-Site T03A - the study site. (John Forrest)
+Site T03A - the study site. (July 2019) (John Forrest)
 
 
 ![Site T03A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T3/T3AViewupstream.JPG)
-Site T03A - View upstream from the study site. (John Forrest)
+Site T03A - View upstream from the study site. (July 2019) (John Forrest)
+
