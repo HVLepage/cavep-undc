@@ -61,12 +61,13 @@ Site T02A - the study site location: just below Puente Huayllampi. (John Forrest
 
 
 ![Site T02A - the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2AStudysite.JPG)
-Site T02A - the study site. (John Forrest)
+Site T02A - the study site. (July 2019) (John Forrest)
 
 
 ![Site T02A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2AViewdownstream.JPG)
-Site T02A - View downstream from the study site. (John Forrest)
+Site T02A - View downstream from the study site. (July 2019) (John Forrest)
 
 
 ![Site T02A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2AViewupstream.JPG)
-Site T02A - View upstream from the study site. (John Forrest)
+Site T02A - View upstream from the study site. (July 2019) (John Forrest)
+
