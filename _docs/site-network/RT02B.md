@@ -20,12 +20,12 @@ Site T02B - the study site location: just above the village of Lincha. (John For
 
 
 ![Site T02B - the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2Bstudysite.jpg)
-Site T02B - the study site. (John Forrest)
+Site T02B - the study site. (March 2022) (John Forrest)
 
 
 ![Site T02B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2BViewdownstream.jpg)
-Site T02B - View downstream from the study site. (John Forrest)
+Site T02B - View downstream from the study site. (March 2022) (John Forrest
 
 
 ![Site T02B - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2BViewupstream.jpg)
-Site T02B - View upstream from the study site. (John Forrest)
+Site T02B - View upstream from the study site. (March 2022) (John Forrest
