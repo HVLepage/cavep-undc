@@ -53,10 +53,13 @@ There is only permanent settlement (homestead) slightly higher up the valley.
 
 
 ![Site T9C - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9CSite.JPG)
-Site T09C - the study site (Nov.2021). (John Forrest)
+Site T09C - the study site (November 2021) (John Forrest)
+
 
 ![Site T9C - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9CViewupstream.JPG)
-Site T09C - the view upstream (Nov.2021). (John Forrest)
+Site T09C - the view upstream (November 2021) (John Forrest)
+
 
 ![Site T9C - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9CViewdownstream.JPG)
-Site T09C - the view downstream (Nov.2021). (John Forrest)
+Site T09C - the view downstream (November 2021) (John Forrest)
+
