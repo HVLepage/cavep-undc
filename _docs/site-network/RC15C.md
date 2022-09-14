@@ -32,18 +32,18 @@ At these elevations the fauna and flora are now more typical of the high Andes. 
 
 
 ![RC15C View upstream](/assets/SiteDescriptions/RC15/RC15CBanosdelInca.jpg)
-Site RC15C - Study site location. (John Forrest)
+Site RC15C - Study site location. 
 
 
 ![Site RC15C - the study site](/assets/SiteDescriptions/RC15/RC15CStudysite.jpg)
-Site RC15C - the study site: geothermal pool. (John Forrest)
+Site RC15C - the study site: geothermal pool. (June 2022) (Morag Hunter)
 
 
 ![RC15C View downstream](/assets/SiteDescriptions/RC15/RC15CViewdownstream.jpg)
-Site RC15C - View downstream. (John Forrest)
+Site RC15C - View downstream. (June 2022) (Morag Hunter)
 
 
 ![RC15C View upstream](/assets/SiteDescriptions/RC15/RC15CViewupstream.jpg)
-Site RC15C - View upstream. (John Forrest)
+Site RC15C - View upstream. (June 2022) (Morag Hunter)
 
 
