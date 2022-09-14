@@ -51,15 +51,15 @@ Water is drawn immediately from the manantial to supply the nearby settlement of
 
 
 ![Site T9A.M - the study site. (John Forrest)](/assets/SiteDescriptions/T9/RT9A2&RT9AM.jpg)
-Sites T09A.M & T9A2 - the location of study sites T9A2 & T9AM. (John Forrest)
+Sites T09A.M & T9A2 - the location of study sites T9A2 & T9AM.
 
 
 ![Site T9A.M - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9A.Manantial1.JPG)
-Site T09A.M - the study site (Nov.2021). (John Forrest)
+Site T09A.M - the study site (November 2021). (John Forrest)
 
 
 ![Site T9A.M - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9A.MManantial.JPG)
-Site T09A.M - one of the subterranean outflows at the study site (June.2022). (John Forrest)
+Site T09A.M - one of the subterranean outflows at the study site (June 2022). (John Forrest)
 
 
 
