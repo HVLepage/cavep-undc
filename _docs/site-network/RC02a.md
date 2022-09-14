@@ -55,16 +55,16 @@ There is little or no natural vegetation remaining in the lower valley and much 
 
 
 ![RC02a View upstream](/assets/SiteDescriptions/RC02/RC02aBelowPuenteSocsi.jpg)
-Site RC02a - Study site location: below Puente Socsi & above Socsi irrigation outflow. (John Forrest)
+Site RC02a - Study site location: below Puente Socsi & above Socsi irrigation outflow.
 
 
 ![Site RC02 - the study site. (John Forrest)](/assets/SiteDescriptions/RC02/RC02Studysite.JPG)
-Site RC02a - the study site. (John Forrest)
+Site RC02a - the study site.  (November 2019) (John Forrest)
 
 
 ![RC11 View upstream](/assets/SiteDescriptions/RC02/RC02Viewupstream.JPG)
-Site RC02a - View upstream. (John Forrest)
+Site RC02a - View upstream.  (November 2019) (John Forrest)
 
 
 ![RC08 View downstream](/assets/SiteDescriptions/RC02/RC02Viewdownstream.JPG)
-Site RC02a - View downstream. (John Forrest)
+Site RC02a - View downstream.  (November 2019) (John Forrest)
