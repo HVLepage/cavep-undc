@@ -66,8 +66,8 @@ Site T08A - the study site location: just beside the main valley highway. (John 
 
 
 ![Site T08A - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8AStudysite.JPG)
-Site T08A - the study site. (John Forrest)
+Site T08A - the study site. (July 2019) (John Forrest)
 
 
 ![Site T08A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8AViewupstream.JPG)
-Site T08A - View upstream from the study site. (John Forrest)
+Site T08A - View upstream from the study site. (July 2019) (John Forrest)
