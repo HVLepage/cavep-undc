@@ -50,7 +50,7 @@ The study site is dominated by eucalyptus and tall natural scrub.
 Water is drawn immediately from the manantial to supply the nearby settlement of Alis thereby reducing the discharge that it is possible to measure.
 
 
-![Site T9A.M - the study site. (John Forrest)](/assets/SiteDescriptions/T9/RT9A2&RT9AM)
+![Site T9A.M - the study site. (John Forrest)](/assets/SiteDescriptions/T9/RT9A2&RT9AM.jpg)
 Sites T09A.M & T9A2 - the location of study sites T9A2 & T9AM. (John Forrest)
 
 
