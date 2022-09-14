@@ -42,14 +42,14 @@ Site T07B - the study site location. (John Forrest)
 
 
 ![Site T07B - the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7BStudysite.JPG)
-Site T07B - the study site. (John Forrest)
+Site T07B - the study site. (June 2022) (John Forrest)
 
 
 ![Site T07B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7BViewdownstream.JPG)
-Site T07B - View downstream from the study site. (John Forrest)
+Site T07B - View downstream from the study site. (June 2022) (John Forrest)
 
 
 ![Site T07B - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7BViewupstream.JPG)
-Site T07B - View upstream from the study site. (John Forrest)
+Site T07B - View upstream from the study site. (June 2022) (John Forrest)
 
 
