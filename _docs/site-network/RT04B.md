@@ -55,10 +55,16 @@ Eucalyptus trees, shrubs and grasses surround the site and there is evidence of 
 
 ### Site photos
 
-![Site T04B - the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4BStudysite.JPG)
+![Site T04B - the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4BSite.JPG)
 Site T04B - the study site. (November 2021) (John Forrest)
 
 
 ![Site T04B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4BViewdownstream.JPG)
 Site T04B - View downstream from the study site. (November 2021) (John Forrest)
+
+
+![Site T04B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4BViewupstream.JPG)
+Site T04B - View upstream from the study site. (November 2021) (John Forrest)
+
+
 
