@@ -61,8 +61,8 @@ Site T04A - the study site location: just above the village of Calchota and up f
 
 
 ![Site T04A - the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4AStudysite.JPG)
-Site T04A - the study site. (John Forrest)
+Site T04A - the study site. (July 2019) (John Forrest)
 
 
 ![Site T04A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4AViewdownstream.JPG)
-Site T04A - View downstream from the study site. (John Forrest)
+Site T04A - View downstream from the study site. (July 2019) (John Forrest)
