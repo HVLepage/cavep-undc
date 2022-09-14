@@ -57,13 +57,13 @@ Tributary 06 - the Yauyos subcatchment. (Eustace Barnes)
 
 
 ![Site T06A - the study site location. (John Forrest)](/assets/SiteDescriptions/T6/RT06ALowerYauyosvalley.jpg)
-Site T06A - the study site location: below the bridge on the main Canete valley highway. (John Forrest)
+Site T06A - the study site location: below the bridge on the main Canete valley highway. (November 2021) (John Forrest)
 
 
 ![Site T06A - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6AStudysite.JPG)
-Site T06A - the study site. (John Forrest)
+Site T06A - the study site. (November 2021) (John Forrest)
 
 
 ![Site T06A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6AViewdownstream.JPG)
-Site T06A - View downstream from the study site. (John Forrest)
+Site T06A - View downstream from the study site. (November 2021) (John Forrest)
 
