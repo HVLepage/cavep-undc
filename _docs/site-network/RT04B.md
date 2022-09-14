@@ -51,3 +51,14 @@ Site T4b as sampled on this occasion, is an irrigation canal transferring water 
 The site lies in the Rio Allauca valley at 3114m asl, a short distance above the settlement of Allauca. The small tributary valley at this point is narrow with a v-shaped profile, very steep sided and with a very narrow flood-plain. The main valley below is much wider.
 The canal flows year-round, delivering a constant input to the settlements and irrigated land lower down the valley.
 Eucalyptus trees, shrubs and grasses surround the site and there is evidence of grazing animals passing by.
+
+
+### Site photos
+
+![Site T04B - the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4BStudysite.JPG)
+Site T04B - the study site. (November 2021) (John Forrest)
+
+
+![Site T04B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4BViewdownstream.JPG)
+Site T04B - View downstream from the study site. (November 2021) (John Forrest)
+
