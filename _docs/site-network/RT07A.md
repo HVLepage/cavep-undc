@@ -63,12 +63,12 @@ Site T07A - the study site location just above the Huantan turn off at Tingo. (J
 
 
 ![Site T07A - the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7AStudysite.JPG)
-Site T07A - the study site. (John Forrest)
+Site T07A - the study site. (July 2019) (John Forrest)
 
 
 ![Site T07A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7AViewimmediatelydownstream.JPG)
-Site T07A - View downstream from the study site. (John Forrest)
+Site T07A - View downstream from the study site. (July 2019) (John Forrest)
 
 
 ![Site T07A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7AViewupstream.JPG)
-Site T07A - View upstream from the study site. (John Forrest)
+Site T07A - View upstream from the study site. (July 2019) (John Forrest)
