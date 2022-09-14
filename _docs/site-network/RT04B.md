@@ -55,6 +55,10 @@ Eucalyptus trees, shrubs and grasses surround the site and there is evidence of 
 
 ### Site photos
 
+![Site T04B - the study site location. (John Forrest)](/assets/SiteDescriptions/T4/T4BLocation.jpg)
+Site T04B - the study site location: above Allauca (November 2021) & just above Allauca (proposed) (John Forrest)
+
+
 ![Site T04B - the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4BSite.JPG)
 Site T04B - the study site. (November 2021) (John Forrest)
 
