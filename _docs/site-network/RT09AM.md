@@ -62,4 +62,10 @@ Site T09A.M - the study site (November 2021). (John Forrest)
 Site T09A.M - one of the subterranean outflows at the study site (June 2022). (John Forrest)
 
 
+![Site T9A.M - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9A.Manantialexit1.JPG)
+Site T09A.M (Exit) - view from one side of the manantial towards the manantial exit (June 2022). (John Forrest)
+
+
+![Site T9A.M - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9A.Manantialexit2.JPG)
+Site T09A.M (Exit) - view from one side of the manantial towards the manantial exit (June 2022). (John Forrest)
 
