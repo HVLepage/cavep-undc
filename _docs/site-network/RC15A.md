@@ -50,17 +50,17 @@ At these elevations the fauna and flora are now more typical of the high Andes. 
 
 
 ![RC15 View upstream](/assets/SiteDescriptions/RC15/RC15PuenteVilca.jpg)
-Site RC15A - Study site location: lake outflow. (John Forrest)
+Site RC15A - Study site location: lake outflow.
 
 
 ![Site RC15 - the study site & view upstream. (John Forrest)](/assets/SiteDescriptions/RC15/RC15Site&Viewupstream.jpg)
-Site RC15A - the study site & view upstream. (John Forrest)
+Site RC15A - the study site & view upstream.  (November 2019) (John Forrest)
 
 
 ![RC15 View upstream](/assets/SiteDescriptions/RC15/RC15Viewupstream.jpg)
-Site RC15A - View upstream. (John Forrest)
+Site RC15A - View upstream.  (November 2019) (John Forrest)
 
 
 ![image](/assets/SiteDescriptions/RC15/RC15Viewdownstream.jpg)
-Site RC15A - View downstream. (John Forrest)
+Site RC15A - View downstream.  (November 2019) (John Forrest)
 
