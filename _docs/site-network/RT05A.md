@@ -60,13 +60,13 @@ Site T05A - the study site location: just up from Puente Auco. (John Forrest)
 
 
 ![Site T05A - the study site. (John Forrest)](/assets/SiteDescriptions/T5/T5AStudysite.JPG)
-Site T05A - the study site. (John Forrest)
+Site T05A - the study site. (July 2019) (John Forrest)
 
 
 ![Site T05A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T5/T5AViewdownstream.JPG)
-Site T05A - View downstream from the study site. (John Forrest)
+Site T05A - View downstream from the study site. (July 2019) (John Forrest)
 
 
 ![Site T05A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T5/T5AViewupstream.JPG)
-Site T05A - View upstream from the study site. (John Forrest)
+Site T05A - View upstream from the study site. (July 2019) (John Forrest)
 
