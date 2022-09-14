@@ -52,12 +52,13 @@ There are no permanent settlements higher up the valley.
 
 
 ![Site T11B - the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11Bsite.JPG)
-Site T11B - the study site (Nov.2021). (John Forrest)
+Site T11B - the study site (November 2021) (John Forrest)
+
 
 ![Site T11B - the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11Bviewupstream.JPG)
-Site T11B - the view upstream (Nov.2021). (John Forrest)
+Site T11B - the view upstream (November 2021) (John Forrest)
+
 
 ![Site T11B - the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11Bviewdownstream.JPG)
-Site T11B - the view downstream (Nov.2021). (John Forrest)
-
+Site T11B - the view downstream (November 2021) (John Forrest)
 
