@@ -55,12 +55,13 @@ Site T10A - the study site location just below Puente Chunque. (John Forrest)
 
 
 ![Site T10A - the study site. (John Forrest)](/assets/SiteDescriptions/T10/T10AStudysite.JPG)
-Site T10A - the study site. (John Forrest)
+Site T10A - the study site. (November 2019) (John Forrest)
 
 
 ![Site T10A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T10/T10AViewdownstream.JPG)
-Site T10A - View downstream from the study site. (John Forrest)
+Site T10A - View downstream from the study site. (November 2019) (John Forrest)
 
 
 ![Site T10A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T10/T10AViewupstream.JPG)
-Site T10A - View upstream from the study site. (John Forrest)
+Site T10A - View upstream from the study site. (November 2019) (John Forrest)
+
