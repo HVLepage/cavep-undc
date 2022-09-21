@@ -43,6 +43,8 @@ Discharge at this point along the Rio Canete is high at over 22 m³/s in the Sum
 
 At almost 3800m asl the DO readings at RC15A fall within the range to be expected. It again follows the pattern in which DO readings slowly fall as elevation increases. The measurements for conductivity and total solids are fairly high, which probably reflects local geological conditions and weathering processes in the river channel, but this is yet to be determined. At these levels of conductivity and total solids, water quality is good. 
 
+The pH readings of above 8.0 are as expected for a clean river and appropriate for most forms of aquatic life.
+
 As the population density above Puente Vilca is very low, the impact of anthropic activity is minimal. There is some mainly pastoral agriculture associated with the village of Vilca.
 
   
