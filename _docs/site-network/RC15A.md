@@ -39,7 +39,7 @@ The following river and water quality data was collected from this site:
 
 
 ### Data Analysis
-Discharge at this point along the Rio Canete is high at over 22 m³/s in the Summer but significantly less in the Winter. The fluctuations in discharge throughout the catchment reflect variations in precipitation and in the operations of the El Platanal hydro-electric plant with respect to the release of water from the upper reservoir (Pucaracocha).
+Discharge at this point along the Rio Cañete is high at over 22 m³/s in the Summer but significantly less in the Winter. The fluctuations in discharge throughout the catchment reflect variations in precipitation and in the operations of the El Platanal hydro-electric plant (HEP) with respect to the release of water from the upper reservoir (Pucaracocha). High discharge figures in November probably reflect the onset of the seasonal rains and the release of water from the HEP dam while the July figure reflects reduced rainfall and the storage of water at the HEP upstream.
 
 At almost 3800m asl the DO readings at RC15A fall within the range to be expected. It again follows the pattern in which DO readings slowly fall as elevation increases. The measurements for conductivity and total solids are fairly high, which probably reflects local geological conditions and weathering processes in the river channel, but this is yet to be determined. At these levels of conductivity and total solids, water quality is good. 
 
