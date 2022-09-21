@@ -56,7 +56,7 @@ There is no agricultural activity in the valley or valley sides, extensive pasto
 At these elevations the fauna and flora are now more typical of the high Andes. Andean Goose, Yellow-billed Teal, Yellow-billed Pintail, Puna Teal, Andean Coot, Spot-winged Pigeon, Black-winged Ground Dove and Mountain Caracara are now commonly observed.  
 
 
-![RC15B View upstream](/assets/SiteDescriptions/RC15/RC15BPuenteYamomachay.JPG)
+![RC15B View upstream](/assets/SiteDescriptions/RC15/RC15BPuenteYamomachay.jpg)
 Site RC15B - Study site location: subterranean outflow from below the cave of the Pishtaco. (John Forrest)
 
 
