@@ -47,7 +47,7 @@ As the population density above Puente Vilca is very low, the impact of anthropi
 ### Site Descriptions 
 Site RC15B lies at 4025m asl below a series of caves and is accessed though them. At this point the valley consists of a narrow steep sided gorge for about one kilometre.
 
-The bed load in the river channel is comprised of gravels, pebbles and smaller boulders. 
+The bed load in the river channel is comprised of gravels, pebbles and smaller boulders.  
 
 The river flow in the Rio Cañete at this point is reduced year round by significant infiltration resulting in a high percentage of the discharge passing underground (subterranean flow). This fluctuates significantly between the seasons with no flow in the main channel during the dry season due to the extent of the infiltration higher up the valley.
 
