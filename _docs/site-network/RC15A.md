@@ -39,14 +39,18 @@ The following river and water quality data was collected from this site:
 
 
 ### Data Analysis
-Discharge at this point along the Rio Canete is high at over 22 m³/s in the Summer but significantly less in the Winter. The fluctuations in discharge throughout the catchment reflect variations in precipitation and in the operations of the El platanal hydro-electric palnt.. However, the difference between RC15A and RC14 must mean that considerable amounts of water pass through subterranean channels and groundwater flows.
+Discharge at this point along the Rio Canete is high at over 22 m³/s in the Summer but significantly less in the Winter. The fluctuations in discharge throughout the catchment reflect variations in precipitation and in the operations of the El Platanal hydro-electric plant with respect to the release of water from the upper reservoir (Pucaracocha).
 
-At almost 3800m asl the DO readings at RC15A fall within the range to be expected. It again follows the pattern in which DO readings slowly fall as elevation increases. The measurements for conductivity and total solids are fairly high, which probably reflects local geological conditions and weathering processes in the river channel, but this is yet to be determined. At these levels of conductivity and total solids, water quality is not poor. As the population density above Puente Vilca is very low, the impact of anthropic activity is minimal. There is some pastoral agriculture associated with the village of Tanta. However, this is very distant from this site and lies above the large Pucaracocha (upper El Platanal) reservoir.
+At almost 3800m asl the DO readings at RC15A fall within the range to be expected. It again follows the pattern in which DO readings slowly fall as elevation increases. The measurements for conductivity and total solids are fairly high, which probably reflects local geological conditions and weathering processes in the river channel, but this is yet to be determined. At these levels of conductivity and total solids, water quality is good. 
+
+As the population density above Puente Vilca is very low, the impact of anthropic activity is minimal. There is some mainly pastoral agriculture associated with the village of Vilca.
+
   
 ### Site Descriptions
-Site RC15A lies in the arid temperate zone well above the town of Huancaya at 3877m asl. At this point the valley has a U-shaped profile and is shallower. This reflects the fact that we are reaching the headwaters and clearly glaciated landscapes. The channel gradient is also broken by a series of lakes, marshy areas and bofedales. The bed load in the river channel is comprised of sands, gravels, and smaller boulders. The river flow in the Rio Cañete here is high year-round with discharge at this time perhaps approaching base flow. Fluctuations in river flow throughout the catchment may well be dampened by the presence of so many lakes along the valley bottom.  
+Site RC15A lies in the arid temperate zone well above the town of Huancaya at 3877m asl. At this point the valley has a U-shaped profile and is shallower. This reflects the fact that we are reaching the headwaters and clearly glaciated landscapes. The channel gradient is also broken by a series of lakes, marshy areas and bofedales. The bed load in the river channel is mainly comprised of gravels, pebbles and smaller boulders. 
+The site is located at a bridge which partially dams the river creating a small lake behind it. Three tunnels permit water to drain from the lake. Totora beds occupy much of the lake immediately upstream from the bridge.
 
-There is no agricultural activity in the valley or valley sides. Otherwise, extensive pastoralism dominates rural land use throughout the headwater areas.
+There is no agricultural activity in the valley or on the valley sides. Otherwise, extensive pastoralism dominates rural land use throughout the headwater areas.
 
 At these elevations the fauna and flora are now more typical of the high Andes. Andean Goose, Yellow-billed Teal, Yellow-billed Pintail, Puna Teal, Andean Coot, Spot-winged Pigeon, Black-winged Ground Dove and Mountain Caracara are now commonly observed.  
 
