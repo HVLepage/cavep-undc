@@ -11,22 +11,45 @@ Site Code: RC15B.  GPS: S12°075708, W75°771023. Elevation: 4025m asl.
 
 The following river and water quality data was collected from this site:
 
+|     RC15b                                  |        July 2022      |
+|--------------------------------------------|:---------------------:|
+|     Season:                                |     Austral Winter    |
+|     Date:                                  |        3.7.2022       |
+|     Time:                                  |          11.30        |
+|     Width (m)                              |                       |
+|     Depth (Av.) (m)                        |                       |
+|     CSA (Av.) (m²)                         |                       |
+|     Velocity (Av.) (m/s)                   |                       |
+|     Discharge (Av.) (m³/s)                 |                       |
+|     Riverbed sediment                      |     Mainly Pebbles    |
+|     Temp. (Atmospheric) (°C)               |           6.6         |
+|     Temp. (Water) (°C)                     |          11.53        |
+|     Atmospheric pressure (mbar)            |          <600         |
+|     Dissolved oxygen (mg/l)                |          1.99         |
+|     Dissolved oxygen (%)                   |          31.58        |
+|     pH                                     |          7.58         |
+|     Conductivity (µS/cm)                   |           448         |
+|     Total Dissolved Solids (ppm)           |           224         |
+|     ORP (mV)                               |         146.75        |
+|     Turbidity                              |         Clear:        |
+|     Alkalinity (mg/l CaCO₃)                |       159 (1.6N)      |
+|     Alkalinity Field Tester (ppm CaCO₃)    |           142         |
 
-### Data Analysis  (To be completed)
-Discharge at this point along the Rio Canete is 
-The fluctuations in discharge throughout the catchment reflect localised abstraction. 
 
-At just over 4,000m asl the DO readings at RC15B 
+### Data Analysis 
+Discharge at this point along the Rio Cañete is very variable due to the specific geology close to this site. In the dry season all the water in the main river channel infiltrates underground several kilometres upstream of the site and there is no flow for several weeks in the main river channel above the site. At the site the subterranean flow reemerges from underground at several adjacent points and the river in the main channel reforms just below the site.
 
-As the population density above Puente Vilca is very low, the impact of anthropic activity is minimal. There is some pastoral agriculture activity in the area. 
+At just over 4,000m asl the DO readings at RC15B are low but as expected.
+
+As the population density above Puente Vilca is very low, the impact of anthropic activity is minimal though there is some limited pastoral agriculture activity in the area. 
 
   
-### Site Descriptions  (To be completed)
-Site RC15B lies at 4025m asl in 
-At this point the valley enters a narrow 
-This reflects the fact that we are reaching the headwaters and clearly glaciated landscapes.
-The bed load in the river channel is comprised of sands, gravels, and smaller boulders. 
-The river flow in the Rio Cañete here is high year-round with discharge at this time perhaps approaching base flow. 
+### Site Descriptions 
+Site RC15B lies at 4025m asl below a series of caves and is accessed though them. At this point the valley consists of a narrow steep sided gorge for about one kilometre.
+
+The bed load in the river channel is comprised of gravels, pebbles and smaller boulders. 
+
+The river flow in the Rio Cañete at this point is reduced year round by significant infiltration resulting in a high percentage of the discharge passing underground (subterranean flow). This fluctuates significantly between the seasons with no flow in the main channel during the dry season due to the extent of the infiltration higher up the valley.
 
 There is no agricultural activity in the valley or valley sides, extensive pastoralism dominates rural land use throughout the headwater areas.
 
