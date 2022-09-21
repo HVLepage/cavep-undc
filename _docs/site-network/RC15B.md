@@ -41,6 +41,8 @@ Discharge at this point along the Rio Cañete is very variable due to the specif
 
 At just over 4,000m asl the DO readings at RC15B are low but as expected.
 
+The average pH reading of almost 8.0 is as expected for a clean river and appropriate for most forms of aquatic life.
+
 As the population density above Puente Vilca is very low, the impact of anthropic activity is minimal though there is some limited pastoral agriculture activity in the area. 
 
   
