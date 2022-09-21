@@ -5,30 +5,51 @@ permalink: /docs/RC15C/
 
 Site Code: RC15C.  GPS: S12°083573, W75°952793. Elevation: 4,185m asl.
 
+
 ### Water Quality Data
 
 The following river and water quality data was collected from this site:
+|     RC15c                                  |        July 2022      |
+|--------------------------------------------|:---------------------:|
+|     Season:                                |     Austral Winter    |
+|     Date:                                  |        6.7.2022       |
+|     Time:                                  |          12.00        |
+|     Width (m)                              |                       |
+|     Depth (Av.) (m)                        |                       |
+|     CSA (Av.) (m²)                         |                       |
+|     Velocity (Av.) (m/s)                   |                       |
+|     Discharge (Av.) (m³/s)                 |                       |
+|     Riverbed sediment                      |                       |
+|     Temp. (Atmospheric) (°C)               |                       |
+|     Temp. (Water) (°C)                     |                       |
+|     Atmospheric pressure (mbar)            |                       |
+|     Dissolved oxygen (mg/l)                |                       |
+|     Dissolved oxygen (%)                   |                       |
+|     pH                                     |                       |
+|     Conductivity (µS/cm)                   |                       |
+|     Total Dissolved Solids (ppm)           |                       |
+|     ORP (mV)                               |                       |
+|     Turbidity                              |                       |
+|     Alkalinity (mg/l CaCO₃)                |       817 (1.6N)      |
+|     Alkalinity Field Tester (ppm CaCO₃)    |          500+         |
 
 
-### Data Analysis  (To be completed)
-Discharge at this point along the Rio Canete is 
-The fluctuations in discharge throughout the catchment reflect localised abstraction. 
 
-At just over 4,000m asl the DO readings at RC15C 
+### Data Analysis
+Discharge at this point was minimal - only a trickle (July 2022). It would appear from the build up of deposits that there was a greater outflow in the past.
 
-As the population density above Puente Vilca is very low, the impact of anthropic activity is minimal. There is some pastoral agriculture activity in the area. 
+The alkalinity levels are very high reflecting a significant level of dissolved carbonates in the water.
+
+The population density above Puente Vilca is very low so, overall,the impact of anthropic activity is minimal though visitors (bathers) to the spring may have an impact on the water quality.
 
   
-### Site Descriptions  (To be completed)
-Site RC15C lies at nearly 4,200m asl in 
-At this point the valley enters a narrow 
-This reflects the fact that we are reaching the headwaters and clearly glaciated landscapes.
-The bed load in the river channel is comprised of sands, gravels, and smaller boulders. 
-The river flow in the Rio Cañete here is high year-round with discharge at this time perhaps approaching base flow. 
+### Site Descriptions 
+Site RC15C lies at nearly 4,200m asl in a more open section of the valley which reflects the fact that we are nearing the headwaters with clearly glaciated landscapes.
 
-There is no agricultural activity in the valley or valley sides, extensive pastoralism dominates rural land use throughout the headwater areas.
+The site is a spring showing significant signs of geological activity and most probably gethermal activity in the past though the spring waters are no longer warm. 
 
-At these elevations the fauna and flora are now more typical of the high Andes. Andean Goose, Yellow-billed Teal, Yellow-billed Pintail, Puna Teal, Andean Coot, Spot-winged Pigeon, Black-winged Ground Dove and Mountain Caracara are now commonly observed.  
+There is no agricultural activity in the valley or on the valley sides, extensive pastoralism dominates rural land use throughout the headwater areas.
+
 
 
 ![RC15C View upstream](/assets/SiteDescriptions/RC15/RC15CBanosdelInca.jpg)
