@@ -16,11 +16,11 @@ The following river and water quality data was collected from this site:
 |     Season:                                 |       Austral Winter      |       Austral Summer      |     Austral Summer    |
 |     Date:                                   |         11.07.2019        |         21.11.2019        |        15.11.21       |
 |     Time:                                   |           16.25pm         |           15.45pm         |         12.30pm       |
-|     Width (m)                               |             8.0           |             6.0           |           9.0         |
-|     Depth (Av.) (m)                         |            0.64           |            0.90           |          0.83         |
-|     CSA (Av.) (m²)                          |            5.09           |            5.40           |          7.47         |
-|     Velocity (Av.) (m/s)                    |            1.17           |            0.68           |          1.33         |
-|     Discharge (Av.) (m³/s)                  |            5.958          |            3.661          |          9.935        |
+|     Width (m)                               |             8.0           |             6.0           |          7.5         |
+|     Depth (Av.) (m)                         |            0.64           |            0.90           |          0.73         |
+|     CSA (Av.) (m²)                          |            5.09           |            5.40           |          5.48         |
+|     Velocity (Av.) (m/s)                    |            1.17           |            0.68           |          0.73         |
+|     Discharge (Av.) (m³/s)                  |            5.958          |            3.661          |          4.000       |
 |     Riverbed sediment                       |     Cobbles & Boulders    |     Cobbles & Boulders    |        Boulders       |
 |     Temp. (Atmospheric) (°C)                |             16            |             24            |           19          |
 |     Temp. (Water) (°C)                      |            11.24          |            12.69          |          12.22        |
