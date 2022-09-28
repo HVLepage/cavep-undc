@@ -7,6 +7,7 @@ permalink: /docs/RT10A/
 Site Code: RT10A.  GPS: S12°27948, W75°816499. Elevation:
 3262m asl.
 
+
 ### Water Quality Data
 
 The following river and water quality data was collected from this site:
@@ -24,7 +25,7 @@ The following river and water quality data was collected from this site:
 |     Riverbed sediment                       |     Cobbles & Boulders    |        Boulders       |
 |     Temp. (Atmospheric) (°C)                |             26            |           14          |
 |     Temp. (Water) (°C)                      |            13.4           |          12.36        |
-|     Atmospheric pressure (mbar)             |             689           |                       |
+|     Atmospheric pressure (mbar)             |             689           |         (<600)        |
 |     Dissolved oxygen (mg/l)                 |            3.97           |          6.07         |
 |     Dissolved oxygen (%)                    |            65.4           |          82.90        |
 |     pH                                      |            8.89           |          8.52         |
@@ -35,15 +36,23 @@ The following river and water quality data was collected from this site:
 |     Alkalinity (mg/l CaCO₃)                 |              -            |           83          |
 |     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |            -          |
 
+
 ### Data Analysis
 Discharge in the Rio Miraflores is year-round and as expected. The sub-catchment drains the three highest peaks with permanent snow cover, including both Llongote and Ticlla, in the area. 
 
-At just above 3300m asl the DO readings at T10a are within the expected range and again follow the pattern of slowly falling as elevation increases. Conductivity and total solids measurements are lower, reflecting the scale of the sub-catchment and reduced input from weathering processes, consequently, water quality is good. The impact of Miraflores and associated agricultural development is not known, but in this sub-catchment there is limited agriculture, no mining and low population density. 
+At just above 3300m asl the DO readings at T10a are within the expected range and again follow the pattern of slowly falling as elevation increases. 
+
+Conductivity and total solids measurements are lower, reflecting the scale of the sub-catchment and reduced input from weathering processes, consequently, water quality is good. 
+
+pH values are above 8.5 but suited to the aquatic life species likely to be found at this altitude.
+
 
 ### Site Description
-Sites T10a lies in the arid temperate zone below the small village of Miraflores at 3330m asl. At this point the valley has a sharply v-shaped profile and is more of a canyon in places. The bed load in the river channel is comprised of fluvio-glacial boulders, gravels, and sands. Huge boulders from landslides also lie throughout the valley and along the river channel. The river flow in the Rio Miraflores is year-round with discharge at this time perhaps approaching base flow, as reflected in its clear appearance. 
+Sites T10a lies in the arid temperate zone below the small village of Miraflores at 3330m asl. At this point the valley has a sharply v-shaped profile and is more of a canyon in places with steep sides. 
 
-There is little or no agricultural cultivation, with pastoralism dominating any rural land use. There are smaller areas of terracing on steeper slopes along the Rio Miraflores valley and the Rio Canete valley opposite the confluence. The valley here lies within the Reserva Paisajistica Nor Yauyos-Cochas and the valley sides also have extensive areas of pacific relictual woodlands. 
+The bed load in the river channel is comprised of fluvio-glacial boulders, gravels, and sands. Huge boulders from landslides also lie throughout the valley and along the river channel. 
+
+There is significant agricultural cultivation on the lower slopes higher up the valley, while pastoralism dominates land use on the upper slopes. The valley lies within the Reserva Paisajistica Nor Yauyos-Cochas and the more inaccessible valley sides also have areas of pacific relictual woodlands. 
 
 
 ![Tributary T10 - the Miraflores subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T10/T10Mirafloressubcatchment.jpg)
