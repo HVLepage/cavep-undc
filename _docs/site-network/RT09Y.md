@@ -37,10 +37,11 @@ The following river and water quality data was collected from this site:
 |     Alkalinity Field Tester (ppm CaCO₃)    |     207               |
 
 
-##Site description
+### Data analysis
 
 
-##Site
+### Site description
+
 
 
 ![Site RT09Y - the study site location. (John Forrest)](/assets/SiteDescriptions/T9/RT9(Yauricochabelowmine).jpg)
@@ -48,9 +49,9 @@ Site RT09Y - the study site location: in the Alis valley just below the village 
 
 
 ![Site RT09Y - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9YStudysite.JPG)
-Site RT09Y - the study site. (John Forrest)
+Site RT09Y - the study site and view upstream showing the diversion channel bringing the water down around the mine tailings dam. (John Forrest)
 
 
 ![Site RT09Y - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9YViewdownstream.JPG)
-Site RT09Y - View downstream from the study site. (John Forrest)
+Site RT09Y - view downstream from the study site, looking towards the confuence with the rio Alis (hidden) a short distance beyond. (John Forrest)
 
