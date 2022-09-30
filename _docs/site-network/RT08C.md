@@ -8,6 +8,7 @@ permalink: /docs/RT08C/
 Site Code: RT08C.  GPS: S12°36286, W75°763187. Elevation:
 3734m asl.
 
+
 ### Water Quality Data
 
 The following river and water quality data was collected from this site:
@@ -25,7 +26,7 @@ The following river and water quality data was collected from this site:
 |     Riverbed sediment                       |         Gravel & Cobbles        |     Pebbles, Cobbles & Boulders    |
 |     Temp. (Atmospheric) (°C)                |               18.5              |                  23                |
 |     Temp. (Water) (°C)                      |               10.34             |                16.99               |
-|     Atmospheric pressure (mbar)             |                700              |                                    |
+|     Atmospheric pressure (mbar)             |                700              |               (<600)               |
 |     Dissolved oxygen (mg/l)                 |               2.95              |                 6.60               |
 |     Dissolved oxygen (%)                    |               45.0              |                105.3               |
 |     pH                                      |               7.94              |                 8.39               |
@@ -36,9 +37,16 @@ The following river and water quality data was collected from this site:
 |     Alkalinity (mg/l CaCO₃)                 |                 -               |              120 (1.6N)            |
 |     Alkalinity Field Tester (ppm/ CaCO₃)    |                 -               |                  -                 |
 
+
 ### Data Analysis
-Discharge consists of measurements taken from the three main channels flowing from the spring (mantanial).                                                                   
-At well over 3500m asl the DO readings at T8c fall within the range to be expected. The measurements for DO, conductivity and total solids are also as expected. It is likely that the source of the main spring is augmented by a series of groundwater springs throughout the valley and therefore, the difference is only slight. The karst scenery in this area is known for its caves - the deepest, high altitude cave system in the world is located a short distance upstream of the site.
+In November 2019 water flowing from the manantial (spring) was measured while in November 2021 water in the river channel just above the manantial was measured.
+In both years, there was a small, steady outflow from the manantial but minimal water flowing in the main river channel. The water flow in the river channel would have been because the rains had yet to fall in the headwaters at the start of the rainy season. Furthermore, the upper Laraos is renowned for its karst scenery and has one of the deepest high altitude cave systems in the world which would absorb most of the rainfall that does fall. Consequently, it is likely that the source of the main spring is augmented by a series of groundwater flows throughout the upper Laraos valley.
+
+At well over 3500m asl the DO readings at T8c are low and as expected at this altitude.
+
+Conductivity measurements are low and as expected, especially in November 2019 given that the water measured had just emerged from underground.
+
+pH levels around 8.0 is as expected.
 
 
 ### Site Description
