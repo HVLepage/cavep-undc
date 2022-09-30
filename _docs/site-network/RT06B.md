@@ -38,13 +38,13 @@ The following river and water quality data was collected from this site:
 
 
 ### Data Analysis
-Discharge at this point on the Rio Yauyos was low suggesting that the rains had not yet started in the headwaters of this sub-catchment. 
+Discharge at this point on the Rio Yauyos was low suggesting that the rains had not yet started in the headwaters of this smaller sub-catchment. 
 
 At nearly 3000m asl the DO readings at T06b were lower than at many sites but fall within the range to be expected for a November data set. 
 
 The conductivity readings at this site (107 µS/cm) was very low but is as expected for a high altitude site located above all settlements within a sub-catchment. It suggests good conditions for aquatic life.
 
-The pH reading of 7.39 is slightly lower than at most other site in the valley. However, at these levels the alkalinity of the river is still suitable for aquatic life and indicative of clean water. 
+The pH reading of 7.39 is slightly lower than at most other site in the valley maybe due to the presence of farm animals (see below). However, at these levels the alkalinity of the river is still suitable for aquatic life and indicative of clean water. 
 
 
 ### Site description
