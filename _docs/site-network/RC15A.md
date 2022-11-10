@@ -15,7 +15,7 @@ The following river and water quality data was collected from this site:
 |     RC15A                                  |     November 2019                       |     November 2021     |     July 2022         |
 |--------------------------------------------|-----------------------------------------|-----------------------|-----------------------|
 |     Season:                                |     Austral Summer                      |     Austral Summer    |     Austral Winter    |
-|     Date:                                  |     22.11.2019                          |     21.11.2021        |     3.7.22            |
+|     Date:                                  |     22.11.19                            |     21.11.21          |     3.7.22            |
 |     Time:                                  |     9.00                                |     11.00             |     9.45              |
 |     Width (m)                              |     27.0                                |     27.0              |     14.0              |
 |     Depth (Av.) (m)                        |     0.58                                |     0.58              |     0.31              |
