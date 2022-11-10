@@ -12,7 +12,7 @@ The following river and water quality data was collected from this site:
 |     RC15c                                  |        July 2022      |
 |--------------------------------------------|:---------------------:|
 |     Season:                                |     Austral Winter    |
-|     Date:                                  |        6.7.2022       |
+|     Date:                                  |          6.7.22       |
 |     Time:                                  |          12.00        |
 |     Width (m)                              |                       |
 |     Depth (Av.) (m)                        |                       |
