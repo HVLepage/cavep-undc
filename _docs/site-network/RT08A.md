@@ -1,5 +1,5 @@
 ---
-title: RT08A -  Lower Laraos
+title: RT08A - Lower Laraos
 permalink: /docs/RT08A/
 ---
 
@@ -14,7 +14,7 @@ The following river and water quality data was collected from this site:
 |     T8a                                     |              July 2019            |        November 2019      |      November 2021    |
 |---------------------------------------------|:---------------------------------:|:-------------------------:|:---------------------:|
 |     Season:                                 |           Austral Winter          |       Austral Summer      |     Austral Summer    |
-|     Date:                                   |             11.07.2019            |         20.11.2019        |        15.11.21       |
+|     Date:                                   |              11.07.19             |          20.11.19         |        15.11.21       |
 |     Time:                                   |               12.30pm             |           11.00am         |         10.15am       |
 |     Width (m)                               |                 3.0               |             3.0           |           3.4         |
 |     Depth (Av.) (m)                         |                0.11               |            0.16           |          0.28         |
