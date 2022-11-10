@@ -12,10 +12,10 @@ Site Code: RT11A.  GPS: S12°11645, W75°818042. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T11a                                    |        November 2019      |        November 2021      |
+|     T11A                                    |        November 2019      |        November 2021      |
 |---------------------------------------------|:-------------------------:|:-------------------------:|
 |     Season:                                 |       Austral Summer      |       Austral Summer      |
-|     Date:                                   |         22.11.2019        |          21.11.21         |
+|     Date:                                   |          22.11.19         |          21.11.21         |
 |     Time:                                   |           9.45am          |            12.00          |
 |     Width (m)                               |             3.0           |            2.85           |
 |     Depth (Av.) (m)                         |            0.04           |            0.07           |
