@@ -14,7 +14,7 @@ The following river and water quality data was collected from this site:
 |     T7a                                     |        July 2019       |      November 2019     |      November 2021     |
 |---------------------------------------------|:----------------------:|:----------------------:|:----------------------:|
 |     Season:                                 |      Austral Winter    |      Austral Summer    |      Austral Summer    |
-|     Date:                                   |        11.07.2019      |        20.11.2019      |         14.11.21       |
+|     Date:                                   |         11.07.19       |         20.11.19       |         14.11.21       |
 |     Time:                                   |         11.00am        |         15.35pm        |         15.00pm        |
 |     Width (m)                               |           2.0          |           4.0          |          12.00         |
 |     Depth (Av.) (m)                         |           0.26         |           0.19         |           0.27         |
