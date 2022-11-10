@@ -12,7 +12,7 @@ Site Code: RT08B.  GPS: S12°36259, W75°763129. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T8b                                     |        November 2019      |        November 2021      |
+|     T8B                                     |        November 2019      |        November 2021      |
 |---------------------------------------------|:-------------------------:|:-------------------------:|
 |     Season:                                 |       Austral Summer      |       Austral Summer      |
 |     Date:                                   |          21.11.19         |          16.11.21         |
