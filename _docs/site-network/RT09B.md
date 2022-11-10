@@ -1,5 +1,5 @@
 ---
-title: RT09B -  Middle Alis (Above Puente Huancachi)
+title: RT09B - Middle Alis (Above Puente Huancachi)
 permalink: /docs/RT09B/
 ---
 
@@ -13,7 +13,7 @@ The following river and water quality data was collected from this site:
 |     T9b                                     |        November 2019      |          November 2021        |
 |---------------------------------------------|:-------------------------:|:-----------------------------:|
 |     Season:                                 |       Austral Summer      |         Austral Summer        |
-|     Date:                                   |         21.11.2019        |            17.11.21           |
+|     Date:                                   |          21.11.19         |            17.11.21           |
 |     Time:                                   |           16.45pm         |             11.15am           |
 |     Width (m)                               |            13.0           |               7.5             |
 |     Depth (Av.) (m)                         |            0.11           |              0.14             |
