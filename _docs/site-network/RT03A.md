@@ -11,7 +11,7 @@ Site Code: RT03A.  GPS: S12°80101, W75°891699. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T3a                                     |          July 2019        |        November 2019      |      November 2021    |
+|     T3A                                     |          July 2019        |        November 2019      |      November 2021    |
 |---------------------------------------------|:-------------------------:|:-------------------------:|:---------------------:|
 |     Season:                                 |       Austral Winter      |       Austral Summer      |     Austral Summer    |
 |     Date:                                   |          10.07.19         |          18.11.19         |        10.11.21       |
