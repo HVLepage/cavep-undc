@@ -10,7 +10,7 @@ Site Code: RT9B.  GPS: S12°25671, W75°715075. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T9b                                     |        November 2019      |          November 2021        |
+|     T9B                                     |        November 2019      |          November 2021        |
 |---------------------------------------------|:-------------------------:|:-----------------------------:|
 |     Season:                                 |       Austral Summer      |         Austral Summer        |
 |     Date:                                   |          21.11.19         |            17.11.21           |
