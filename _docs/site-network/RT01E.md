@@ -1,8 +1,8 @@
 ---
-title: RT01E - Upper Viñac
+title: RT01E - Upper Vi\~nac
 permalink: /docs/RT01E/
 ---
-RT01E - Upper Viñac (Source)
+RT01E - Upper Vi\~nac (Source)
 
 Site Code: RT01E.  GPS: S12°865070, W75°615295. Elevation:
 4540m asl.
@@ -21,9 +21,9 @@ Site RT01E - the study site location: in the bofedal at the base of the scree sl
 
 
 ![Site RT01E - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1eSource.jpg)
-Site RT01E - the study site - the source of the rio Viñac. (March 2022) (John Forrest)
+Site RT01E - the study site - the source of the rio Vi\~nac. (March 2022) (John Forrest)
 
 
 ![Site RT01E - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1eViewofbofedal(source).jpg)
-Site RT01E - View of the bofedal - the source of the rio Viñac. (March 2022) (John Forrest)
+Site RT01E - View of the bofedal - the source of the rio Vi\~nac. (March 2022) (John Forrest)
 
