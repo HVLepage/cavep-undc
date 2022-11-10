@@ -12,7 +12,7 @@ Site Code: RT06B.  GPS: S12°457210, W75°924855. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T6b                                     |            November 2021           |
+|     T6B                                     |            November 2021           |
 |---------------------------------------------|:----------------------------------:|
 |     Season:                                 |            Austral Summer          |
 |     Date:                                   |               14.11.21             |
