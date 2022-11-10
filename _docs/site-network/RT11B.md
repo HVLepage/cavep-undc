@@ -12,7 +12,7 @@ Site Code: RT11B.  GPS: S12°093520, W75°811620. Elevation:
 
 The following river and water quality data was collected from this site: 
 
-|     T11b                                    |      November 2021    |
+|     T11B                                    |      November 2021    |
 |---------------------------------------------|:---------------------:|
 |     Season:                                 |     Austral Summer    |
 |     Date:                                   |        21.11.21       |
