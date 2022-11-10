@@ -11,7 +11,7 @@ Site Code: RT06A.  GPS: S12°46423, W75°896173. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T6a                                     |              July 2019             |            November 2019           |            November 2021           |
+|     T6A                                     |              July 2019             |            November 2019           |            November 2021           |
 |---------------------------------------------|:----------------------------------:|:----------------------------------:|:----------------------------------:|
 |     Season:                                 |            Austral Winter          |            Austral Summer          |            Austral Summer          |
 |     Date:                                   |               9.07.19              |               19.11.19             |               14.11.21             |
