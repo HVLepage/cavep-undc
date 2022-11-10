@@ -1,5 +1,5 @@
 ---
-title: RT01A - Lower Viñac
+title: RT01A - Lower Vi\~nac
 permalink: /docs/RT01A/
 ---
 
@@ -10,7 +10,7 @@ Site Code: RT01A.  GPS: S12°85054, W75°940725. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T1a                                     |          July 2019        |              November 2019             |            November 2021           |
+|     T1A                                     |          July 2019        |              November 2019             |            November 2021           |
 |---------------------------------------------|:-------------------------:|:--------------------------------------:|:----------------------------------:|
 |     Season:                                 |       Austral Winter      |              Austral Summer            |            Austral Summer          |
 |     Date:                                   |         10.07.19        |                18.11.19              |              10.11.21            |
@@ -43,7 +43,7 @@ Recorded levels of pH at around 8.0 in November are as expected though the Novem
 
 
 ### Site Description
-Site T1a is the lowest sample site on the Rio Vinak and located just above RC03 at Llangastambo. This is the first tributary of any size in the Rio Ca\~nete catchment, which it joins in the upper tropics at 980m asl. As is common at this elevation, rivers are dry for much of the austral winter. The bed load of huge boulders and rocks is indication of the importance of intermittent catastrophic flooding associated with ENSO. 
+Site T1a is the lowest sample site on the Rio Vi\~nac and located just above RC03 at Llangastambo. This is the first tributary of any size in the Rio Ca\~nete catchment, which it joins in the upper tropics at 980m asl. As is common at this elevation, rivers are dry for much of the austral winter. The bed load of huge boulders and rocks is indication of the importance of intermittent catastrophic flooding associated with ENSO. 
 
 The valley at this elevation is dominated by salix and acacia species and river cane. Away from the channel the slopes are dominated by xeric vegetative communities. A dominant species here being columnar cacti that may grow to 4m or 5m in height. Along the valley side there are small areas of cultivated land. These are used for subsistence farming and primarily used for maize and plantain production. Water is siphoned form the river to irrigate field using traditional surface flooding methods. Such methods, developed and used extensively in the temperate zone, offer an inefficient use of water. In the headwater areas in the Madean district and higher up large areas are irrigated using the traditional irrigation channels that feed terraced hillsides. 
 
@@ -53,7 +53,7 @@ The progressive drying of the west flank ridges and high Andean habitats will co
 
 
 ![Tributary T01 - the Vinak subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T1/T1Vinacsubcatchment.jpg)
-Tributary 01 - the Vinak subcatchment. (Eustace Barnes)
+Tributary 01 - the Vi\~nac subcatchment. (Eustace Barnes)
 
 
 ![Site T01A - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/RT01ALower%20Vinakvalley.jpg)
