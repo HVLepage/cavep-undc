@@ -1,9 +1,9 @@
 
 ---
-title: RT01B - Middle Viñac
+title: RT01B - Middle Vi\~nac
 permalink: /docs/RT01B/
 ---
-RT01B - Middle Viñac (Below Viñac)
+RT01B - Middle Viñac (Below Vi\~nac)
 
 Site Code: RT01B.  GPS: S12°927273, W75°794645. Elevation:
 2770m asl.
@@ -17,7 +17,7 @@ The following river and water quality data was collected from this site:
 
 
 ![Site T01B - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/RT1BBelowVinak.jpg)
-Site RT01B - the study site location: in the middle Viñac valley below the village of Viñac. (John Forrest)
+Site RT01B - the study site location: in the middle Vi\~nac valley below the village of Vi\~nac. (John Forrest)
 
 
 ![Site T01B - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1bStudysite.jpg)
