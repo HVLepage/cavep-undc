@@ -10,7 +10,7 @@ Site Code: RT04A.  GPS: S12°62956, W75°979014. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T4a                                     |          July 2019        |              November 2019             |        November 2021      |
+|     T4A                                     |          July 2019        |              November 2019             |        November 2021      |
 |---------------------------------------------|:-------------------------:|:--------------------------------------:|:-------------------------:|
 |     Season:                                 |       Austral Winter      |              Austral Summer            |       Austral Summer      |
 |     Date:                                   |          10.07.19         |                 19.11.19               |          12.11.21         |
