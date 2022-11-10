@@ -1,5 +1,5 @@
 ---
-title: RT09A -  Lower Alis
+title: RT09A - Lower Alis
 permalink: /docs/RT09A/
 ---
 
@@ -14,13 +14,13 @@ The following river and water quality data was collected from this site:
 |     T9a                                     |          July 2019        |        November 2019      |      November 2021    |
 |---------------------------------------------|:-------------------------:|:-------------------------:|:---------------------:|
 |     Season:                                 |       Austral Winter      |       Austral Summer      |     Austral Summer    |
-|     Date:                                   |         11.07.2019        |         21.11.2019        |        15.11.21       |
+|     Date:                                   |          11.07.19         |          21.11.19         |        15.11.21       |
 |     Time:                                   |           16.25pm         |           15.45pm         |         12.30pm       |
-|     Width (m)                               |             8.0           |             6.0           |          7.5         |
+|     Width (m)                               |             8.0           |             6.0           |          7.5          |
 |     Depth (Av.) (m)                         |            0.64           |            0.90           |          0.63         |
 |     CSA (Av.) (m²)                          |            5.09           |            5.40           |          4.725        |
 |     Velocity (Av.) (m/s)                    |            1.17           |            0.68           |          0.73         |
-|     Discharge (Av.) (m³/s)                  |            5.958          |            3.661          |          3.449       |
+|     Discharge (Av.) (m³/s)                  |            5.958          |            3.661          |          3.449        |
 |     Riverbed sediment                       |     Cobbles & Boulders    |     Cobbles & Boulders    |        Boulders       |
 |     Temp. (Atmospheric) (°C)                |             16            |             24            |           19          |
 |     Temp. (Water) (°C)                      |            11.24          |            12.69          |          12.22        |
