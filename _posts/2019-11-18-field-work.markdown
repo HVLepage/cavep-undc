@@ -5,8 +5,8 @@ author: hvlepage
 category: field-work
 ---
 
-Oscar showing students how to use the multiparameter.
+Dr Oscar Aguinaga explaining to UNDC students how to use the multiparameter to record a range of water chemistry variables.
 ![Measuring river discharge](/assets/posts/nov2019_multiparameter.JPG)
 
-Students using chemistry to analyse the contents of the water from Rio Cañete.
+Students using titration to analyse alkalinity levels of water samples from the Rio Cañete in a temporary field laboratory set up in a hotel restaurant in Catahuasi.
 ![Measuring river discharge](/assets/posts/nov2019_students.JPG)
