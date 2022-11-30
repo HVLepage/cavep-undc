@@ -22,12 +22,14 @@ Co-investigators
 
 Project administration:
 * John Forrest and Julia Porturas.
+* 
 
 ## Universidad Nacional de Cañete
 
 Principal investigators
 * Dr Arnulfo Ortega Mallqui (President) (2022-)
 * Dr Ernesto Hashimoto Moncayo (Vice-President Investigation) (2022-)
+
 * Dr Carlos Villanueva Aguilar (President) (to 2022)
 * Dr Jorge Jhoncon Kooyip (Vice-President Investigation) (to 2022)
   
