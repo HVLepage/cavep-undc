@@ -1,5 +1,5 @@
 ---
-title: 'Rio Cañete: Measuring dischrage - Flowmeter use'
+title: 'Rio Cañete: Measuring discharge - Flowmeter use'
 date: 2019-07-10
 author: hvlepage
 category: field-work
