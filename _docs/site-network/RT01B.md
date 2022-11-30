@@ -12,8 +12,29 @@ Site Code: RT01B.  GPS: S12°927273, W75°794645. Elevation:
 
 The following river and water quality data was collected from this site:
 
-
-
+|     T1b                                    |     March 2022                |
+|--------------------------------------------|-------------------------------|
+|     Season:                                |     Austral Summer            |
+|     Date:                                  |     23.3.2022                 |
+|     Time:                                  |     15.45                     |
+|     Width (m)                              |     16.63                     |
+|     Depth (Av.) (m)                        |     0.58                      |
+|     CSA (Av.) (m²)                         |     9.65                      |
+|     Velocity (Av.) (m/s)                   |     1.22                      |
+|     Discharge (Av.) (m³/s)                 |     11.68                     |
+|     Riverbed sediment                      |     Pebbles & cobbles         |
+|     Temp. (Atmospheric) (°C)               |     13.18                     |
+|     Temp. (Water) (°C)                     |     13.47                     |
+|     Atmospheric pressure (mbar)            |     720                       |
+|     Dissolved oxygen (mg/l)                |     3.74                      |
+|     Dissolved oxygen (%)                   |     60.46                     |
+|     pH                                     |     7.99                      |
+|     Conductivity (µS/cm)                   |     65                        |
+|     Total Dissolved Solids (ppm)           |     33                        |
+|     ORP (mV)                               |     119.8                     |
+|     Turbidity                              |     Turbid: slightly green    |
+|     Alkalinity (mg/l CaCO₃)                |     49 (1.6N)                 |
+|     Alkalinity Field Tester (ppm CaCO₃)    |     41                        |
 
 
 ![Site T01B - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/RT1BBelowVinak.jpg)
