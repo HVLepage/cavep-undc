@@ -12,6 +12,37 @@ Site Code: RT01E.  GPS: S12°865070, W75°615295. Elevation:
 
 The following river and water quality data was collected from this site:
 
+|     T1e                                    |     March 2022        |
+|--------------------------------------------|-----------------------|
+|     Season:                                |     Austral Summer    |
+|     Date:                                  |     24.3.2022         |
+|     Time:                                  |     12.15             |
+|     Width (m)                              |                       |
+|     Depth (Av.) (m)                        |                       |
+|     CSA (Av.) (m²)                         |                       |
+|     Velocity (Av.) (m/s)                   |                       |
+|     Discharge (Av.) (m³/s)                 |                       |
+|     Riverbed sediment                      |     Sand              |
+|     Temp. (Atmospheric) (°C)               |     9.3               |
+|     Temp. (Water) (°C)                     |     12.68             |
+|     Atmospheric pressure (mbar)            |     620               |
+|     Dissolved oxygen (mg/l)                |     3.03              |
+|     Dissolved oxygen (%)                   |     48.7              |
+|     pH                                     |     7.74              |
+|     Conductivity (µS/cm)                   |     46                |
+|     Total Dissolved Solids (ppm)           |     23                |
+|     ORP (mV)                               |     111.6             |
+|     Turbidity                              |     Clear:            |
+|     Alkalinity (mg/l CaCO₃)                |     41 (1.6N)         |
+|     Alkalinity Field Tester (ppm CaCO₃)    |     46                |
+
+
+### Data Analysis
+
+
+
+### Site description
+
 
 
 
