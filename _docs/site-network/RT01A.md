@@ -10,36 +10,37 @@ Site Code: RT01A.  GPS: S12°85054, W75°940725. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T1A                                     |          July 2019        |              November 2019             |            November 2021           |
-|---------------------------------------------|:-------------------------:|:--------------------------------------:|:----------------------------------:|
-|     Season:                                 |       Austral Winter      |              Austral Summer            |            Austral Summer          |
-|     Date:                                   |         10.07.19        |                18.11.19              |              10.11.21            |
-|     Time:                                   |           9.30am          |                 11.00am                |               10.30am              |
-|     Width (m)                               |             6.5           |                   1.5                  |                 2.3                |
-|     Depth (Av.) (m)                         |            0.07           |                   0.05                 |                 0.12               |
-|     CSA (Av.) (m²)                          |            0.42           |                   0.07                 |                 0.28               |
-|     Velocity (Av.) (m/s)                    |            0.22           |                   0.11                 |                 0.13               |
-|     Discharge (Av.) (m³/s)                  |            0.094          |                  0.008                 |                0.036               |
-|     Riverbed sediment                       |     Cobbles & Boulders    |            Cobbles & Boulders          |     Pebbles, cobbles & boulders    |
-|     Temp. (Atmospheric) (°C)                |             26            |                    33                  |                  24                |
-|     Temp. (Water) (°C)                      |            18.87          |                  26.84                 |                22.61               |
-|     Atmospheric pressure (mbar)             |             905           |                   889                  |                                    |
-|     Dissolved oxygen (mg/l)                 |            7.90           |                   9.63                 |                 8.26               |
-|     Dissolved oxygen (%)                    |            93.6           |                  141.7                 |                106.6               |
-|     pH                                      |              -            |                   8.70                 |                 7.88               |
-|     Conductivity (µS/cm)                    |             778           |                   1111                 |                 1090               |
-|     Total Dissolved Solids (ppm)            |             389           |                   558                  |                 545                |
-|     ORP (mV)                                |            348.4          |                   84.4                 |                -25.0               |
-|     Turbidity                               |           Clear:          |     Clear: slight green colouration    |               Clear:               |
-|     Alkalinity (mg/l CaCO₃)                 |         117 (1.6N)        |                    -                   |              135 (1.6N)            |
-|     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |                    -                   |                 122                |
+|     T1a                              |     July 2019             |     November 2019                      |     November 2021                  |     March 2022           |
+|--------------------------------------|---------------------------|----------------------------------------|------------------------------------|--------------------------|
+|     Season:                          |     Austral Winter        |     Austral Summer                     |     Austral Summer                 |     Austral Summer       |
+|     Date:                            |     10.07.2019            |     18.11.2019                         |     10.11.2021                     |     21.3.2022            |
+|     Time:                            |     9.30                  |     11.00                              |     10.30                          |     16.15                |
+|     Width (m)                        |     6.5                   |     1.5                                |     2.3                            |     25.0                 |
+|     Depth (Av.) (m)                  |     0.07                  |     0.05                               |     0.12                           |     0.36                 |
+|     CSA (Av.) (m²)                   |     0.42                  |     0.07                               |     0.28                           |     9.00                 |
+|     Velocity (Av.) (m/s)             |     0.22                  |     0.11                               |     0.13                           |     0.60                 |
+|     Discharge (Av.) (m³/s)           |     0.094                 |     0.008                              |     0.036                          |     5.400                |
+|     Riverbed sediment                |     Cobbles & Boulders    |     Cobbles & Boulders                 |     Pebbles, cobbles & boulders    |     Pebbles & cobbles    |
+|     Temp. (Atmospheric) (°C)         |     26                    |     33                                 |     24                             |     22.75                |
+|     Temp. (Water) (°C)               |     18.87                 |     26.84                              |     22.61                          |     17.71                |
+|     Atmospheric pressure (mbar)      |     905                   |     889                                |                                    |     880                  |
+|     Dissolved oxygen (mg/l)          |     7.90                  |     9.63                               |     8.26                           |     6.41                 |
+|     Dissolved oxygen (%)             |     93.6                  |     141.7                              |     106.6                          |     77.5                 |
+|     pH                               |                           |     8.70                               |     7.88                           |     7.99                 |
+|     Conductivity (µS/cm)             |     778                   |     1111                               |     1090                           |     84                   |
+|     Total Dissolved Solids (ppm)     |     389                   |     558                                |     545                            |     42                   |
+|     ORP (mV)                         |     348.4                 |     84.4                               |     -25.0                          |     162.2                |
+|     Turbidity                        |     Clear:                |     Clear: slight green colouration    |     Clear:                         |     Turbid: green        |
+|     Alkalinity (mg/l CaCO₃)          |     117 (1.6N)            |     -                                  |     135 (1.6N)                     |     50 (1.6N)            |
+|     Alkalinity Tester (ppm CaCO₃)    |     -                     |     -                                  |     122                            |     41                   |
+
 
 ### Data Analysis
-At 7.54-8.2 mg/l the DO reading is almost at full saturation. In November, the  exceptionally high readings reflect the early processes of eutrophication taking place with readings of 10.1 mg/l. This being produced by high rates of photosynthetic activity in the stream, probably as a result of agricultural runoff and sewage wastes. Aquatic life can survive well at these levels of DO. High concentrations of nutrients (particularly phosphorus and nitrogen) fuel algae blooms, which initially boosts dissolved oxygen levels but then rapidly reduce DO. When the algae die, bacterial decomposition spikes, using up most or all of the dissolved oxygen available. This creates an anoxic, or oxygen-depleted, environment where few organisms survive. Such nutrient levels can occur naturally but are more often caused by pollution from fertilizer runoff or poorly treated waste waters which could apply to this site.  
+At 6.4-9.6 mg/l the DO readings are almost at full saturation. In November, the higher readings reflect the early processes of eutrophication taking place. This being produced by high rates of photosynthetic activity in the stream, probably as a result of agricultural runoff and sewage wastes. However, aquatic life can survive well at these levels of DO. High concentrations of nutrients (particularly phosphorus and nitrogen) fuel algae blooms, which initially boosts dissolved oxygen levels but then rapidly reduce DO. When the algae die, bacterial decomposition spikes, using up most or all of the dissolved oxygen available. This creates an anoxic, or oxygen-depleted, environment where few organisms survive. Such nutrient levels can occur naturally but are more often caused by pollution from fertilizer runoff or poorly treated waste waters which could apply to this site.  
 
-The conductivity readings from 750 to over 1100 (µS/cm) are exceptionally high in the catchment and these reading require further investigation. It is almost certainly the case that they reflect both the underlying geology and pollution from both wastewater and agricultural runoff. Generally, agricultural runoff and sewage will increase conductivity due to the additional chloride, phosphate, and nitrate ions. 
+The conductivity readings range from 84 to over 1100 (µS/cm) - both exceptionally high and low. It is almost certainly the case that they reflect both the underlying geology and pollution from both wastewater and agricultural runoff. Generally, agricultural runoff and sewage will increase conductivity due to the additional chloride, phosphate, and nitrate ions. However, geothermal activity higher up the river may significantly increase conductivity when dischrage is very low. On the other hand, when discharge is high the geothermal mineral oputput is significantly dilluted as observed in March 2022.
 
-Recorded levels of pH at around 8.0 in November are as expected though the November 2021 average recording (7.88) was lower than most recordings in the main river channel. The pH of water here falls well within the tolerances of most aquatic vertebrates and invertebrates. 
+Recorded levels of pH at around 8.0 are as expected though the November 2021 average recording (7.88) was lower than most recordings in the main river channel. The pH of water here falls well within the tolerances of most aquatic vertebrates and invertebrates. 
 
 
 ### Site Description
@@ -82,3 +83,4 @@ Site T01A - View downstream from the study site. (November 2019) (John Forrest)
 
 ![Site T01A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewupstream(Nov.2019site).JPG)
 Site T01A - View upstream from the study site. (November 2019) (John Forrest)
+
