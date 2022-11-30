@@ -26,8 +26,10 @@ Project administration:
 ## Universidad Nacional de Cañete
 
 Principal investigators
-* Carlos Villanueva
-* Jorge Hugo Jhoncon Kooyip
+* Dr Arnulfo Ortega Mallqui (President) (2022-)
+* Dr Ernesto Hashimoto Moncayo (Vice-President Investigation) (2022-)
+* Dr Carlos Villanueva Aguilar (President) (to 2022)
+* Dr Jorge Jhoncon Kooyip (Vice-President Investigation) (to 2022)
   
 Co-investigators
 * Oscar Enrique Aguinaga Vargas - Geochemist; water chemistry analysis.
