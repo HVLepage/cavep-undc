@@ -6,7 +6,8 @@ category: field-work
 ---
 
 
-E.Barnes (UCAM) demonstrates to UNDC staff and students how to deploy a drone to record footage of the study sites and their immediate surroundings. 
-UNDC staff and students were able to take the controls and 'fly' the drone and almost immediately proved very adept at managing landings and take offs.
+E.Barnes (UCAM) demonstrates to UNDC staff and students how to deploy a drone to record footage of the study sites and their immediate surroundings. UNDC staff and students were able to take the controls and 'fly' the drone and almost immediately proved very adept at managing landings and take offs. Images recotrded by drones are very useful to determine land use patterns, natural vegetation and physical landscape characteristics close to the study sites.
 
-![Measuring river discharge](/assets/posts/1Droneuse.jpeg)
+E.Barnes (UCAM) muestra a los docentes y estudiantes de la UNDC cómo utilizar un dron para grabar imágenes de los lugares de monitoreo y su entorno inmediato. Los docentes y estudiantes de la UNDC pudieron tomar los mandos y "pilotar" el dron y casi de inmediato demostraron ser muy hábiles en la gestión de aterrizajes y despegues. Las imágenes grabadas con drones son muy útiles para determinar las pautas de uso del suelo, la vegetación natural y las características físicas del paisaje cercano a los lugares de monitoreo.
+
+![Measuring river discharge](/assets/posts/1Droneuse.JPG)
