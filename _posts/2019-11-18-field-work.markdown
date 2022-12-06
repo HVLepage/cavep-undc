@@ -10,3 +10,4 @@ Dr Oscar Aguinaga explaining to UNDC students how to use the flowmeter to record
 
 Students using titration to analyse alkalinity levels of water samples from the Rio Cañete in a temporary field laboratory set up in a hotel restaurant in Catahuasi.
 ![Measuring river discharge](/assets/posts/nov2019_students.JPG)
+
