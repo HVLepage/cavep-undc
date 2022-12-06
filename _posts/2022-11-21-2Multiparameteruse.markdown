@@ -10,5 +10,5 @@ A multiparameter is a single instrument that can record the pH, conductivity, wa
 
 Un multiparámetro es un instrumento único que puede registrar el pH, la conductividad, la temperatura del agua, el oxígeno disuelto, etc. del agua del río. Los alumnos de la UNAH aprendieron rápidamente a utilizarlo y a registrar los datos. 
 
-![Measuring river discharge](/assets/posts/2Multiparameteruse.JPG)
+![Measuring river discharge](/assets/posts/2Multiparameteruse.jpeg)
 
