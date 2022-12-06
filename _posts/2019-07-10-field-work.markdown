@@ -11,7 +11,3 @@ The UCAM staff with UNDC staff and students measuring the discharge of the Rio C
 
 ![Measuring river discharge](/assets/posts/socsijuly2019.jpeg)
 
-
-
-
-
