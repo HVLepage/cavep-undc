@@ -1,5 +1,5 @@
 ---
-title: 'Rio Cañete: Multiparameter & Water Chemistry'
+title: 'Rio Cañete: Multiparameter use & Water Chemistry'
 date: 2019-11-18
 author: hvlepage
 category: field-work
