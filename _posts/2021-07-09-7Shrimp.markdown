@@ -10,4 +10,4 @@ Two UNAH students weigh a shrimp. At each site 10 male and 10 female shrimps are
 
 Dos estudiantes de la UNAH pesan un camarón. En cada lugar de muestreo se seleccionan 10 gambas macho y 10 gambas hembra y se miden sus características: longitud total, longitud de la cabeza y de la cola, y su peso. Se discute con los estudiantes la dificultad de medir un objeto no uniforme como el camarón.
 
-![Measuring river discharge](/assets/posts/7Shrimp.JPG)
+![Measuring river discharge](/assets/posts/7Shrimp.jpeg)
