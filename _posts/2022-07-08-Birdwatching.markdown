@@ -1,4 +1,3 @@
-
 ---
 title: 'Rio Cañete: Birdwatching'
 date: 2022-07-08
