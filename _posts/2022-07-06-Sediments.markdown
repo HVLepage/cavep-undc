@@ -13,10 +13,10 @@ Tecnicos y estudiantes de la UNAH se preparan para recoger muestras de sedimento
 También se identificó el posible contenido mineral de los sedimentos utilizando una carta de colores Munsell para suelos que utiliza una mezcla de variables: color, textura y aspecto para proporcionar una indicación del posible contenido mineral.
 
 
-![Measuring river discharge](/assets/posts/2Sedimentcollection.jpg)
+![Measuring river discharge](/assets/posts/2Sedimentcollection.JPG)
 
 
-![Measuring river discharge](/assets/posts/2Sediment.jpg)
+![Measuring river discharge](/assets/posts/2Sediment.JPG)
 
 
-![Measuring river discharge](/assets/posts/2Sediments.jpg)
+![Measuring river discharge](/assets/posts/2Sediments.JPG)
