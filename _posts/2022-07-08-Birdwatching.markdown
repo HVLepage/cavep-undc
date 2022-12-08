@@ -14,5 +14,5 @@ Un estudiante de la UNAH y un experto observador de aves peruano - Miguel Lezama
 
 ![Measuring river discharge](/assets/posts/5Birds.jpg)
 
-![Measuring river discharge](/assets/posts/5.Birdss.jpg)
+![Measuring river discharge](/assets/posts/5.Birdss.JPG)
 
