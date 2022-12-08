@@ -1,1 +1,23 @@
+---
+title: 'Rio Cañete: Water quality data collection'
+date: 2022-07-02
+author: hvlepage
+category: field-work
+---
+
+
+Water quality data has been collected at over 35 sites within the Cañete drainage basin. At each site water samples are collected so that they can be analysed for heavy metals, aniones and cationes, and chemical oxygen demand while at around half a dozen of the lowest sites closest to larger urban areas and the most intensive agricultural activity, the water samples are also analysed for pesticides and coliformes. Strict health & safety regulations and sample collection protocols are followed - as demonstrated in the photo by two UNAH students - at the river to ensure that the water samples are not contaminated at the moment of collection.
+
+Se han recogido datos sobre la calidad del agua en más de 35 puntos de muestreo en la cuenca de drenaje del Cañete. En cada lugar se recogen muestras de agua para analizarlas en busca de metales pesados, aniones y cationes, y demanda química de oxígeno, mientras que en alrededor de media docena de los lugares más bajos y cercanos a las grandes zonas urbanas y a la actividad agrícola más intensiva, las muestras de agua también se recogan en busca de pesticidas y coliformes. En el río se siguen estrictas normas de salud y seguridad, y protocolos de recogida de muestras - como demuestran en la foto dos estudiantes de la UNAH - para garantizar que las muestras de agua no se contaminen en el momento de la recogida.
+
+![Measuring river discharge](/assets/posts/1Watercollection.JPG)
+
+
+Basic river characteristics are also recorded: width, average depth and average velocity so that an average discharge can be calculated for that site on that day at that time. In the photo, a UNAH member of staff demonstrates the use of a laser range finder to record the width of the channel at a point where it is impossible to cross the river.
+
+También se registran las características básicas del río: la anchura, la profundidad media y la velocidad media, de modo que pueda calcularse la descarga media en ese lugar, ese día y a esa hora. En la foto, un docente de la UNAH demuestra el uso de un telémetro láser para registrar la anchura del canal en un punto donde es imposible cruzar el río.
+
+![Measuring river discharge](/assets/posts/1Width.JPG)
+
+
 
