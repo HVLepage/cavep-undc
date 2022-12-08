@@ -1,8 +1,20 @@
 ---
-title: 'Rio Cañete: Shrimp research'
-date: 2021-07-09
+title: 'Rio Cañete: Selecting the shrimp sample'
+date: 2021-11-09
 author: hvlepage
 category: field-work
+---
+
+
+Two UNAH students select the shrimp sample. The shrimps are killed following a strict protocol which involves immersing them in two baths of increasing concentrations of ethanol. Only then can the samples be prepared and processed for analysis. 
+
+Dos estudiantes de la UNAH seleccionan la muestra de camarones. Los camarones se sacrifican siguiendo un estricto protocolo que consiste en sumergirlos en dos baños de concentraciones crecientes de etanol. Sólo entonces pueden prepararse las muestras y procesarse para el análisis. 
+
+![Measuring river discharge](/assets/posts/7Sampleselection.JPG)
+
+
+---
+Rio Cañete: Shrimp research
 ---
 
 
@@ -11,3 +23,5 @@ Two UNAH students weigh a shrimp. At each site 10 male and 10 female shrimps are
 Dos estudiantes de la UNAH pesan un camarón. En cada lugar de muestreo se seleccionan 10 camerones macho y 10 camerones hembra y se miden sus características: longitud total, longitud de la cabeza y de la cola, y su peso. Se discute con los estudiantes la dificultad de medir un objeto no uniforme como el camarón.
 
 ![Measuring river discharge](/assets/posts/7Shrimp.JPG)
+
+
