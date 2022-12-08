@@ -31,5 +31,5 @@ In the field, a laboratory needed to improvised and set up each day to process t
 
 Sobre el terreno, fue necesario improvisar y montar un laboratorio cada día para procesar las muestras de agua. Los docentes de la UCAM y la UNAH llevaron a cabo los mismos procedimientos de preparación y análisis de muestras, y siguieron los mismos protocolos que habrían seguido en el laboratorio.
 
-![Measuring river discharge](/assets/posts/4FieldLabs.JPG)
+![Measuring river discharge](/assets/posts/4Fieldlabs.JPG)
 
