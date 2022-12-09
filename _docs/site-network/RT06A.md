@@ -42,7 +42,7 @@ Discharge in the Rio Yauyos is very similar to that in other sub-catchments. Ele
 
 At just over 2345m asl the DO readings at T6a fall within the range to be expected for both July and November data sets. Again, the increased elevation and diurnal fluctuations in temperature in narrow, sheltered sections of the valley will produce fluctuations in maximum absolute oxygen capacity and, in consequence, percentage saturation. This then fluctuates with that rhythm accordingly. The DO levels appear to be rather variable at this site, perhaps indicating that the conditions for life are likewise rather variable.
 
-The conductivity reading at this site 153 (µS/cm) is very low as expected from higher elevation tributaries. 
+The conductivity reading at this site (153 µS/cm) is very low as expected from higher elevation tributaries. 
 
 The average pH readings of just over 8.0 in November are as expected. At these levels the alkalinity of the river is suitable for aquatic life and not approaching the tolerances of most aquatic vertebrates and invertebrates. 
 
@@ -58,7 +58,7 @@ Tributary 06 - the Yauyos subcatchment. (Eustace Barnes)
 
 
 ![Site T06A - the study site location. (John Forrest)](/assets/SiteDescriptions/T6/RT06ALowerYauyosvalley.jpg)
-Site T06A - the study site location: below the bridge on the main Canete valley highway. (November 2021) (John Forrest)
+Site T06A - the study site location: below the bridge on the main Cañete valley highway. (November 2021) (John Forrest)
 
 
 ![Site T06A - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6AStudysite.JPG)
