@@ -7,6 +7,7 @@ permalink: /docs/RT08A/
 Site Code: RT08A.  GPS: S12°33656, W75°825343. Elevation:
 2924m asl.
 
+
 ### Water Quality Data
 
 The following river and water quality data was collected from this site:
@@ -35,6 +36,7 @@ The following river and water quality data was collected from this site:
 |     Alkalinity (mg/l CaCO₃)                 |             119 (1.6N)            |              -            |       110 (1.6N)      |
 |     Alkalinity Field Tester (ppm/ CaCO₃)    |                  -                |              -            |            -          |
 
+
 ### Data Analysis
 Discharge at this point along the Rio Laraos is always low. It is a small tributary and significant water abstraction takes place for the small town of Laraos and the irrigation of extensive Andenes (terraced hillsides). Discharge fell but remained similar from July to November. Any increased rainfall in this period would have been retained in the reservoir above Laraos and/or used for agricultural purposes.    
 
@@ -51,8 +53,9 @@ The conductivity readings at this site (180-185 µS/cm) are as expected for a su
 
 Average pH readings of about 8.5 in November are as expected. At these levels the alkalinity of the river is highly suitable for aquatic life and indicative of clean water. 
 
+
 ### Site Description
-Site T8a lies in the Rio Laraos valley at 2914m asl and just above the confluence with the Rio Canete. It is located in the temperate zone, above the HEP station G2, in a picturesque section of the valley. The valley at this point is narrow with a v-shaped profile and a narrow flood-plain. Bed load in the river channel is comprised of scattered large boulders, gravels, and smaller stones. River flow in the Rio Laraos is year-round and delivers a minimal input to the Rio Canete. This is probably because water abstraction is significant for the settlement of Laraos and the surrounding terraces. 
+Site T8a lies in the Rio Laraos valley at 2914m asl and just above the confluence with the Rio Cañete. It is located in the temperate zone, above the HEP station G2, in a picturesque section of the valley. The valley at this point is narrow with a v-shaped profile and a narrow flood-plain. Bed load in the river channel is comprised of scattered large boulders, gravels, and smaller stones. River flow in the Rio Laraos is year-round and delivers a minimal input to the Rio Canete. This is probably because water abstraction is significant for the settlement of Laraos and the surrounding terraces. 
 
 The study site which is dominated by alders, agaves, and tall natural scrub. Above the narrow flood plain valley sides are as at RC11 and all the observations made for that site apply to T8a as it is only 100 metres away.
 
