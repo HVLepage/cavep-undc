@@ -12,7 +12,7 @@ Site Code: RT01E.  GPS: S12°865070, W75°615295. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T1e                                    |     March 2022        |
+|     RT01E                                  |     March 2022        |
 |--------------------------------------------|-----------------------|
 |     Season:                                |     Austral Summer    |
 |     Date:                                  |     24.3.2022         |
