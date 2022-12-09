@@ -12,7 +12,7 @@ Site Code: RT06B.  GPS: S12°457210, W75°924855. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T6B                                     |            November 2021           |
+|     RT06B                                   |            November 2021           |
 |---------------------------------------------|:----------------------------------:|
 |     Season:                                 |            Austral Summer          |
 |     Date:                                   |               14.11.21             |
@@ -40,7 +40,7 @@ The following river and water quality data was collected from this site:
 ### Data Analysis
 Discharge at this point on the Rio Yauyos was low suggesting that the rains had not yet started in the headwaters of this smaller sub-catchment. 
 
-At nearly 3000m asl the DO readings at T6b were lower than at many sites but fall within the range to be expected for a November data set. 
+At nearly 3000m asl the DO readings at RT06B were lower than at many sites but fall within the range to be expected for a November data set. 
 
 The conductivity readings at this site (107 µS/cm) was very low but is as expected for a high altitude site located above all settlements within a sub-catchment. It suggests good conditions for aquatic life.
 
@@ -48,7 +48,7 @@ The pH reading of 7.39 is slightly lower than at most other site in the valley m
 
 
 ### Site description
-Site T6b lies in the Rio Yauyos valley at 2970m asl, just above the settlement of Yauyos. The valley at this point is narrow with a v-shaped profile and a very narrow flood-plain. River flow in the Rio Yauyos is year-round and delivers a small input to the Rio Cañete. 
+Site RT06B lies in the Rio Yauyos valley at 2970m asl, just above the settlement of Yauyos. The valley at this point is narrow with a v-shaped profile and a very narrow flood-plain. River flow in the Rio Yauyos is year-round and delivers a small input to the Rio Cañete. 
 
 Channel bed load comprised of scattered large boulders, and stones.
 
@@ -58,10 +58,10 @@ Just upstream from the site water enters the channel from an underground spring 
 
 
 ![Site T06B - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6BSSite.JPG)
-Site T06B - the study site (Nov.2021). (John Forrest)
+Site RT06B - the study site (Nov.2021). (John Forrest)
 
 ![Site T06B - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6BViewupstream.JPG)
-Site T06B - the view upstream (Nov.2021). (John Forrest)
+Site RT06B - the view upstream (Nov.2021). (John Forrest)
 
 ![Site T06B - the study site. (John Forrest)](/assets/SiteDescriptions/T6/T6BViewdownstream.JPG)
-Site T06B - the view downstream (Nov.2021). (John Forrest)
+Site RT06B - the view downstream (Nov.2021). (John Forrest)
