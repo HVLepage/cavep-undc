@@ -3,7 +3,7 @@ title: RT09B - Middle Alis (Above Puente Huancachi)
 permalink: /docs/RT09B/
 ---
 
-Site Code: RT9B.  GPS: S12°25671, W75°715075. Elevation:
+Site Code: RT09B.  GPS: S12°25671, W75°715075. Elevation:
 3750m asl.
 
 
@@ -39,13 +39,13 @@ The following river and water quality data was collected from this site:
 ### Data Analysis
 Discharge at this point along the Rio Alis reflects the timing. Discharge rapidly declines in the latter part of the dry season.         
 
-At well over 3500m asl the DO readings at T9b fall within the range to be expected. It again shows the fall in DO readings as one ascends to the headwaters from T9a. The measurements for conductivity and total solids are high and may reflect local geological conditions and weathering processes. This is yet to be determined. At these levels of conductivity and total solids water quality is not poor. The impact of the Yauricocha mine is not known, but it is this section of the catchment where mining is concentrated.  
+At well over 3500m asl the DO readings at RT09B fall within the range to be expected. It again shows the fall in DO readings as one ascends to the headwaters from T9a. The measurements for conductivity and total solids are high and may reflect local geological conditions and weathering processes. This is yet to be determined. At these levels of conductivity and total solids water quality is not poor. The impact of the Yauricocha mine is not known, but it is this section of the catchment where mining is concentrated.  
 
 Between November 2019 and November 2021 but probably during mid-2021, the channel above Puente Huancachi was deepended and the material excavated piled up along the right hand bank for approx. 50 metres above the bridge. The deposited material, consequently, also significantly narrowed the channel.
 
 
 ### Site Description
-Site T9b lies in the arid temperate zone above the small town of Tomas at 3689m asl. It is located in the temperate zone in the upper valley. At this point the valley retains a v-shaped profile. The classic U-shaped valley profile of glaciated uplands only appears in the uppermost sections of the headwaters and close to Mina Yauricocha. The bed load in the river channel is comprised of fluvio-glacial boulders, gravels, and sands. The river flow in the Rio Alis here is year-round with discharge at this time perhaps approaching base flow. 
+Site RT09B lies in the arid temperate zone above the small town of Tomas at 3689m asl. It is located in the temperate zone in the upper valley. At this point the valley retains a v-shaped profile. The classic U-shaped valley profile of glaciated uplands only appears in the uppermost sections of the headwaters and close to Mina Yauricocha. The bed load in the river channel is comprised of fluvio-glacial boulders, gravels, and sands. The river flow in the Rio Alis here is year-round with discharge at this time perhaps approaching base flow. 
 
 There is little or no agricultural cultivation taking place at present, with pastoralism dominating rural land use. There are extensive areas of terracing on steeper and more mesic west facing slopes. Although these slopes are largely unused nowadays, the traditional practice of burning hillsides can be clearly seen. This is a highly detrimental practice; accelerating soil erosion, reducing slope stability and reducing biodiversity. It is undertaken to promote grazing for the tiny number of goats, sheep and cattle held by subsistence farmers.
 
