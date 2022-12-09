@@ -12,7 +12,7 @@ Site Code: RT08C.  GPS: S12°36286, W75°763187. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T8C                                     |     November 2019 (old site)    |       November 2021 (new site)     |
+|     RT08C                                   |     November 2019 (old site)    |       November 2021 (new site)     |
 |---------------------------------------------|:-------------------------------:|:----------------------------------:|
 |     Season:                                 |          Austral Summer         |            Austral Summer          |
 |     Date:                                   |             21.11.19            |               16.11.21             |
@@ -41,7 +41,7 @@ The following river and water quality data was collected from this site:
 In November 2019 water flowing from the manantial (spring) was measured while in November 2021 water in the river channel just above the manantial was measured.
 In both years, there was a small, steady outflow from the manantial but minimal water flowing in the main river channel. The water flow in the river channel would have been because the rains had yet to fall in the headwaters at the start of the rainy season. Furthermore, the upper Laraos is renowned for its karst scenery and has one of the deepest high altitude cave systems in the world which would absorb most of the rainfall that does fall. Consequently, it is likely that the source of the main spring is augmented by a series of groundwater flows throughout the upper Laraos valley.
 
-At well over 3500m asl the DO readings at T8c are low and as expected at this altitude.
+At well over 3500m asl the DO readings at RT08C are low and as expected at this altitude.
 
 Conductivity measurements are low and as expected, especially in November 2019 given that the water measured had just emerged from underground.
 
