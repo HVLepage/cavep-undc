@@ -12,7 +12,7 @@ Site Code: RT11B.  GPS: S12°093520, W75°811620. Elevation:
 
 The following river and water quality data was collected from this site: 
 
-|     T11B                                    |      November 2021    |
+|     RT11B                                    |      November 2021    |
 |---------------------------------------------|:---------------------:|
 |     Season:                                 |     Austral Summer    |
 |     Date:                                   |        21.11.21       |
@@ -59,13 +59,13 @@ Andean goose, Andean and Puna Ibis are found feeding in the marshlands located o
 
 
 ![Site T11B - the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11Bsite.JPG)
-Site T11B - the study site (November 2021) (John Forrest)
+Site RT11B - the study site (November 2021) (John Forrest)
 
 
 ![Site T11B - the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11Bviewupstream.JPG)
-Site T11B - the view upstream (November 2021) (John Forrest)
+Site RT11B - the view upstream (November 2021) (John Forrest)
 
 
 ![Site T11B - the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11Bviewdownstream.JPG)
-Site T11B - the view downstream (November 2021) (John Forrest)
+Site RT11B - the view downstream (November 2021) (John Forrest)
 
