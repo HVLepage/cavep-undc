@@ -53,6 +53,6 @@ pH levels around 8.0 is as expected.
 
 
 ![Site T08C - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8CMantanial.JPG)
-Site T08C - the mantanial study site (Nov.2019) & new study site above the mantanial - channel to the left in the photo (Nov.2021). (John Forrest)
+Site RT08C - the mantanial study site (Nov.2019) & new study site above the mantanial - channel to the left in the photo (Nov.2021). (John Forrest)
 
 
