@@ -11,7 +11,7 @@ Site Code: RT04A.  GPS: S12°62956, W75°979014. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T4A                                     |          July 2019        |              November 2019             |        November 2021      |
+|     RT04A                                   |          July 2019        |              November 2019             |        November 2021      |
 |---------------------------------------------|:-------------------------:|:--------------------------------------:|:-------------------------:|
 |     Season:                                 |       Austral Winter      |              Austral Summer            |       Austral Summer      |
 |     Date:                                   |          10.07.19         |                 19.11.19               |          12.11.21         |
@@ -39,7 +39,7 @@ The following river and water quality data was collected from this site:
 ### Data Analysis
 Discharge in the Rio Ayauca is very similar to that in other sub-catchments. Elevated discharge being recorded for the months January to April, followed by a gradual diminution until the rains start in December. The periods we have sampled lie within the dry season.   
 
-At just over 1740m asl the DO readings at T4a fall within the range to be expected for both July and November data sets. Again, the increased elevation and diurnal fluctuations in temperature in narrow, sheltered sections of the valley will produce fluctuations in maximum absolute oxygen capacity and, in consequence, percentage saturation. This then fluctuates with that rhythm accordingly. The DO levels appear to be rather variable at this site, perhaps indicating that the conditions for life are likewise rather variable. However, we did find abundant frog spawn and immature frogs in the river in November 2019.
+At just over 1740m asl the DO readings at RT04A fall within the range to be expected for both July and November data sets. Again, the increased elevation and diurnal fluctuations in temperature in narrow, sheltered sections of the valley will produce fluctuations in maximum absolute oxygen capacity and, in consequence, percentage saturation. This then fluctuates with that rhythm accordingly. The DO levels appear to be rather variable at this site, perhaps indicating that the conditions for life are likewise rather variable. However, we did find abundant frog spawn and immature frogs in the river in November 2019.
 
 The Conductivity reading at this site (235-250 (µS/cm) is very low. Since the stream discharge is very low the impact on the quality of water in the main channel is minimal.  
 
@@ -47,7 +47,7 @@ pH readings approaching 9.0 in November are slightly on the high side comapred t
 
 
 ### Site description
-Site T4a is located adjacent to the settlement of Calachota and above the main Rio Cañete valley at 1740m asl in the arid subtropics. This narrow side valley drains one of the larger sub-catchments that lie on the north bank. At this sample point it has a less v-shaped profile. There are significant areas of cultivation, requiring irrigation waters on the south side of the valley. This is taken from higher up the valley and used to irrigate the hillside above the village of Calachota. Irrigation channels carry water along valley side contours extending the area of cultivation significantly. As such the Rio Ayauca has little or no water in it for much of the year. 
+Site RT04A is located adjacent to the settlement of Calachota and above the main Rio Cañete valley at 1740m asl in the arid subtropics. This narrow side valley drains one of the larger sub-catchments that lie on the north bank. At this sample point it has a less v-shaped profile. There are significant areas of cultivation, requiring irrigation waters on the south side of the valley. This is taken from higher up the valley and used to irrigate the hillside above the village of Calachota. Irrigation channels carry water along valley side contours extending the area of cultivation significantly. As such the Rio Ayauca has little or no water in it for much of the year. 
 
 The use of pesticides has been observed at many sites throughout the valley and it would be useful to know which agrochemicals are being used. It is also a concern to see the individual application of these chemicals without user protections. As such it must also be a concern that their use is indiscriminate and that there are no controls placed upon their use. As elsewhere in the drainage basin discharge is highly variable with a marked seasonality. Discharge measurements from this tributary from January to March are considerably greater.
 
@@ -59,12 +59,12 @@ Tributary 04 - the Ayauca subcatchment. (Eustace Barnes)
 
 
 ![Site T04A - the study site location. (John Forrest)](/assets/SiteDescriptions/T4/RT04ALowerAyaucavalley.jpg)
-Site T04A - the study site location: just above the village of Calchota and up from the main valley highway. (John Forrest)
+Site RT04A - the study site location: just above the village of Calchota and up from the main valley highway. (John Forrest)
 
 
 ![Site T04A - the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4AStudysite.JPG)
-Site T04A - the study site. (July 2019) (John Forrest)
+Site RT04A - the study site. (July 2019) (John Forrest)
 
 
 ![Site T04A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4AViewdownstream.JPG)
-Site T04A - View downstream from the study site. (July 2019) (John Forrest)
+Site RT04A - View downstream from the study site. (July 2019) (John Forrest)
