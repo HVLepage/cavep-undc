@@ -12,7 +12,7 @@ Site Code: RT01D.  GPS: S12°914459, W75°701602. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T1d                                    |     March 2022        |
+|     RT01D                                  |     March 2022        |
 |--------------------------------------------|-----------------------|
 |     Season:                                |     Austral Summer    |
 |     Date:                                  |     24.3.2022         |
@@ -48,10 +48,10 @@ The following river and water quality data was collected from this site:
 
 
 ![Site RT01D - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/RT1dGeothermalspring.jpg)
-Site RT01d - the study site (Geothermal spring) beside the rio Viñac. (March 2022) (John Forrest)
+Site RT01D - the study site (Geothermal spring) beside the rio Viñac. (March 2022) (John Forrest)
 
 
 ![Site RT01D - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/T1dGeothermalsource.jpg)
-Site RT01d - the study site (Geothermal spring) adjoining the rio Cañete (on the right). (March 2022) (John Forrest)
+Site RT01D - the study site (Geothermal spring) adjoining the rio Cañete (on the right). (March 2022) (John Forrest)
 
 
