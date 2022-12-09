@@ -48,7 +48,7 @@ The pH reading of 8.05, is as expected and highly suitable for aquatic life and 
 
 
 ### Site description
-Site T10b lies in the Rio Miraflores valley at 3683m asl, just above the small settlement of Miraflores. The valley at this point has a v-shaped profile and a narrow flood-plain. 
+Site T10B lies in the Rio Miraflores valley at 3683m asl, just above the small settlement of Miraflores. The valley at this point has a v-shaped profile and a narrow flood-plain. 
 
 Bed load in the river channel is comprised of scattered large boulders, and smaller stones. River flow in the Rio Miraflores is year-round and delivers a small input to the Rio Cañete but the channel size suggested that significantly more water flows in the river at certain times of year.
 
