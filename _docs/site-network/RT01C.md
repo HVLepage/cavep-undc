@@ -11,7 +11,7 @@ Site Code: RT01C.  GPS: S12°923350, W75°712100. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T1c                                    |     November 2021     |     March 2022        |
+|     RT01C                                  |     November 2021     |     March 2022        |
 |--------------------------------------------|-----------------------|-----------------------|
 |     Season:                                |     Austral Summer    |     Austral Summer    |
 |     Date:                                  |     15.11.2021        |     24.3.2022         |
@@ -49,22 +49,26 @@ An average pH reading of just over 8.0 is as expected and at a level suitable fo
 
 ### Site description
 
-Site T01c lies in the Rio Viñac valley at 3707m asl above all settlement and most agriculture in the valley. Above this sample point lands are extensively grazed with little or no cultivated lands while below some hillsides are terraced and most land cultivated. 
+Site RT01C lies in the Rio Viñac valley at 3707m asl above all settlement and most agriculture in the valley. Above this sample point lands are extensively grazed with little or no cultivated lands while below some hillsides are terraced and most land cultivated. 
+
 At this point the valley has narrowed considerably with a distinct v-shaped profile.  
+
 Bed load in the river channel is comprised of scattered large boulders and smaller stones. River flow in the Rio Viñac is year-round but delivers a minimal input to the Rio Cañete. 
+
 The minimal input to the main Rio Cañete channel is largely due to the high levels of water abstraction for terraced agriculture associated with the many settlements lower down the valley; including Huangascar, Viñac and Madean.
+
 The study site is dominated by puna grasses and scrub but little or no aquatic plant life. 
 
 
 
 ![Site T01C - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1CSite.jpeg)
-Site T01C - the study site (November 2021) (Eustace Barnes)
+Site RT01C - the study site (November 2021) (Eustace Barnes)
 
 
 ![Site T01C - the view upstream. (John Forrest)](/assets/SiteDescriptions/T1/T1CViewupstream.jpeg)
-Site T01C - the view upstream (November 2021) (Eustace Barnes)
+Site RT01C - the view upstream (November 2021) (Eustace Barnes)
 
 
 ![Site T01C - the view downstream. (John Forrest)](/assets/SiteDescriptions/T1/T1CViewdownstream.jpeg)
-Site T01C - the view downstream (November 2021) (Eustace Barnes)
+Site RT01C - the view downstream (November 2021) (Eustace Barnes)
 
