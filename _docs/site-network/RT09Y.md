@@ -1,8 +1,8 @@
 ---
-title: RT09Y - Yauricocha 
+title: RT09Y - Yauricocha (upper Alis valley) 
 permalink: /docs/RT09Y/
 ---
-RT09Y - Yauricocha (upper Alis valley)
+
 
 Site Code: RT09Y.  GPS: S12°286046, W75°691866. Elevation:
 4005m asl.
@@ -40,7 +40,9 @@ The following river and water quality data was collected from this site:
 ### Data analysis
 
 
+
 ### Site description
+
 
 
 
@@ -49,7 +51,7 @@ Site RT09Y - the study site location: in the Alis valley just below the village 
 
 
 ![Site RT09Y - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9YStudysite.JPG)
-Site RT09Y - the study site and view upstream showing the diversion channel bringing the water down around the mine tailings dam. (John Forrest)
+Site RT09Y - the study site and view upstream showing the diversion channel bringing water down around the mine tailings dam. (John Forrest)
 
 
 ![Site RT09Y - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9YViewdownstream.JPG)
