@@ -7,6 +7,7 @@ permalink: /docs/RT07A/
 Site Code: RT07A.  GPS: S12°42603, W75°848726. Elevation:
 2679m asl.
 
+
 ### Water Quality Data
 
 The following river and water quality data was collected from this site:
@@ -47,7 +48,7 @@ Average pH readings of approximately 8.5 in November are as expected. At these l
 
 
 ### Site Description
-Site T7a lies in the Rio Huantan valley at 2572m asl and just above the confluence with the Rio Canete. It is located in the upper sub-tropics, above the settlement of Tinco in a picturesque valley. The valley at this point is very narrow with a pronounced v-shaped profile and steep river cliffs cut down through highly fractured strata. Bed load in the river channel is comprised of rocks predominantly with huge boulders. River flow in the Rio Huantan is year-round and delivers a significant proportion of river discharge at this point in the catchment. 
+Site T7a lies in the Rio Huantan valley at 2572m asl and just above the confluence with the Rio Cañete. It is located in the upper sub-tropics, above the settlement of Tinco in a picturesque valley. The valley at this point is very narrow with a pronounced v-shaped profile and steep river cliffs cut down through highly fractured strata. Bed load in the river channel is comprised of rocks predominantly with huge boulders. River flow in the Rio Huantan is year-round and delivers a significant proportion of river discharge at this point in the catchment. 
 
 There is little or no agricultural cultivation along this section of the Rio Huantan. The study site which is dominated by riparian Alders, Agaves, and tall thorn scrub. Above the narrow flood plain valley sides are arid, supporting a xeric vegetation with increased woody shrubs and trees lining some of the more sheltered ravines. The lack of agricultural activity results from the lack of level ground and dominance of rocks and boulders lying across the steep slopes. This site retains the typical avifauna of the lower elevations with Scrub Blackbird, Black-necked Woodpecker, Golden Grosbeak, Chiguanco Thrush, House Wren, and Hooded Siskin being species that reflect a transitional community between the sub-tropics and temperature zone.    
 
