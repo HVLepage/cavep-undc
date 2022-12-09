@@ -1,9 +1,8 @@
 ---
-title: RT01E - Upper Viñac
+title: RT01E - Upper Viñac (Source)
 permalink: /docs/RT01E/
 ---
 
-RT01E - Upper Viñac (Source)
 
 Site Code: RT01E.  GPS: S12°865070, W75°615295. Elevation:
 4540m asl.
