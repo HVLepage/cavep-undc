@@ -12,7 +12,7 @@ Site Code: RT10B.  GPS: S12°274660, W75°855145. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T10B                                    |      November 2021     |
+|     RT10B                                    |      November 2021     |
 |---------------------------------------------|:----------------------:|
 |     Season:                                 |      Austral Summer    |
 |     Date:                                   |         17.11.21       |
