@@ -12,7 +12,7 @@ Site Code: RT04B.  GPS: S12°588960, W75°040085. Elevation:
 
 The following river and water quality data was collected from this site: 
 
-|     T4b                                     |      November 2021    |
+|     RT04B                                   |      November 2021    |
 |---------------------------------------------|:---------------------:|
 |     Season:                                 |     Austral Summer    |
 |     Date:                                   |        12.11.21       |
@@ -44,7 +44,7 @@ To switch the sample site to a location immediately above the settlement of Auca
 ### Data Analysis
 The sample was taken from an irrigation canal abstracting water from the third/fourth largest tributary of the Rio Allauca. Water from another small tributary also enters the canal at this point but contributed a minimal amount to the flow at the time of our visit.
 
-At just over 3100m asl the DO readings at T4b fall within the range to be expected for a November data set. 
+At just over 3100m asl the DO readings at RT04B fall within the range to be expected for a November data set. 
 
 The conductivity reading at this site (131 µS/cm) is as expected for a site located high in the sub-catchment above all settlements. It suggests ideal conditions for aquatic life.
 
@@ -52,7 +52,7 @@ The pH reading of 8.34, is as expected. At these levels the alkalinity of the ri
 
 
 ### Site description
-Site T4b as sampled on this occasion, is an irrigation canal transferring water from the third/fourth main tributary of the Rio Allauca a short distance upstream, to the settlements of Allauca and Aucampi, lower down the valley. The site is at the point where the canal crosses another small tributary valley. Potentially, some water from this small tributary can enter the canal.
+Site RT04B as sampled on this occasion, is an irrigation canal transferring water from the third/fourth main tributary of the Rio Allauca a short distance upstream, to the settlements of Allauca and Aucampi, lower down the valley. The site is at the point where the canal crosses another small tributary valley. Potentially, some water from this small tributary can enter the canal.
 
 The site lies in the Rio Allauca valley at 3114m asl, a short distance above the settlement of Allauca. The small tributary valley at this point is narrow with a v-shaped profile, very steep sided and with a very narrow flood-plain. The main valley below is much wider.
 The canal flows year-round, delivering a constant input to the settlements and irrigated land lower down the valley.
@@ -62,19 +62,19 @@ Eucalyptus trees, shrubs and grasses surround the site and there is evidence of 
 ### Site photos
 
 ![Site T04B - the study site location. (John Forrest)](/assets/SiteDescriptions/T4/T4BLocation.jpg)
-Site T04B - the study site location: above Allauca (November 2021) & just above Allauca (proposed) (John Forrest)
+Site RT04B - the study site location: above Allauca (November 2021) & just above Allauca (proposed) (John Forrest)
 
 
 ![Site T04B - the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4BSite.JPG)
-Site T04B - the study site. (November 2021) (John Forrest)
+Site RT04B - the study site. (November 2021) (John Forrest)
 
 
 ![Site T04B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4BViewdownstream.JPG)
-Site T04B - View downstream from the study site. (November 2021) (John Forrest)
+Site RT04B - View downstream from the study site. (November 2021) (John Forrest)
 
 
 ![Site T04B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T4/T4BViewupstream.JPG)
-Site T04B - View upstream from the study site. (November 2021) (John Forrest)
+Site RT04B - View upstream from the study site. (November 2021) (John Forrest)
 
 
 
