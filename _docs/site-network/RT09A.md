@@ -7,6 +7,7 @@ permalink: /docs/RT09A/
 Site Code: RT09A.  GPS: S12°28671, W75°787584. Elevation:
 3254m asl.
 
+
 ### Water Quality Data
 
 The following river and water quality data was collected from this site:
@@ -35,12 +36,13 @@ The following river and water quality data was collected from this site:
 |     Alkalinity (mg/l CaCO₃)                 |         193 (1.6N)        |              -            |       206 (1.6N)      |
 |     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |              -            |            -          |
 
+
 ### Data Analysis
-Discharge fluctuations at this point along the Rio Alis reflect the timing, with discharge slowing and reducing as the dry season progresses.                     
+Discharge fluctuations at this point along the Rio Alis reflect the timing, with discharge slowing and reducing as the dry season progresses. 
 
 At well over 3200m asl the DO readings at T9a fall within the range to be expected. It again shows the fall in DO readings from July to November for this tributary. Data from this site may reflect the significantly higher temperatures in November, although water temperatures were similar. 
 
-The measurements for conductivity and total solids are slightly on the high side and may reflect the fact that this site lies below a more significant settlement. Sewage outfall and other pollutants from domestic waste may enter the channel here. However, despite this the readings for water quality  are still good.
+The measurements for conductivity and total solids are slightly on the high side and may reflect the fact that this site lies below a more significant settlement. Sewage outfall and other pollutants from domestic waste may enter the channel here. However, despite this the readings for water quality are still good.
 
 Average pH readings of above 8.0 in November are as expected. At these levels the alkalinity of the river is suitable for aquatic life.
 
