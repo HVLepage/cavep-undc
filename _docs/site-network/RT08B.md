@@ -12,7 +12,7 @@ Site Code: RT08B.  GPS: S12°36259, W75°763129. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T8B                                     |        November 2019      |        November 2021      |
+|     RT08B                                   |        November 2019      |        November 2021      |
 |---------------------------------------------|:-------------------------:|:-------------------------:|
 |     Season:                                 |       Austral Summer      |       Austral Summer      |
 |     Date:                                   |          21.11.19         |          16.11.21         |
@@ -40,7 +40,7 @@ The following river and water quality data was collected from this site:
 ### Data Analysis
 Discharge at this point along the Rio Laraos is a combination of the discharge in the stream and the spring (mantanial) entering the river just above Puente Union. The discharge is low and in November 2021 mainly consisted of water emerging from the spring (manantial). On both occasions, the rains had not started to fall higher up in the headwaters at the end of the dry season.    
 
-At well over 3500m asl the DO readings at T8b fall within the range to be expected. The measurements for DO, conductivity and total solids are also as expected. 
+At well over 3500m asl the DO readings at RT08B fall within the range to be expected. The measurements for DO, conductivity and total solids are also as expected. 
 
 Conductivity measurements are fairly low and as expected at this altitude at this point in the drainage basin above all human settlement.
 
@@ -48,7 +48,7 @@ pH in the range 8.0 to 8.5 is as expected.
 
 
 ### Site Description
-Sites T8b and T8c lie within a few metres of each other in the upper Rio Laraos at 3733m asl, above the settlement of Laraos. They are located in the temperate zone just beneath extensive polylepis groves, puna grasslands and bofedales. Above this point the valley has the features and u-shaped profile typical of once glaciated valleys. The dischrage from the manantial is likely to be fairly constant throughout the year but the indication from the size of the channel above the manantial is that significantly more water may flow in it at certain times of the year. However, the surrounding karst landscape contains dep cave systems which may also absorb significant amounts of surface water.
+Sites RT08B and RT08C lie within a few metres of each other in the upper Rio Laraos at 3733m asl, above the settlement of Laraos. They are located in the temperate zone just beneath extensive polylepis groves, puna grasslands and bofedales. Above this point the valley has the features and u-shaped profile typical of once glaciated valleys. The dischrage from the manantial is likely to be fairly constant throughout the year but the indication from the size of the channel above the manantial is that significantly more water may flow in it at certain times of the year. However, the surrounding karst landscape contains dep cave systems which may also absorb significant amounts of surface water.
 
 The bed load in the river channel is comprised of fluvio-glacial boulders, gravels, and sands. At this site, the water flow in the Rio Laraos is year-round and delivers all the water needs for the village of Laraos below. The spring is a sacred site and likewise used by local people. 
 
