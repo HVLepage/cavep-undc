@@ -40,7 +40,7 @@ The following river and water quality data was collected from this site:
 ### Data Analysis
 Discharge at this point on the Rio Alis was very low suggesting that the rains had not yet started in the headwaters of this sub-catchment though the size of the channel suggested that it rarely carried much more water.
 
-At nearly 4200m asl the DO readings at T9c were lower than at many other sites but still fall within the range to be expected for a November data set. 
+At nearly 4200m asl the DO readings at T9C were lower than at many other sites but still fall within the range to be expected for a November data set. 
 
 The conductivity reading at this site (773 µS/cm) is slightly higher than is expected for a site located above all major settlements within a sub-catchment but probably reflects local geological conditions and weathering processes in the river channel.
 
@@ -48,13 +48,14 @@ The pH reading of 7.92, is slightly lower compared to other sites but is as expe
 
 
 ### Site description
-Site T9c lies in the Rio Alis valley at 4180m asl. The valley at this point is wide with a u-shaped profile and a wide flood-plain though there is little evidence of the river frequently overflowing its narrow channel. River flow in the Rio Alis is year-round and overall makes a significant input to the Rio Cañete further downstream.
+Site T9C lies in the Rio Alis valley at 4180m asl. The valley at this point is wide with a u-shaped profile and a wide flood-plain though there is little evidence of the river frequently overflowing its narrow channel. River flow in the Rio Alis is year-round and overall makes a significant input to the Rio Cañete further downstream.
 
 Bed load in the river channel is comprised almost entirely of smaller sediment material. 
 
 There is no agricultural cultivation taking place, the banks and hillsides are lined with open pasture where cattle and alpacas graze. However, there is some evidence of more intensive land use having taken place in the past; old corrals being located nearby. Currently, there is only permanent settlement (homestead) slightly higher up the valley. 
 
 Andean goose, Andean and Puna Ibis are found feeding in the wetter soils and marshland.  
+
 
 
 ![Site T9C - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9CSite.JPG)
