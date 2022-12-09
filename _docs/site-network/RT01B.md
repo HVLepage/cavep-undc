@@ -13,7 +13,7 @@ Site Code: RT01B.  GPS: S12°927273, W75°794645. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T1b                                    |     March 2022                |
+|     RT01B                                  |     March 2022                |
 |--------------------------------------------|-------------------------------|
 |     Season:                                |     Austral Summer            |
 |     Date:                                  |     23.3.2022                 |
