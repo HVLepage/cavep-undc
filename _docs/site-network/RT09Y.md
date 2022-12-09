@@ -12,7 +12,7 @@ Site Code: RT09Y.  GPS: S12°286046, W75°691866. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T9Y (Yauricocha)                       |     March 2022        |
+|     RT09Y                                   |     March 2022        |
 |--------------------------------------------|-----------------------|
 |     Season:                                |     Austral Summer    |
 |     Date:                                  |     28.3.2022         |
