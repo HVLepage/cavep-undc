@@ -4,7 +4,6 @@ permalink: /docs/RT08C/
 ---
 
 
-
 Site Code: RT08C.  GPS: S12°36286, W75°763187. Elevation:
 3734m asl.
 
@@ -50,7 +49,7 @@ pH levels around 8.0 is as expected.
 
 
 ### Site Description
-(Please refer to Site T08B).
+(Please refer to Site RT08B).
 
 
 ![Site T08C - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8CMantanial.JPG)
