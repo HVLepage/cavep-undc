@@ -65,17 +65,17 @@ Tributary 11 - the Vilca subcatchment. (Eustace Barnes)
 
 
 ![Site T11A - the study site location. (John Forrest)](/assets/SiteDescriptions/T11/RT11ALowerCochasvalley.jpg)
-Site T11A - the study site location just above the old turn off to Vilca. (John Forrest)
+Site RT11A - the study site location just above the old turn off to Vilca. (John Forrest)
 
 
 ![Site T11A - the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11AStudysite.JPG)
-Site T11A - the study site. (November 2021) (John Forrest)
+Site RT11A - the study site. (November 2021) (John Forrest)
 
 
 ![Site T11A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11AViewdownstream.JPG)
-Site T11A - View downstream from the study site. (November 2021) (John Forrest)
+Site RT11A - View downstream from the study site. (November 2021) (John Forrest)
 
 
 ![Site T11A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T11/T11AViewupstream.JPG)
-Site T11A - View upstream from the study site. (November 2021) (John Forrest)
+Site RT11A - View upstream from the study site. (November 2021) (John Forrest)
 
