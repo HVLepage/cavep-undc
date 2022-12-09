@@ -12,7 +12,7 @@ Site Code: RT09C.  GPS: S12°277975, W75°644980. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T9C                                     |       November 2021      |
+|     RT09C                                   |       November 2021      |
 |---------------------------------------------|:------------------------:|
 |     Season:                                 |       Austral Summer     |
 |     Date:                                   |          18.11.21        |
