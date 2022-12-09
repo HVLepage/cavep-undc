@@ -57,17 +57,17 @@ This valley is the principal transport route to Huancayo, with daily bus service
 
 
 ![Site T09B - the study site location. (John Forrest)](/assets/SiteDescriptions/T9/RT9BMiddleAlisvalley.jpg)
-Site T09B - the study site location just above Puente Huancachi. (John Forrest)
+Site RT09B - the study site location just above Puente Huancachi. (John Forrest)
 
 
 ![Site T09B - the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9BStudysite.JPG)
-Site T09B - the study site. (November 2019) (John Forrest)
+Site RT09B - the study site. (November 2019) (John Forrest)
 
 
 ![Site T09B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9BViewdownstream.JPG)
-Site T09B - View downstream from the study site. (November 2019) (John Forrest)
+Site RT09B - View downstream from the study site. (November 2019) (John Forrest)
 
 
 ![Site T09B - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T9/T9BViewupstream.JPG)
-Site T09B - View upstream from the study site. (November 2019) (John Forrest)
+Site RT09B - View upstream from the study site. (November 2019) (John Forrest)
 
