@@ -55,6 +55,7 @@ The bed load in the river channel is comprised of fluvio-glacial boulders, grave
 There is significant agricultural cultivation on the lower slopes higher up the valley, while pastoralism dominates land use on the upper slopes. The valley lies within the Reserva Paisajistica Nor Yauyos-Cochas and the more inaccessible valley sides also have areas of pacific relictual woodlands. 
 
 
+
 ![Tributary T10 - the Miraflores subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T10/T10Mirafloressubcatchment.jpg)
 Tributary 10 - the Miraflores subcatchment. (Eustace Barnes)
 
