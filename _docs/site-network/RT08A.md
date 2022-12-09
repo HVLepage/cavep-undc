@@ -12,7 +12,7 @@ Site Code: RT08A.  GPS: S12°33656, W75°825343. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T8A                                     |              July 2019            |        November 2019      |      November 2021    |
+|     RT08A                                   |              July 2019            |        November 2019      |      November 2021    |
 |---------------------------------------------|:---------------------------------:|:-------------------------:|:---------------------:|
 |     Season:                                 |           Austral Winter          |       Austral Summer      |     Austral Summer    |
 |     Date:                                   |              11.07.19             |          20.11.19         |        15.11.21       |
@@ -40,9 +40,9 @@ The following river and water quality data was collected from this site:
 ### Data Analysis
 Discharge at this point along the Rio Laraos is always low. It is a small tributary and significant water abstraction takes place for the small town of Laraos and the irrigation of extensive Andenes (terraced hillsides). Discharge fell but remained similar from July to November. Any increased rainfall in this period would have been retained in the reservoir above Laraos and/or used for agricultural purposes.    
 
-At just over 2900m asl the DO readings at T8a fall within the range to be expected for both July and November data sets, although they are rather variable at this site. Atmospheric temperatures were much higher in November, although water temperatures were only slightly higher. The latter can account for limited reductions in DO levels. Also, atmospheric pressure was lower in July.
+At just over 2900m asl the DO readings at RT08A fall within the range to be expected for both July and November data sets, although they are rather variable at this site. Atmospheric temperatures were much higher in November, although water temperatures were only slightly higher. The latter can account for limited reductions in DO levels. Also, atmospheric pressure was lower in July.
 
-Oxygen Saturation in water bodies. Two bodies of water that record 100\% saturation do not necessarily have the same concentration of dissolved oxygen. Absolute DO (in mg/l) will vary depending on temperature, pressure, and salinity.
+Oxygen Saturation in water bodies. Two bodies of water that record 100% saturation do not necessarily have the same concentration of dissolved oxygen. Absolute DO (in mg/l) will vary depending on temperature, pressure, and salinity.
 
 The solubility of oxygen decreases as temperature increases; warmer surface waters require less dissolved oxygen to reach 100% DO, than does deeper, cooler waters. At sea level, water at 4°C reaches 100% DO at 10.92 mg/L of dissolved oxygen. At 21°C, there would only be 8.68 mg/L DO at 100% air saturation -
 -dissolved oxygen decreases exponentially as salt levels increase. At the same pressure and temperature, saltwater holds about 20% less dissolved oxygen than freshwater.
@@ -55,9 +55,9 @@ Average pH readings of about 8.5 in November are as expected. At these levels th
 
 
 ### Site Description
-Site T8a lies in the Rio Laraos valley at 2914m asl and just above the confluence with the Rio Cañete. It is located in the temperate zone, above the HEP station G2, in a picturesque section of the valley. The valley at this point is narrow with a v-shaped profile and a narrow flood-plain. Bed load in the river channel is comprised of scattered large boulders, gravels, and smaller stones. River flow in the Rio Laraos is year-round and delivers a minimal input to the Rio Canete. This is probably because water abstraction is significant for the settlement of Laraos and the surrounding terraces. 
+Site RT08A lies in the Rio Laraos valley at 2914m asl and just above the confluence with the Rio Cañete. It is located in the temperate zone, above the HEP station G2, in a picturesque section of the valley. The valley at this point is narrow with a v-shaped profile and a narrow flood-plain. Bed load in the river channel is comprised of scattered large boulders, gravels, and smaller stones. River flow in the Rio Laraos is year-round and delivers a minimal input to the Rio Canete. This is probably because water abstraction is significant for the settlement of Laraos and the surrounding terraces. 
 
-The study site which is dominated by alders, agaves, and tall natural scrub. Above the narrow flood plain valley sides are as at RC11 and all the observations made for that site apply to T8a as it is only 100 metres away.
+The study site which is dominated by alders, agaves, and tall natural scrub. Above the narrow flood plain valley sides are as at RC11 and all the observations made for that site apply to RT08A as it is only 100 metres away.
 
 
 ![Tributary T08 - the Laraos subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T8/T8Laraossubcatchment.jpg)
@@ -65,12 +65,12 @@ Tributary 08 - the Laraos subcatchment. (Eustace Barnes)
 
 
 ![Site T08A - the study site location. (John Forrest)](/assets/SiteDescriptions/T8/RT08ALowerLaraos.jpg)
-Site T08A - the study site location: just beside the main valley highway. (John Forrest)
+Site RT08A - the study site location: just beside the main valley highway. (John Forrest)
 
 
 ![Site T08A - the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8AStudysite.JPG)
-Site T08A - the study site. (July 2019) (John Forrest)
+Site RT08A - the study site. (July 2019) (John Forrest)
 
 
 ![Site T08A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T8/T8AViewupstream.JPG)
-Site T08A - View upstream from the study site. (July 2019) (John Forrest)
+Site RT08A - View upstream from the study site. (July 2019) (John Forrest)
