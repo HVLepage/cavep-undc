@@ -2,7 +2,7 @@
 title: RT04B - Upper Allauca
 permalink: /docs/RT04B/
 ---
-RT04B - Upper Allauca
+
 
 Site Code: RT04B.  GPS: S12°588960, W75°040085. Elevation:
 3114m asl.
