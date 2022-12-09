@@ -40,7 +40,7 @@ The following river and water quality data was collected from this site:
 ### Data Analysis
 Discharge at this point on the Rio Vilca was very low suggesting that the rains had not yet started in the headwaters of this sub-catchment. 
 
-At nearly 4100m asl the DO readings at T11B fall within the range to be expected for a November data set. 
+At nearly 4100m asl the DO readings at RT11B fall within the range to be expected for a November data set. 
 
 The conductivity reading at this site (1010 µS/cm) is higher than expected for a site located above all major settlements within a sub-catchment but probably reflects local geological conditions and weathering processes in the river channel. At this level it is beginning to present some challenges for some species of aquatic life.
 
@@ -48,7 +48,7 @@ The pH reading of 8.42, is as expected. At these levels the alkalinity of the ri
 
 
 ### Site description
-Site T11B lies in the Rio Vilca valley at 4080m asl. The valley at this point is narrow with a v-shaped profile and a narrow flood-plain. The river has incised down in to a rock ledge and flows out from a small narrow cave approximately 10 metres deep.
+Site RT11B lies in the Rio Vilca valley at 4080m asl. The valley at this point is narrow with a v-shaped profile and a narrow flood-plain. The river has incised down in to a rock ledge and flows out from a small narrow cave approximately 10 metres deep.
 
 Bed load in the river channel is comprised almost entirely of smaller stones, larger material being held back in the channel above the rock ledge. River flow in the Rio Vilca is year-round and makes a small input to the Rio Cañete.
 
