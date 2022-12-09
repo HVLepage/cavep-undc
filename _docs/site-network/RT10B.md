@@ -59,14 +59,14 @@ Just upstream is a small fish farm but no permanent settlement. There is access 
 
 
 ![Site T10B - the study site. (John Forrest)](/assets/SiteDescriptions/T10/T10BSSite.JPG)
-Site T10B - the study site (November 2021) (John Forrest)
+Site RT10B - the study site (November 2021) (John Forrest)
 
 
 ![Site T10B - the study site. (John Forrest)](/assets/SiteDescriptions/T10/T10BViewupstream.JPG)
-Site T10B - the view upstream (November 2021) (John Forrest)
+Site RT10B - the view upstream (November 2021) (John Forrest)
 
 
 ![Site T10B - the study site. (John Forrest)](/assets/SiteDescriptions/T10/T10BViewdownstream.JPG)
-Site T10B - the view downstream (November 2021) (John Forrest)
+Site RT10B - the view downstream (November 2021) (John Forrest)
 
 
