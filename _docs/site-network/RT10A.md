@@ -40,7 +40,7 @@ The following river and water quality data was collected from this site:
 ### Data Analysis
 Discharge in the Rio Miraflores is year-round and as expected. The sub-catchment drains the three highest peaks with permanent snow cover, including both Llongote and Ticlla, in the area. 
 
-At just above 3300m asl the DO readings at T10a are within the expected range and again follow the pattern of slowly falling as elevation increases. 
+At just above 3300m asl the DO readings at RT10A are within the expected range and again follow the pattern of slowly falling as elevation increases. 
 
 Conductivity and total solids measurements are lower, reflecting the scale of the sub-catchment and reduced input from weathering processes, consequently, water quality is good. 
 
@@ -48,7 +48,7 @@ pH values are above 8.5 but suited to the aquatic life species likely to be foun
 
 
 ### Site Description
-Sites T10a lies in the arid temperate zone below the small village of Miraflores at 3330m asl. At this point the valley has a sharply v-shaped profile and is more of a canyon in places with steep sides. 
+Sites RT10A lies in the arid temperate zone below the small village of Miraflores at 3330m asl. At this point the valley has a sharply v-shaped profile and is more of a canyon in places with steep sides. 
 
 The bed load in the river channel is comprised of fluvio-glacial boulders, gravels, and sands. Huge boulders from landslides also lie throughout the valley and along the river channel. 
 
