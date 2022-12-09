@@ -18,7 +18,7 @@ The following river and water quality data was collected from this site:
 ### Data Analysis  (to be completed)
 Discharge at this point along the Rio Huantan
 
-At just over 3600m asl the DO readings at T7b 
+At just over 3600m asl the DO readings at RT07B 
 
 The conductivity readings at this site ( µS/cm) are    
 
@@ -27,7 +27,7 @@ At these levels the alkalinity of the river is suitable for aquatic life and ind
 
 
 ### Site Description (to be completed)
-Site T7b lies in the Rio Huantan valley at 3625m asl and well above the village of Huantan. 
+Site RT07B lies in the Rio Huantan valley at 3625m asl and well above the village of Huantan. 
 River flow in the Rio Huantan is year-round and delivers a significant proportion of river discharge at this point in the catchment. 
 
 There is little or no agricultural cultivation along this section of the Rio Huantan. 
@@ -38,18 +38,18 @@ In the upper parts of this sub-catchment agriculture is low intensity and tradit
 
 
 ![Site T07B - the study site location. (John Forrest)](/assets/SiteDescriptions/T7/RT07BMiddleHuantan.jpg)
-Site T07B - the study site location. (John Forrest)
+Site RT07B - the study site location. (John Forrest)
 
 
 ![Site T07B - the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7BStudysite.JPG)
-Site T07B - the study site. (June 2022) (John Forrest)
+Site RT07B - the study site. (June 2022) (John Forrest)
 
 
 ![Site T07B - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7BViewdownstream.JPG)
-Site T07B - View downstream from the study site. (June 2022) (John Forrest)
+Site RT07B - View downstream from the study site. (June 2022) (John Forrest)
 
 
 ![Site T07B - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T7/T7BViewupstream.JPG)
-Site T07B - View upstream from the study site. (June 2022) (John Forrest)
+Site RT07B - View upstream from the study site. (June 2022) (John Forrest)
 
 
