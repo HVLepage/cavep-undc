@@ -1,11 +1,11 @@
 ---
-title: RT02A - Lower Lincha
+title: RT02A - Lower Lincha (Puente Huayllampi)
 permalink: /docs/RT02A/
 ---
-RT02A - Lower Lincha (Puente Huayllampi)
 
 Site Code: RT02A.  GPS: S12°80846, W75°896536. Elevation:
 1109m asl.
+
 
 ### Water Quality Data
 
@@ -37,9 +37,9 @@ The following river and water quality data was collected from this site:
 
 
 ### Data Analysis
-Discharge at this site is impacted by seasonal abstraction in the upper Rio Lincha. The scale of the sub-catchment and limited agriculture practised does nor reduce discharge to zero at present as happens in the Rio Vinac at sample site T1a. 
+Discharge at this site is impacted by seasonal abstraction in the upper Rio Lincha. The scale of the sub-catchment and limited agriculture practised does nor reduce discharge to zero at present as happens in the Rio Viñac at sample site T1a. 
 
-At just over 1000m asl the DO readings at RT2a are as expected for both July and November data sets. The raised elevation and great fluctuations in daily temperature in such narrow and sheltered valleys will produce fluctuations in maximum absolute oxygen capacity and, in consequence, percentage saturation that therefore fluctuates with that rhythm. At DO levels from 6.13-7.27 mg/l and 75-86.4% oxygen saturation aquatic vertebrates survive and invertebrates thrive. 
+At just over 1000m asl the DO readings at T2a are as expected for both July and November data sets. The raised elevation and great fluctuations in daily temperature in such narrow and sheltered valleys will produce fluctuations in maximum absolute oxygen capacity and, in consequence, percentage saturation that therefore fluctuates with that rhythm. At DO levels from 6.13-7.27 mg/l and 75-86.4% oxygen saturation aquatic vertebrates survive and invertebrates thrive. 
 
 The conductivity at this site 437-491 (µS/cm) is higher than that recorded in the main channel. 
 
@@ -47,7 +47,7 @@ At around 9.0 the pH recorded in November is slightly higher than expected and h
 
 
 ### Site Description
-Site T2a is located just below the town of Catahuasi in the arid upper tropics. The Rio Canete, at this point is downriver of limited intensively farmed lands. The use of pesticides and fertilizers is probably only higher in the various sub-catchments in the temperate zone. The valley has a narrow steeply v-shaped profile with a tall river cliff on the south bank, indicating earlier periods of flooding. As elsewhere in the drainage basin discharge is highly seasonal. Discharge measurements in February-March are considerably greater. The channel itself is choked with large boulders and rocks from land slides and earlier flooding events. 
+Site T2a is located just below the town of Catahuasi in the arid upper tropics. The Rio Cañete, at this point is downriver of limited intensively farmed lands. The use of pesticides and fertilizers is probably only higher in the various sub-catchments in the temperate zone. The valley has a narrow steeply v-shaped profile with a tall river cliff on the south bank, indicating earlier periods of flooding. As elsewhere in the drainage basin discharge is highly seasonal. Discharge measurements in February-March are considerably greater. The channel itself is choked with large boulders and rocks from land slides and earlier flooding events. 
 
 The banks are lined with scattered willow and some acacia scrub. The cultivation of crops is exclusively for subsistence farming in the marginal social groups forced onto the poorer soils. The production of maize, bananas dominate with smaller areas of avocado production. As with elsewhere in the catchment there is little or no natural vegetation remaining. The fauna and flora in the valley are depauperate with relictual west flanks endemics. The impact of water quality on the health of the environment and populations of wildlife occupying these lands is the subject of some aspects of our study here. 
 
@@ -57,7 +57,7 @@ Tributary 02 - the Lincha subcatchment. (Eustace Barnes)
 
 
 ![Site T02A - the study site location. (John Forrest)](/assets/SiteDescriptions/T2/RT02ALowerLinchavalley.jpg)
-Site T02A - the study site location: just below Puente Huayllampi. (John Forrest)
+Site T02A - the study site location: just beneath Puente Huayllampi. (John Forrest)
 
 
 ![Site T02A - the study site. (John Forrest)](/assets/SiteDescriptions/T2/T2AStudysite.JPG)
