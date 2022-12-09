@@ -10,7 +10,7 @@ Site Code: RT01A.  GPS: S12°85054, W75°940725. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T1a                              |     July 2019             |     November 2019                      |     November 2021                  |     March 2022           |
+|     RT01A                            |     July 2019             |     November 2019                      |     November 2021                  |     March 2022           |
 |--------------------------------------|---------------------------|----------------------------------------|------------------------------------|--------------------------|
 |     Season:                          |     Austral Winter        |     Austral Summer                     |     Austral Summer                 |     Austral Summer       |
 |     Date:                            |     10.07.2019            |     18.11.2019                         |     10.11.2021                     |     21.3.2022            |
@@ -44,7 +44,7 @@ Recorded levels of pH at around 8.0 are as expected though the November 2021 ave
 
 
 ### Site Description
-Site T1a is the lowest sample site on the Rio Viñac and located just above RC03 at Llangastambo. This is the first tributary of any size in the Rio Cañete catchment, which it joins in the upper tropics at 980m asl. As is common at this elevation, rivers are dry for much of the austral winter. The bed load of huge boulders and rocks is indication of the importance of intermittent catastrophic flooding associated with ENSO. 
+Site RT01A is the lowest sample site on the Rio Viñac and located just above RC03 at Llangastambo. This is the first tributary of any size in the Rio Cañete catchment, which it joins in the upper tropics at 980m asl. As is common at this elevation, rivers are dry for much of the austral winter. The bed load of huge boulders and rocks is indication of the importance of intermittent catastrophic flooding associated with ENSO. 
 
 The valley at this elevation is dominated by salix and acacia species and river cane. Away from the channel the slopes are dominated by xeric vegetative communities. A dominant species here being columnar cacti that may grow to 4m or 5m in height. Along the valley side there are small areas of cultivated land. These are used for subsistence farming and primarily used for maize and plantain production. Water is siphoned form the river to irrigate field using traditional surface flooding methods. Such methods, developed and used extensively in the temperate zone, offer an inefficient use of water. In the headwater areas in the Madean district and higher up large areas are irrigated using the traditional irrigation channels that feed terraced hillsides. 
 
@@ -58,29 +58,29 @@ Tributary 01 - the Viñac subcatchment. (Eustace Barnes)
 
 
 ![Site T01A - the study site location. (John Forrest)](/assets/SiteDescriptions/T1/RT01ALower%20Vinakvalley.jpg)
-Site T01A - the (new) study site location: just above Llangastambo. (John Forrest)
+Site RT01A - the (new) study site location: just above Llangastambo. (John Forrest)
 
 
 ![Site T01A - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AStudysitedryriverbed(July2019site).JPG)
-Site T01A - the study site. (July 2019) (John Forrest)
+Site RT01A - the study site. (July 2019) (John Forrest)
 
 
 ![Site T01A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewdownstream(July2019site).JPG)
-Site T01A - View downstream from the study site. (July 2019) (John Forrest)
+Site RT01A - View downstream from the study site. (July 2019) (John Forrest)
 
 
 ![Site T01A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewupstream%20(July%202019%20site).JPG)
-Site T01A - View upstream from the study site. (July 2019) (John Forrest)
+Site RT01A - View upstream from the study site. (July 2019) (John Forrest)
 
 
 ![Site T01A - the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AStudysite(Nov.2019site).JPG)
-Site T01A - the study site. (November 2019) (John Forrest)
+Site RT01A - the study site. (November 2019) (John Forrest)
 
 
 ![Site T01A - View downstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewdownstream(Nov.2019site).JPG)
-Site T01A - View downstream from the study site. (November 2019) (John Forrest)
+Site RT01A - View downstream from the study site. (November 2019) (John Forrest)
 
 
 ![Site T01A - View upstream from the study site. (John Forrest)](/assets/SiteDescriptions/T1/T1AViewupstream(Nov.2019site).JPG)
-Site T01A - View upstream from the study site. (November 2019) (John Forrest)
+Site RT01A - View upstream from the study site. (November 2019) (John Forrest)
 
