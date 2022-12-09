@@ -1,12 +1,13 @@
 
 ---
-title: RT01B - Lower Middle Viñac
+title: RT01B - Lower Middle Viñac (Below Viñac)
 permalink: /docs/RT01B/
 ---
-RT01B - Lower Middle Viñac (Below Viñac)
+
 
 Site Code: RT01B.  GPS: S12°927273, W75°794645. Elevation:
 2770m asl.
+
 
 ### Water Quality Data
 
