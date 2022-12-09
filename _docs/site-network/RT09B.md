@@ -6,6 +6,7 @@ permalink: /docs/RT09B/
 Site Code: RT9B.  GPS: S12°25671, W75°715075. Elevation:
 3750m asl.
 
+
 ### Water Quality Data
 
 The following river and water quality data was collected from this site:
@@ -34,12 +35,13 @@ The following river and water quality data was collected from this site:
 |     Alkalinity (mg/l CaCO₃)                 |              -            |            90 (1.6N)          |
 |     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |                -              |
 
+
 ### Data Analysis
 Discharge at this point along the Rio Alis reflects the timing. Discharge rapidly declines in the latter part of the dry season.         
 
 At well over 3500m asl the DO readings at T9b fall within the range to be expected. It again shows the fall in DO readings as one ascends to the headwaters from T9a. The measurements for conductivity and total solids are high and may reflect local geological conditions and weathering processes. This is yet to be determined. At these levels of conductivity and total solids water quality is not poor. The impact of the Yauricocha mine is not known, but it is this section of the catchment where mining is concentrated.  
 
-Between November 2019 and November 2021 but probably during mid-2021, the channel above Punete Huancachi was deepended and the material excavated piled up along the right hand bank for approx. 50 metres above the bridge. The deposited material, consequently, also significantly narrowed the channel.
+Between November 2019 and November 2021 but probably during mid-2021, the channel above Puente Huancachi was deepended and the material excavated piled up along the right hand bank for approx. 50 metres above the bridge. The deposited material, consequently, also significantly narrowed the channel.
 
 
 ### Site Description
