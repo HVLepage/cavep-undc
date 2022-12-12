@@ -11,7 +11,7 @@ Site Code: RC15B.  GPS: S12°075708, W75°771023. Elevation: 4025m asl.
 
 The following river and water quality data was collected from this site:
 
-|     RC15b                                  |        July 2022      |
+|     RC15B                                  |        July 2022      |
 |--------------------------------------------|:---------------------:|
 |     Season:                                |     Austral Winter    |
 |     Date:                                  |          3.7.22       |
@@ -43,8 +43,6 @@ At just over 4,000m asl the DO readings at RC15B are low but as expected.
 
 The average pH reading of almost 8.0 is as expected for a clean river and appropriate for most forms of aquatic life.
 
-As the population density above Puente Vilca is very low, the impact of anthropic activity is minimal though there is some limited pastoral agriculture activity in the area. 
-
   
 ### Site Descriptions 
 Site RC15B lies at 4025m asl below a series of caves and is accessed though them. At this point the valley consists of a narrow steep sided gorge for about one kilometre.
@@ -53,7 +51,7 @@ The bed load in the river channel is comprised of gravels, pebbles and smaller b
 
 The river flow in the Rio Cañete at this point is reduced year round by significant infiltration resulting in a high percentage of the discharge passing underground (subterranean flow). This fluctuates significantly between the seasons with no flow in the main channel during the dry season due to the extent of the infiltration higher up the valley.
 
-There is no agricultural activity in the valley or valley sides, extensive pastoralism dominates rural land use throughout the headwater areas.
+As the population density above Puente Vilca is very low, the impact of anthropic activity is minimal. There is no agricultural activity in the valley or valley sides - extensive pastoralism dominates throughout the headwater areas.
 
 At these elevations the fauna and flora are now more typical of the high Andes. Andean Goose, Yellow-billed Teal, Yellow-billed Pintail, Puna Teal, Andean Coot, Spot-winged Pigeon, Black-winged Ground Dove and Mountain Caracara are now commonly observed.  
 
