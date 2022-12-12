@@ -38,13 +38,23 @@ The following river and water quality data was collected from this site:
 
 
 ### Data Analysis
+Several springs flowing out from beneath the scree slopes falling into the highest bofedal in the valley, were sampled. 
 
+At just over 4500m asl the DO readings fall within the range to be expected for water that has just appeared from underground at this altitude.
 
+The conductivity reading at this site (46 µS/cm) is very low but reflects the fact that this water has only just emerged from underground. At this initial level it presents some challenges for many species of aquatic life.
+
+The pH reading of 7.74, is as expected. At these levels the alkalinity of the river is highly suitable for aquatic life and indicative of clean water. 
 
 
 ### Site description
+Site T1E is located within the bofedal which is identified as the main source of the Rio Viñac at 4540m asl. The bofedal lies within a corrie backed by steep slopes covered in scree - the springs appear along the base of the scree slope – and appears to be completely healthy.
 
+There is no agricultural cultivation taking place, other than the grazing of cattle and alpacas on the bofedal. 
 
+Andean goose, Andean and Puna Ibis are found feeding on the marshland. 
+
+There are no permanent settlements in the upper valley.
 
 
 
