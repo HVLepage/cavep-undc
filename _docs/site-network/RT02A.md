@@ -11,7 +11,7 @@ Site Code: RT02A.  GPS: S12°80846, W75°896536. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T2A                              |     July 2019                 |     November 2019         |     November 2021      |     March 2022            |     June 2022                    |
+|     RT02A                             |     July 2019                 |     November 2019         |     November 2021      |     March 2022            |     June 2022                    |
 |--------------------------------------|-------------------------------|---------------------------|------------------------|---------------------------|----------------------------------|
 |     Season:                          |     Austral Winter            |     Austral Summer        |     Austral Summer     |     Austral Summer        |     Austral Winter               |
 |     Date:                            |     10.07.19                  |     18.11.19              |     10.11.21           |     26.3.22               |     26.6.22                      |
