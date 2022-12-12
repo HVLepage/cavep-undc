@@ -11,7 +11,7 @@ Site Code: RT02B.  GPS: S12°798367, W75°664697. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T2B                                    |     March 2022            |
+|     RT02B                                  |     March 2022            |
 |--------------------------------------------|---------------------------|
 |     Season:                                |     Austral Summer        |
 |     Date:                                  |     26.3.22               |
