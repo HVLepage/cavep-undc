@@ -38,11 +38,19 @@ The following river and water quality data was collected from this site:
 
 
 ### Data analysis
+The discharge from a small stream emanating from the Yauricocha mine into the Rio Alis was measured. It is not known if the stream contains outflow water that the mine containment facilities cannot manage in the rainy season or water resulting from heavy rain above the mine which has been channelled/diverted around the mine. 
 
+At just over 4000m asl the average DO reading (4.4mg/l) was lower than at many sites but falls within the range to be expected.
+
+The conductivity reading (440 µS/cm) was as expected for a site located above all major settlements within a sub-catchment though not necessarily for water that might be mine outflow.
+
+The pH reading of 8.4, is as expected. At these levels the alkalinity of the river is suitable for aquatic life. 
 
 
 ### Site description
+Site RT09Y lies on a small stream flowing in to the Rio Alis at 4005m asl. The stream was visible above the site and appeared to have been artificially channelled around the mine workings upstream before dropping steeply down to the valley floor and entering a small natural channel. The small channel was only just able to accommodate the discharge on this occasion. On other occasions (in November) the channel was observed to be dry.
 
+There was no agricultural cultivation taking place on the banks and hillsides surrounding the site which consists of rough pasture.
 
 
 
