@@ -12,39 +12,39 @@ Site Code: RT09C.  GPS: S12°277975, W75°644980. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     RT09C                                   |       November 2021      |
-|---------------------------------------------|:------------------------:|
-|     Season:                                 |       Austral Summer     |
-|     Date:                                   |          18.11.21        |
-|     Time:                                   |           8.00am         |
-|     Width (m)                               |            2.05          |
-|     Depth (Av.) (m)                         |            0.07          |
-|     CSA (Av.) (m²)                          |            0.14          |
-|     Velocity (Av.) (m/s)                    |            0.16          |
-|     Discharge (Av.) (m³/s)                  |           0.023          |
-|     Riverbed sediment                       |     Pebbles & Cobbles    |
-|     Temp. (Atmospheric) (°C)                |             12           |
-|     Temp. (Water) (°C)                      |            8.08          |
-|     Atmospheric pressure (mbar)             |           (<600)         |
-|     Dissolved oxygen (mg/l)                 |            5.01          |
-|     Dissolved oxygen (%)                    |           69.05          |
-|     pH                                      |            7.92          |
-|     Conductivity (µS/cm)                    |            773           |
-|     Total Dissolved Solids (ppm)            |            387           |
-|     ORP (mV)                                |            47.2          |
-|     Turbidity                               |           Clear:         |
-|     Alkalinity (mg/l CaCO₃)                 |            170           |
-|     Alkalinity Field Tester (ppm/ CaCO₃)    |             -            |
+|     T9c                                    |     November 2021        |     March 2022           |
+|--------------------------------------------|--------------------------|--------------------------|
+|     Season:                                |     Austral Summer       |     Austral Summer       |
+|     Date:                                  |     18.11.21             |     28.3.2022            |
+|     Time:                                  |     8.00                 |     14.45                |
+|     Width (m)                              |     2.05                 |     1.75                 |
+|     Depth (Av.) (m)                        |     0.07                 |     0.50                 |
+|     CSA (Av.) (m²)                         |     0.14                 |     0.88                 |
+|     Velocity (Av.) (m/s)                   |     0.16                 |     0.50                 |
+|     Discharge (Av.) (m³/s)                 |     0.023                |     0.438                |
+|     Riverbed sediment                      |     Pebbles & Cobbles    |     Pebbles & Cobbles    |
+|     Temp. (Atmospheric) (°C)               |     12                   |     9.25                 |
+|     Temp. (Water) (°C)                     |     8.08                 |     12.66                |
+|     Atmospheric pressure (mbar)            |                          |     621                  |
+|     Dissolved oxygen (mg/l)                |     5.01                 |     4.14                 |
+|     Dissolved oxygen (%)                   |     69.05                |     66.88                |
+|     pH                                     |     7.92                 |     8.55                 |
+|     Conductivity (µS/cm)                   |     773                  |     366                  |
+|     Total Dissolved Solids (ppm)           |     387                  |     183                  |
+|     ORP (mV)                               |     47.2                 |     119.8                |
+|     Turbidity                              |     Clear:               |     Clear: colourless    |
+|     Alkalinity (mg/l CaCO₃)                |     170                  |     -                    |
+|     Alkalinity Field Tester (ppm CaCO₃)    |     -                    |     -                    |
 
 
 ### Data Analysis
-Discharge at this point on the Rio Alis was very low suggesting that the rains had not yet started in the headwaters of this sub-catchment though the size of the channel suggested that it rarely carried much more water.
+Discharge at this point on the Rio Alis was very low in November 2021 suggesting that the rains had not yet started in the headwaters of this sub-catchment though the size of the channel suggested that it rarely carried much more water though the discharge was slightly greater in March 2022 during the rainy season.
 
 At nearly 4200m asl the DO readings at RT09C were lower than at many other sites but still fall within the range to be expected for a November data set. 
 
-The conductivity reading at this site (773 µS/cm) is slightly higher than is expected for a site located above all major settlements within a sub-catchment but probably reflects local geological conditions and weathering processes in the river channel.
+The conductivity reading (773 µS/cm) in November 2021 was slightly higher than expected for a site located above all major settlements within a sub-catchment but probably reflects the low discharge at that time of year whereas it was somewhat higher in March 2022 with a higher discharge.
 
-The pH reading of 7.92, is slightly lower compared to other sites but is as expected. At these levels the alkalinity of the river is suitable for aquatic life and indicative of clean water. 
+The pH readings of around 8.0 are as expected. At these levels the alkalinity of the river is suitable for aquatic life and indicative of clean water. 
 
 
 ### Site description
