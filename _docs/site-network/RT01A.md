@@ -6,37 +6,38 @@ permalink: /docs/RT01A/
 Site Code: RT01A.  GPS: S12°85054, W75°940725. Elevation:
 1032m asl.
 
+
 ### Water Quality Data
 
 The following river and water quality data was collected from this site:
 
-|     RT01A                            |     July 2019             |     November 2019                      |     November 2021                  |     March 2022           |
-|--------------------------------------|---------------------------|----------------------------------------|------------------------------------|--------------------------|
-|     Season:                          |     Austral Winter        |     Austral Summer                     |     Austral Summer                 |     Austral Summer       |
-|     Date:                            |     10.07.2019            |     18.11.2019                         |     10.11.2021                     |     21.3.2022            |
-|     Time:                            |     9.30                  |     11.00                              |     10.30                          |     16.15                |
-|     Width (m)                        |     6.5                   |     1.5                                |     2.3                            |     25.0                 |
-|     Depth (Av.) (m)                  |     0.07                  |     0.05                               |     0.12                           |     0.36                 |
-|     CSA (Av.) (m²)                   |     0.42                  |     0.07                               |     0.28                           |     9.00                 |
-|     Velocity (Av.) (m/s)             |     0.22                  |     0.11                               |     0.13                           |     0.60                 |
-|     Discharge (Av.) (m³/s)           |     0.094                 |     0.008                              |     0.036                          |     5.400                |
-|     Riverbed sediment                |     Cobbles & Boulders    |     Cobbles & Boulders                 |     Pebbles, cobbles & boulders    |     Pebbles & cobbles    |
-|     Temp. (Atmospheric) (°C)         |     26                    |     33                                 |     24                             |     22.75                |
-|     Temp. (Water) (°C)               |     18.87                 |     26.84                              |     22.61                          |     17.71                |
-|     Atmospheric pressure (mbar)      |     905                   |     889                                |                                    |     880                  |
-|     Dissolved oxygen (mg/l)          |     7.90                  |     9.63                               |     8.26                           |     6.41                 |
-|     Dissolved oxygen (%)             |     93.6                  |     141.7                              |     106.6                          |     77.5                 |
-|     pH                               |                           |     8.70                               |     7.88                           |     7.99                 |
-|     Conductivity (µS/cm)             |     778                   |     1111                               |     1090                           |     84                   |
-|     Total Dissolved Solids (ppm)     |     389                   |     558                                |     545                            |     42                   |
-|     ORP (mV)                         |     348.4                 |     84.4                               |     -25.0                          |     162.2                |
-|     Turbidity                        |     Clear:                |     Clear: slight green colouration    |     Clear:                         |     Turbid: green        |
-|     Alkalinity (mg/l CaCO₃)          |     117 (1.6N)            |     -                                  |     135 (1.6N)                     |     50 (1.6N)            |
-|     Alkalinity Tester (ppm CaCO₃)    |     -                     |     -                                  |     122                            |     41                   |
+|     T1A                             |     July 2019             |     November 2019           |     November 2021                  |     March 2022           |     June 2022             |
+|--------------------------------------|---------------------------|-----------------------------|------------------------------------|--------------------------|---------------------------|
+|     Season:                          |     Austral Winter        |     Austral Summer          |     Austral Summer                 |     Austral Summer       |     Austral Winter        |
+|     Date:                            |     10.07.19              |     18.11.19                |     10.11.21                       |     21.3.22              |     8.7.22                |
+|     Time:                            |     9.30                  |     11.00                   |     10.30                          |     16.15                |     10.15                 |
+|     Width (m)                        |     6.5                   |     1.5                     |     2.3                            |     25.0                 |     9.4                   |
+|     Depth (Av.) (m)                  |     0.07                  |     0.05                    |     0.12                           |     0.36                 |                           |
+|     CSA (Av.) (m²)                   |     0.42                  |     0.07                    |     0.28                           |     9.00                 |                           |
+|     Velocity (Av.) (m/s)             |     0.22                  |     0.11                    |     0.13                           |     0.60                 |                           |
+|     Discharge (Av.) (m³/s)           |     0.094                 |     0.008                   |     0.036                          |     5.400                |                           |
+|     Riverbed sediment                |     Cobbles & Boulders    |     Cobbles & Boulders      |     Pebbles, cobbles & boulders    |     Pebbles & Cobbles    |     Cobbles & Boulders    |
+|     Temp. (Atmospheric) (°C)         |     26                    |     33                      |     24                             |     22.75                |     27.88                 |
+|     Temp. (Water) (°C)               |     18.87                 |     26.84                   |     22.61                          |     17.71                |     18.62                 |
+|     Atmospheric pressure (mbar)      |     905                   |     889                     |                                    |     880                  |     875                   |
+|     Dissolved oxygen (mg/l)          |     7.90                  |     9.63                    |     8.26                           |     6.41                 |     13.25                 |
+|     Dissolved oxygen (%)             |     93.6                  |     141.7                   |     106.6                          |     77.5                 |     161.9                 |
+|     pH                               |                           |     8.70                    |     7.88                           |     7.99                 |     8.66                  |
+|     Conductivity (µS/cm)             |     778                   |     1111                    |     1090                           |     84                   |     811                   |
+|     Total Dissolved Solids (ppm)     |     389                   |     558                     |     545                            |     42                   |     406                   |
+|     ORP (mV)                         |     348.4                 |     84.4                    |     -25.0                          |     162.2                |     93.9                  |
+|     Turbidity                        |     Clear:                |     Clear: slight green     |     Clear:                         |     Turbid: green        |     Clear:                |
+|     Alkalinity (mg/l CaCO₃)          |     117 (1.6N)            |     -                       |     135 (1.6N)                     |     50 (1.6N)            |     149 (1.6N)            |
+|     Alkalinity Tester (ppm CaCO₃)    |     -                     |     -                       |     122                            |     41                   |     120                   |                   |
 
 
 ### Data Analysis
-At 6.4-9.6 mg/l the DO readings are almost at full saturation. In November, the higher readings reflect the early processes of eutrophication taking place. This being produced by high rates of photosynthetic activity in the stream, probably as a result of agricultural runoff and sewage wastes. However, aquatic life can survive well at these levels of DO. High concentrations of nutrients (particularly phosphorus and nitrogen) fuel algae blooms, which initially boosts dissolved oxygen levels but then rapidly reduce DO. When the algae die, bacterial decomposition spikes, using up most or all of the dissolved oxygen available. This creates an anoxic, or oxygen-depleted, environment where few organisms survive. Such nutrient levels can occur naturally but are more often caused by pollution from fertilizer runoff or poorly treated waste waters which could apply to this site.  
+At 6.4-13.25 mg/l the DO readings are almost at full saturation. In November, the higher readings reflect the early processes of eutrophication taking place. This being produced by high rates of photosynthetic activity in the stream, probably as a result of agricultural runoff and sewage wastes. However, aquatic life can survive well at these levels of DO. High concentrations of nutrients (particularly phosphorus and nitrogen) fuel algae blooms, which initially boosts dissolved oxygen levels but then rapidly reduce DO. When the algae die, bacterial decomposition spikes, using up most or all of the dissolved oxygen available. This creates an anoxic, or oxygen-depleted, environment where few organisms survive. Such nutrient levels can occur naturally but are more often caused by pollution from fertilizer runoff or poorly treated waste waters which could apply to this site.  
 
 The conductivity readings range from 84 to over 1100 (µS/cm) - both exceptionally high and low. It is almost certainly the case that they reflect both the underlying geology and possibly contanmination from agricultural runoff. Generally, agricultural runoff will increase conductivity due to the additional chloride, phosphate, and nitrate ions. However, geothermal activity higher up the river may significantly increase conductivity when discharge is very low. On the other hand, when discharge is high the geothermal mineral output is significantly dilluted as observed in March 2022.
 
