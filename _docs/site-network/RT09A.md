@@ -12,7 +12,7 @@ Site Code: RT09A.  GPS: S12°28671, W75°787584. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T9A                              |     July 2019             |     November 2019         |     November 2021     |     March 2022                            |
+|     RT09A                            |     July 2019             |     November 2019         |     November 2021     |     March 2022                            |
 |--------------------------------------|---------------------------|---------------------------|-----------------------|-------------------------------------------|
 |     Season:                          |     Austral Winter        |     Austral Summer        |     Austral Summer    |     Austral Summer                        |
 |     Date:                            |     11.07.2019            |     21.11.2019            |     15.11.21          |     28.3.2022                             |
