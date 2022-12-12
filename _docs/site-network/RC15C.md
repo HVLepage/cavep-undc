@@ -10,7 +10,7 @@ Site Code: RC15C.  GPS: S12°083573, W75°952793. Elevation: 4,185m asl.
 
 The following river and water quality data was collected from this site:
 
-|     RC15c                                  |        July 2022      |
+|     RC15C                                  |        July 2022      |
 |--------------------------------------------|:---------------------:|
 |     Season:                                |     Austral Winter    |
 |     Date:                                  |          6.7.22       |
@@ -41,14 +41,13 @@ Discharge at this point was minimal - only a trickle (July 2022). It would appea
 
 The alkalinity levels are very high reflecting a significant level of dissolved carbonates in the water.
 
-The population density above Puente Vilca is very low so, overall,the impact of anthropic activity is minimal though visitors (bathers) to the spring may have an impact on the water quality.
-
   
 ### Site Descriptions 
 Site RC15C lies at nearly 4,200m asl in a more open section of the valley which reflects the fact that we are nearing the headwaters with clearly glaciated landscapes.
 
-The site is a spring showing significant signs of geological activity and most probably gethermal activity in the past though the spring waters are no longer warm. 
+The site is a spring showing significant signs of geological activity and most probably geothermal activity in the past though the spring waters are no longer warm. 
 
+The population density above Puente Vilca is very low so, overall,the impact of anthropic activity is minimal though visitors (bathers) to the spring may have a small impact on the water quality.
 There is no agricultural activity in the valley or on the valley sides, extensive pastoralism dominates rural land use throughout the headwater areas.
 
 
