@@ -1,6 +1,6 @@
 ---
 title: RT01C - Upper Middle Viñac
-permalink: /docs/RT01B/
+permalink: /docs/RT01C/
 ---
 
 Site Code: RT01C.  GPS: S12°923350, W75°712100. Elevation:
