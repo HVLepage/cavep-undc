@@ -2,7 +2,11 @@
 title: RC02a - Bocatoma Cañete
 permalink: /docs/RC02a/
 ---
-
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
 <iframe width="100%" height="640" allowfullscreen style="border-style:none;" src="https://cavep-undc-hosting.netlify.com/sites/RC02a/app-files/"></iframe>
 
 
@@ -13,6 +17,7 @@ Site Code: RC02a.  GPS: S13°03575, W76°205815. Elevation:
 ### Water Quality Data
 
 The following river and water quality data was collected from this site:
+
 
 |     RC02a                            |     July 2019                   |     November 2019              |     November 2021                |     March 2022                       |     June 2022                |
 |--------------------------------------|---------------------------------|--------------------------------|----------------------------------|--------------------------------------|------------------------------|
