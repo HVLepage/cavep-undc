@@ -10,24 +10,45 @@ Site Code: RT07B.  GPS: S12°481396, W75°771821. Elevation:
 
 ### Water Quality Data
 
-The following river and water quality data was collected from this site:  (tbc)
+The following river and water quality data was collected from this site: 
+
+|     T7B                                    |     June 2022           |
+|--------------------------------------------|-------------------------|
+|     Season:                                |     Austral Winter      |
+|     Date:                                  |     4.7.22              |
+|     Time:                                  |     14.45               |
+|     Width (m)                              |     16.0                |
+|     Depth (Av.) (m)                        |     0.40                |
+|     CSA (Av.) (m²)                         |     6.40                |
+|     Velocity (Av.) (m/s)                   |     0.60                |
+|     Discharge (Av.) (m³/s)                 |     3.84                |
+|     Riverbed sediment                      |     Mainly Cobbles      |
+|     Temp. (Atmospheric) (°C)               |     18                  |
+|     Temp. (Water) (°C)                     |     8.65                |
+|     Atmospheric pressure (mbar)            |     <600                |
+|     Dissolved oxygen (mg/l)                |     7.01                |
+|     Dissolved oxygen (%)                   |     102.25              |
+|     pH                                     |     8.53                |
+|     Conductivity (µS/cm)                   |     135                 |
+|     Total Dissolved Solids (ppm)           |     68                  |
+|     ORP (mV)                               |     117.15              |
+|     Turbidity                              |     Clear: blue/grey    |
+|     Alkalinity (mg/l CaCO₃)                |     89 (1.6N)           |
+|     Alkalinity Field Tester (ppm CaCO₃)    |     67                  |
 
 
+### Data Analysis
+Discharge at this point along the Rio Huantan was nearly 4 cumecs, a not insignificant amount but much of it is diverted a short distance downstream to irrigate dairy cattle pastures around the village of Huantan. 
+
+At just over 3600m asl the DO readings at RT07B are as expected.
+
+The conductivity readings at this site (135 µS/cm)is on the low side but as expected for such an elevation.
+
+The average pH reading of 8.53 is as expected. At these levels the alkalinity of the river is suitable for aquatic life and indicative of clean water.
 
 
-### Data Analysis  (to be completed)
-Discharge at this point along the Rio Huantan (tbc).
-
-At just over 3600m asl the DO readings at RT07B (tbc).
-
-The conductivity readings at this site ( µS/cm) are tbc.
-
-Average pH readings of (tbc).
-At these levels the alkalinity of the river is suitable for aquatic life and indicative of clean water.
-
-
-### Site Description (to be completed)
-Site RT07B lies in the Rio Huantan valley at 3625m asl, well above the village of Huantan and adjoining a long abandoned village.
+### Site Description 
+Site RT07B lies in the Rio Huantan valley at 3625m asl, well above the village of Huantan and adjacent to a long abandoned village.
 River flow in the Rio Huantan is year-round and delivers a significant proportion of river discharge at this point in the catchment. 
 
 There is little or no agricultural cultivation along this section of the Rio Huantan apart from rough grazing of cattle and sheep.
