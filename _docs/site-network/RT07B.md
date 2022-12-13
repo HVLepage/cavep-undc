@@ -12,7 +12,7 @@ Site Code: RT07B.  GPS: S12°481396, W75°771821. Elevation:
 
 The following river and water quality data was collected from this site: 
 
-|     T7B                                    |     June 2022           |
+|     RT07B                                  |     June 2022           |
 |--------------------------------------------|-------------------------|
 |     Season:                                |     Austral Winter      |
 |     Date:                                  |     4.7.22              |
