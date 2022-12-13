@@ -11,39 +11,39 @@ Site Code: RT04A.  GPS: S12°62956, W75°979014. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     RT04A                                   |          July 2019        |              November 2019             |        November 2021      |
-|---------------------------------------------|:-------------------------:|:--------------------------------------:|:-------------------------:|
-|     Season:                                 |       Austral Winter      |              Austral Summer            |       Austral Summer      |
-|     Date:                                   |          10.07.19         |                 19.11.19               |          12.11.21         |
-|     Time:                                   |           16.05pm         |                  9.30am                |            12.00          |
-|     Width (m)                               |             5.0           |                   8.0                  |            0.90           |
-|     Depth (Av.) (m)                         |            0.01           |                   0.05                 |            0.05           |
-|     CSA (Av.) (m²)                          |            0.07           |                   0.42                 |            0.05           |
-|     Velocity (Av.) (m/s)                    |            0.22           |                   0.19                 |            0.43           |
-|     Discharge (Av.) (m³/s)                  |            0.014          |                  0.080                 |            0.019          |
-|     Riverbed sediment                       |     Cobbles & boulders    |            Cobbles & boulders          |     Cobbles & Boulders    |
-|     Temp. (Atmospheric) (°C)                |             23            |                    25                  |             26            |
-|     Temp. (Water) (°C)                      |            16.39          |                  18.10                 |            21.55          |
-|     Atmospheric pressure (mbar)             |             825           |                   824                  |                           |
-|     Dissolved oxygen (mg/l)                 |            5.49           |                   4.95                 |            7.86           |
-|     Dissolved oxygen (%)                    |            68.1           |                   69.6                 |            107.5          |
-|     pH                                      |              -            |                   8.87                 |            8.73           |
-|     Conductivity (µS/cm)                    |             248           |                   236                  |             365           |
-|     Total Dissolved Solids (ppm)            |             124           |                   118                  |             182           |
-|     ORP (mV)                                |            342.7          |                  132.7                 |            59.3           |
-|     Turbidity                               |           Clear:          |     Clear: slight green colouration    |           Clear:          |
-|     Alkalinity (mg/l CaCO₃)                 |         111 (1.6N)        |                    -                   |         128 (1.6N)        |
-|     Alkalinity Field Tester (ppm/ CaCO₃)    |              -            |                    -                   |             114           |
+|     T4a                              |     July 2019             |     November 2019                      |     November 2021         |     June 2022          |
+|--------------------------------------|---------------------------|----------------------------------------|---------------------------|------------------------|
+|     Season:                          |     Austral Winter        |     Austral Summer                     |     Austral Summer        |     Austral Winter     |
+|     Date:                            |     10.07.2019            |     19.11.2019                         |     12.11.2021            |     8.7.22             |
+|     Time:                            |     16.05                 |     9.30                               |     12.00                 |     13.30              |
+|     Width (m)                        |     5.0                   |     8.0                                |     0.90                  |                        |
+|     Depth (Av.) (m)                  |     0.01                  |     0.05                               |     0.05                  |                        |
+|     CSA (Av.) (m²)                   |     0.07                  |     0.42                               |     0.05                  |                        |
+|     Velocity (Av.) (m/s)             |     0.22                  |     0.19                               |     0.43                  |                        |
+|     Discharge (Av.) (m³/s)           |     0.014                 |     0.080                              |     0.019                 |                        |
+|     Riverbed sediment                |     Cobbles & boulders    |     Cobbles & boulders                 |     Cobbles & boulders    |     Mainly boulders    |
+|     Temp. (Atmospheric) (°C)         |     23                    |     25                                 |     26                    |     23                 |
+|     Temp. (Water) (°C)               |     16.39                 |     18.10                              |     21.55                 |     17.34              |
+|     Atmospheric pressure (mbar)      |     825                   |     824                                |                           |     773                |
+|     Dissolved oxygen (mg/l)          |     5.49                  |     4.95                               |     7.86                  |     9.72               |
+|     Dissolved oxygen (%)             |     68.1                  |     69.6                               |     107.5                 |     128.0              |
+|     pH                               |                           |     8.87                               |     8.73                  |     8.66               |
+|     Conductivity (µS/cm)             |     248                   |     236                                |     365                   |     273                |
+|     Total Dissolved Solids (ppm)     |     124                   |     118                                |     182                   |     136                |
+|     ORP (mV)                         |     342.7                 |     132.7                              |     59.3                  |     131.5              |
+|     Turbidity                        |     Clear:                |     Clear: slight green colouration    |     Clear:                |     Clear:             |
+|     Alkalinity (mg/l CaCO₃)          |     111 (1.6N)            |     -                                  |     128 (1.6N)            |     129 (1.6N)         |
+|     Alkalinity Tester (ppm CaCO₃)    |     -                     |     -                                  |     114                   |     81                 |
 
 
 ### Data Analysis
-Discharge in the Rio Ayauca is very similar to that in other sub-catchments. Elevated discharge being recorded for the months January to April, followed by a gradual diminution until the rains start in December. The periods we have sampled lie within the dry season.   
+Discharge in the Rio Ayauca is minimal for much of the year but an elevated discharge is recorded in the early part of the year during and immediately after the rainy season followed by a gradual diminution until the rains start again in December. The periods we have sampled lie mainly within the dry season. However, the rio Ayauca is formed from three not insignificant tributaries which suggests that there is a major extraction of water from the river upstream for irrigation purposes and, to a lessser extent, to supply the villages of Ayauca and Ayampi.   
 
-At just over 1740m asl the DO readings at RT04A fall within the range to be expected for both July and November data sets. Again, the increased elevation and diurnal fluctuations in temperature in narrow, sheltered sections of the valley will produce fluctuations in maximum absolute oxygen capacity and, in consequence, percentage saturation. This then fluctuates with that rhythm accordingly. The DO levels appear to be rather variable at this site, perhaps indicating that the conditions for life are likewise rather variable. However, we did find abundant frog spawn and immature frogs in the river in November 2019.
+At just over 1740m asl the DO readings at RT04A fall within the range to be expected for both July and November data sets. Again, the increased elevation and diurnal fluctuations in temperature in narrow, sheltered sections of the valley will produce fluctuations in maximum absolute oxygen capacity and, in consequence, percentage saturation. This then fluctuates with that rhythm accordingly. However, the DO levels indicate that the conditions for life are acceptable despite the low water levels and temperature variations, and abundant frog spawn and immature frogs were found in the river during the November visits.
 
-The Conductivity reading at this site (235-250 (µS/cm) is very low. Since the stream discharge is very low the impact on the quality of water in the main channel is minimal.  
+The Conductivity readings at this site (236-365 (µS/cm) are on the low side. Since the stream discharge is very low the overall impact on the quality of water in the main channel is minimal.  
 
-pH readings approaching 9.0 in November are slightly on the high side comapred to the main valley. At these levels the alkalinity of the river is still suitable for most aquatic life and not approaching the tolerances of most aquatic vertebrates and invertebrates.
+pH readings approaching 9.0 are slightly on the high side compared to the main valley. At these levels the alkalinity of the river is still suitable for most aquatic life and not approaching the tolerances of most aquatic vertebrates and invertebrates.
 
 
 ### Site description
