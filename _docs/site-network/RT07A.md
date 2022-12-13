@@ -12,7 +12,7 @@ Site Code: RT07A.  GPS: S12°42603, W75°848726. Elevation:
 
 The following river and water quality data was collected from this site:
 
-|     T7a                              |     July 2019          |     November 2019      |     November 2021      |     July 2022                |
+|     RT07A                            |     July 2019          |     November 2019      |     November 2021      |     July 2022                |
 |--------------------------------------|------------------------|------------------------|------------------------|------------------------------|
 |     Season:                          |     Austral Winter     |     Austral Summer     |     Austral Summer     |     Austral Winter           |
 |     Date:                            |     11.07.2019         |     20.11.2019         |     14.11.2021         |     4.7.22                   |
@@ -52,7 +52,7 @@ Site RT07A lies in the Rio Huantan valley at 2572m asl and just above the conflu
 
 There is little or no agricultural cultivation along this section of the Rio Huantan. The study site is dominated by riparian Alders, Agaves, and tall thorn scrub. Above the narrow flood plain valley sides are arid, supporting a xeric vegetation with increased woody shrubs and trees lining some of the more sheltered ravines. The lack of agricultural activity results from the lack of level ground and dominance of rocks and boulders lying across the steep slopes. This site retains the typical avifauna of the lower elevations with Scrub Blackbird, Black-necked Woodpecker, Golden Grosbeak, Chiguanco Thrush, House Wren, and Hooded Siskin being species that reflect a transitional community between the sub-tropics and temperature zone.    
 
-In the upper parts of this sub-catchment agriculture is low intensity and traditional, the rural population is very low having been subject to rural drift. However, in the middle valley, the village of Huantan has retained much of its population due to a thriving dairy industry. In the headwaters there is a mining camp at Anexo Atcas. This mine may impact water quality in the Rio Huantan as might the Mina Corihuami located on the Rio Huantan watershed. 
+In the middle valley, well above the study site, the village of Huantan has retained much of its population due to extensive hillside terracing and a thriving dairy industry. This may make a small negative contribution to the water quality of the river which runs through the centre of the village.
 
 
 ![Tributary T07 - the Huantan subcatchment. (Eustace Barnes)](/assets/SiteDescriptions/T7/T7Huantansubcatchment.jpg)
