@@ -48,6 +48,6 @@ The average pH is over 8.0 which is ideal for aquatic life.
 
 
 ### Site description
-RC02C is situated upstream of Lunahuana and all its satellites. The river flows in a deep channel with steep banks, 5-10 metres high, lined with trees and shrubs. In some places the banks have been stabilised to protect the road, bridges and property.
+RC02C is situated upstream of Lunahuana and all its satellites. The river flows in a deep channel with steep banks, 5-10 metres high, lined with  extensive river cane, scattered acacia and stands of stunted willow. In some places the banks have been stabilised to protect the road, bridges and property.
 
 The river terraces upstream are intensively farmed with grapes and fruit trees dominating.
