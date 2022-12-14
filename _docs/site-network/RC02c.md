@@ -4,6 +4,9 @@ permalink: /docs/RC02c/
 ---
 
 
+### Water Quality Data
+
+The following river and water quality data was collected from this site:
 
 |     RC02C                            |     November 2021             |     July 2022             |     October 2022                |
 |--------------------------------------|-------------------------------|---------------------------|---------------------------------|
