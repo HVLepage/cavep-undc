@@ -4,6 +4,9 @@ permalink: /docs/RC02c/
 ---
 
 
+Site Code: RC02C.  GPS: -12.923484, -76.109352. Elevation: 550m asl.
+
+
 ### Water Quality Data
 
 The following river and water quality data was collected from this site:
@@ -34,6 +37,12 @@ The following river and water quality data was collected from this site:
 
 
 ### Data Analysis
+The discharge varies considerably between July and October/November though the July figure may be based on an over-estimation (of depth & veolcity). 
+
+The DO readings are as expected and higher in July than October/November.
+
+Conductivity results are as expected.
+
 
 
 
