@@ -4,7 +4,7 @@ permalink: /docs/RC02b/
 ---
 
 
-Site Code: RC02B.  GPS: -13.028536, -76.194156. Elevation: 310m asl.
+Site Code: RC02B.  GPS: S13°028536, W76°194156. Elevation: 310m asl.
 
 
 ### Water Quality Data
@@ -35,8 +35,9 @@ The following river and water quality data was collected from this site:
 |     Alkalinity (mg/l CaCO₃)          |     139 (1.6N)        |     125 (1.6N)               |     112 (1.6N)                 |
 |     Alkalinity Tester (ppm CaCO₃)    |     (120)             |     102                      |     100                        |
 
+
 ### Data analysis
-Discharge is fairly constant at 12-15 cumecs (the November 2021 figure is an over estimation - probable velocity: approximately half that stated). The discharge at this point is at its maximum because a short distance downstream a significant amount is abstracted at Bocatoma Socsi to supply the urban areas and irrigation projects on the coast strip.
+The discharge at RC02B now contains the water that was diverted from the river at the Capillucas dam. It is still subject to hydro-electric plant control but appears to be maintained at a fairly constant 12-15 cumecs (the November 2021 figure is probably an over-estimation of velocity: approximately half that stated). The discharge at this point in the river is at its maximum because a short distance downstream a significant amount is abstracted at Bocatoma Socsi to supply the urban areas and irrigation projects on the coast strip.
 
 There is some variation in the DO levels, with higher figures recorded in July.
 
