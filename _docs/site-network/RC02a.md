@@ -58,7 +58,7 @@ Site RC02A is located in the tropical zone just below Puente Socsi and the long 
 
 The channel flow is variable from the dry to wet season and from year to year, especially in El Niño years when the valley may be subject to major  flooding. However, the river holds a significant amount of water year-round unlike many rivers entering the coastal plain along the west flank of the Andes in Peru. More generally water levels are a function of the levels of abstraction for agriculture and urban demands. The channel itself is already very similar to that at RC01, braided and made up largely of cobbles and smaller boulders. 
 
-The banks are lined with extensive river cane scattered acacia and stands of stunted willow. This area is designated as a ‘bosque de proteccion’ affording some degree of protection to this relictual area of natural vegetation. This area is an important reserve for populations of Slender-billed Finch, a near threatened species with a limited distribution from northern Chile to the rio Cañete, in Peru. This area also holds populations of mountain Parakeet and endemic Black-necked Woodpecker. 
+The banks are lined with extensive river cane, scattered acacia and stands of stunted willow. This area is designated as a ‘bosque de proteccion’ affording some degree of protection to this relictual area of natural vegetation. This area is an important reserve for populations of Slender-billed Finch, a near threatened species with a limited distribution from northern Chile to the rio Cañete, in Peru. This area also holds populations of mountain Parakeet and endemic Black-necked Woodpecker. 
 
 Away from the banks, there is little or no natural vegetation remaining in the lower valley and much of what was open desert on the coastal plain has been irrigated and is now highly productive agricultural lands. The water quality in the river at lower elevations is impacted by agricultural run-off and sewage disposal. 
 
@@ -66,7 +66,7 @@ The wider environment and fauna in the valley are largely determined by agricult
 
 
 ![RC02a View upstream](/assets/SiteDescriptions/RC02/RC02aBelowPuenteSocsi.jpg)
-Site RC02A - Study site location: below Puente Socsi & above Socsi irrigation outflow.
+Site RC02A - Study site location: below Puente Socsi but above Socsi irrigation outflow.
 
 
 ![Site RC02 - the study site. (John Forrest)](/assets/SiteDescriptions/RC02/RC02Studysite.JPG)
