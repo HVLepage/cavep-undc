@@ -38,7 +38,7 @@ The following river and water quality data was collected from this site:
 
 ### Data Analysis
 In November 2011 and June 2022, recordings were taken immediately upstream from the road bridge entrance to Catapalla while in October 2022 they were taken immediately upstream of the pedestrian bridge into Catapalla.
-The discharge varies considerably between July and October/November though the July figure may be based on an over-estimation (of depth & velocity). 
+The discharge varies considerably between July and October/November though the July figure may be based on an over-estimation (of depth & velocity). However, the river now contains the water that was abstracted at the Capillucas dam and has been returned to the river. This may also partly explain the higher July figure as more water is released from the dam following the rains earlier in the year in the headwaters. Conversely, by NOvember - the end of the dry season - levels would be expected to be lower.
 
 There is some variation in the DO levels, with higher figures recorded in July.
 
