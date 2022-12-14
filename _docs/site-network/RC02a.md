@@ -1,5 +1,5 @@
 ---
-title: RC02a - Bocatoma Cañete
+title: RC02A - Bocatoma Cañete
 permalink: /docs/RC02a/
 ---
 <style scoped>
@@ -10,7 +10,7 @@ table {
 <iframe width="100%" height="640" allowfullscreen style="border-style:none;" src="https://cavep-undc-hosting.netlify.com/sites/RC02a/app-files/"></iframe>
 
 
-Site Code: RC02a.  GPS: S13°03575, W76°205815. Elevation:
+Site Code: RC02A.  GPS: S13°03575, W76°205815. Elevation:
 294m asl.
 
 
@@ -19,7 +19,7 @@ Site Code: RC02a.  GPS: S13°03575, W76°205815. Elevation:
 The following river and water quality data was collected from this site:
 
 
-|     RC02a                            |     July 2019                   |     November 2019              |     November 2021                |     March 2022                       |     June 2022                |
+|     RC02A                            |     July 2019                   |     November 2019              |     November 2021                |     March 2022                       |     June 2022                |
 |--------------------------------------|---------------------------------|--------------------------------|----------------------------------|--------------------------------------|------------------------------|
 |     Season:                          |     Austral Winter              |     Austral Summer             |     Austral Summer               |     Austral Summer                   |     Austral Winter           |
 |     Date:                            |     9.07.19                   |     17.11.19                 |     8.11.21                    |     21.3.22                        |     26.6.22                  |
@@ -45,7 +45,7 @@ The following river and water quality data was collected from this site:
 
 
 ### Data Analysis
-The discharge at RC02 now contains the water that had been diverted from the river channel at the Capillucas dam. However, the discharge is still subject to  hydro-electric plant control and increasing abstraction for agriculture in and around the last major settlement in the valley - Lunahuana. June discharge figures are higher than those for November - the end of the dry season.
+The discharge at RC02A contains the water that had been diverted from the river channel at the Capillucas dam. However, the discharge is still subject to  hydro-electric plant control and increasing abstraction for agriculture in and around the last major settlement in the valley - Lunahuana. June discharge figures are higher than those for November - the end of the dry season.
 
 It is the case that the amount of dissolved oxygen expected at 100% saturation at sea level and at 20°C would be 9.03 mg/l or slightly less as the site is at 300m asl. At 11.25 mg/l in June 2022 the DO reading is high but water temperatures are lower at around 17°C, however, this is within the tolerances of most higher order invertebrates. In November 2019, a DO reading of 8.8 mg/l represents a level of super-saturation with water temperatures at around 23°C. What might reduce DO levels in June when waters are colder requires further investigation. High concentrations of nutrients (particularly phosphorus and nitrogen) fuel algae blooms, which initially boosts dissolved oxygen levels but then rapidly reduce DO. When the algae die, bacterial decomposition spikes, using up most or all of the dissolved oxygen available. This creates an anoxic, or oxygen-depleted, environment where few organisms survive. Such nutrient levels can occur naturally but are more often caused by pollution from fertilizer runoff or poorly treated waste waters which could apply to this site below Herbay Alto. At these recorded levels, denitrification takes place as bacteria use nitrates to decompose organic matter. These conditions are referred to as ‘dead zones’ and are often found near larger human populations in estuaries and coastal zones. 
 
@@ -55,7 +55,7 @@ The pH of around 8.5 is as expected and falls within the tolerances of most aqua
 
 
 ### Site description
-Site RC02 is located in the tropical zone just below Puente Socsi and the long linear settlement of Lunahuana. It is flanked by intensively farmed lands on riverine terraces irrigated by waters extracted from the river at several points higher up. The town of Lunahuana is directly upriver and largely located atop a high riverine terrace on the south side of the channel. The valley floor at this point is a narrowing flat flood plain bounded north and south by arid desertic hills with little or no vegetation.
+Site RC02A is located in the tropical zone just below Puente Socsi and the long linear settlement of Lunahuana. It is flanked by intensively farmed lands on riverine terraces irrigated by waters extracted from the river at several points higher up. The town of Lunahuana is directly upriver and largely located atop a high riverine terrace on the south side of the channel. The valley floor at this point is a narrowing flat flood plain bounded north and south by arid desertic hills with little or no vegetation.
 
 The channel flow is highly variable from the dry to wet season and from year to year, especially in El Niño years when the valley may be subject to major  flooding. However, the river holds water year-round, unlike many rivers entering the coastal plain along the west flank of the Andes in Peru. More generally water levels are a function of the levels of abstraction for agriculture and urban demands. The channel itself is very similar to that at RC01, braided and made up largely of cobbles and smaller boulders. 
 
@@ -67,16 +67,16 @@ The wider environment and fauna in the valley are largely determined by agricult
 
 
 ![RC02a View upstream](/assets/SiteDescriptions/RC02/RC02aBelowPuenteSocsi.jpg)
-Site RC02a - Study site location: below Puente Socsi & above Socsi irrigation outflow.
+Site RC02A - Study site location: below Puente Socsi & above Socsi irrigation outflow.
 
 
 ![Site RC02 - the study site. (John Forrest)](/assets/SiteDescriptions/RC02/RC02Studysite.JPG)
-Site RC02a - the study site.  (November 2019) (John Forrest)
+Site RC02A - the study site.  (November 2019) (John Forrest)
 
 
 ![RC11 View upstream](/assets/SiteDescriptions/RC02/RC02Viewupstream.JPG)
-Site RC02a - View upstream.  (November 2019) (John Forrest)
+Site RC02A - View upstream.  (November 2019) (John Forrest)
 
 
 ![RC08 View downstream](/assets/SiteDescriptions/RC02/RC02Viewdownstream.JPG)
-Site RC02a - View downstream.  (November 2019) (John Forrest)
+Site RC02A - View downstream.  (November 2019) (John Forrest)
