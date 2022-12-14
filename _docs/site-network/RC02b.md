@@ -48,4 +48,4 @@ The average pH is over 8.0 which is ideal for aquatic life.
 ### Site description
 RC02B is situated immediately upstream of Puente Socsi - the Socsi bridge. The right hand bank has been stabilised with large boulders creating an artificial bank. The left bank has been remodelled to accommodate the frequent arrival of whitewater rafting boats to deposit their passengers. Consequently, there is rubbish lining the bank.
 
-Approximately 100 metres upstream the banks on both sides have reverted to their natural state lined with small trees and shrubs. Beyond the vegetaion lining the banks, both the small flood plain and wider river terraces are intensively farmed, principally with grapes and a range of fruit trees.
+Approximately 100 metres upstream the banks on both sides have reverted to their natural state lined with small trees and shrubs. Beyond the vegetation lining the banks, both the small flood plain and wider river terraces are intensively farmed, principally with grapes and a range of fruit trees.
