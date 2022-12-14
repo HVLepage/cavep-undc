@@ -37,14 +37,17 @@ The following river and water quality data was collected from this site:
 
 
 ### Data Analysis
-The discharge varies considerably between July and October/November though the July figure may be based on an over-estimation (of depth & veolcity). 
+In November 2011 and June 2022, recordings were taken immediately upstream from the road bridge entrance to Catapalla while in October 2022 they were taken immediately upstream of the pedestrian bridge into Catapalla.
+The discharge varies considerably between July and October/November though the July figure may be based on an over-estimation (of depth & velocity). 
 
-The DO readings are as expected and higher in July than October/November.
+There is some variation in the DO levels, with higher figures recorded in July.
 
-Conductivity results are as expected.
+Conductivity levels are as expected in the lower valley given that the river is now passing through several small towns and more expansive irrgiated areas draining into the river.
+
+The average pH is over 8.0 which is ideal for aquatic life.
 
 
+### Site description
+RC02C is situated upstream of Lunahuana and all its satellites. The river flows in a deep channel with steep banks, 5-10 metres high, lined with trees and shrubs. In some places the banks have been stabilised to protect the road, bridges and property.
 
-
-### Site descriptions
-
+The river terraces upstream are intensively farmed with grapes and fruit trees dominating.
