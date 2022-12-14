@@ -10,8 +10,7 @@ table {
 <iframe width="100%" height="640" allowfullscreen style="border-style:none;" src="https://cavep-undc-hosting.netlify.com/sites/RC02a/app-files/"></iframe>
 
 
-Site Code: RC02A.  GPS: S13°03575, W76°205815. Elevation:
-294m asl.
+Site Code: RC02A.  GPS: S13°03575, W76°205815. Elevation: 294m asl.
 
 
 ### Water Quality Data
@@ -49,7 +48,7 @@ The discharge at RC02A contains the water that had been diverted from the river 
 
 It is the case that the amount of dissolved oxygen expected at 100% saturation at sea level and at 20°C would be 9.03 mg/l or slightly less as the site is at 300m asl. At 11.25 mg/l in June 2022 the DO reading is high but water temperatures are lower at around 17°C, however, this is within the tolerances of most higher order invertebrates. In November 2019, a DO reading of 8.8 mg/l represents a level of super-saturation with water temperatures at around 23°C. What might reduce DO levels in June when waters are colder requires further investigation. High concentrations of nutrients (particularly phosphorus and nitrogen) fuel algae blooms, which initially boosts dissolved oxygen levels but then rapidly reduce DO. When the algae die, bacterial decomposition spikes, using up most or all of the dissolved oxygen available. This creates an anoxic, or oxygen-depleted, environment where few organisms survive. Such nutrient levels can occur naturally but are more often caused by pollution from fertilizer runoff or poorly treated waste waters which could apply to this site below Herbay Alto. At these recorded levels, denitrification takes place as bacteria use nitrates to decompose organic matter. These conditions are referred to as ‘dead zones’ and are often found near larger human populations in estuaries and coastal zones. 
 
-The conductivity readings at this site are in the range 206-507 µS/cm which is as expected. The level of conductivity in the rio Cañete at RC02 indicates very little contamination from waste waters and agricultural runoff. This is lower than that found at RC00a or b, where sewage and agricultural waste would be expected to raise conductivity. Generally, agricultural runoff and sewage will increase conductivity due to the additional chloride, phosphate, and nitrate ions. Throughout the catchment nitrate levels ranged from ‘under range’ to 6.79 mg/l NO3 perhaps underlining the limited extent of intensive agriculture in the catchment.
+The conductivity readings at this site are in the range 206-507 µS/cm which is as expected. The level of conductivity in the rio Cañete at RC02A indicates very little contamination from waste waters and agricultural runoff. This is lower than that found at RC00a or b, where sewage and agricultural waste would be expected to raise conductivity. Generally, agricultural runoff and sewage will increase conductivity due to the additional chloride, phosphate, and nitrate ions. Throughout the catchment nitrate levels ranged from ‘under range’ to 6.79 mg/l NO3 perhaps underlining the limited extent of intensive agriculture in the catchment.
 
 The pH of around 8.5 is as expected and falls within the tolerances of most aquatic vertebrates and invertebrates.
 
@@ -57,7 +56,7 @@ The pH of around 8.5 is as expected and falls within the tolerances of most aqua
 ### Site description
 Site RC02A is located in the tropical zone just below Puente Socsi and the long linear settlement of Lunahuana. It is flanked by intensively farmed lands on riverine terraces irrigated by waters extracted from the river at several points higher up. The town of Lunahuana is directly upriver and largely located atop a high riverine terrace on the south side of the channel. The valley floor at this point is a narrowing flat flood plain bounded north and south by arid desertic hills with little or no vegetation.
 
-The channel flow is highly variable from the dry to wet season and from year to year, especially in El Niño years when the valley may be subject to major  flooding. However, the river holds water year-round, unlike many rivers entering the coastal plain along the west flank of the Andes in Peru. More generally water levels are a function of the levels of abstraction for agriculture and urban demands. The channel itself is very similar to that at RC01, braided and made up largely of cobbles and smaller boulders. 
+The channel flow is variable from the dry to wet season and from year to year, especially in El Niño years when the valley may be subject to major  flooding. However, the river holds a significant amount of water year-round unlike many rivers entering the coastal plain along the west flank of the Andes in Peru. More generally water levels are a function of the levels of abstraction for agriculture and urban demands. The channel itself is already very similar to that at RC01, braided and made up largely of cobbles and smaller boulders. 
 
 The banks are lined with extensive river cane scattered acacia and stands of stunted willow. This area is designated as a ‘bosque de proteccion’ affording some degree of protection to this relictual area of natural vegetation. This area is an important reserve for populations of Slender-billed Finch, a near threatened species with a limited distribution from northern Chile to the rio Cañete, in Peru. This area also holds populations of mountain Parakeet and endemic Black-necked Woodpecker. 
 
