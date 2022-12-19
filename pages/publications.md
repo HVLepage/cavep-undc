@@ -12,6 +12,7 @@ permalink: /publications/
 
 * Newton, P. J., Luis De Los Santos Valladares, R. Celis Rojas, and C. H. W. Barnes. ["The magnetic reversal characteristics of 32-bit composite element magnetic barcodes."](https://aip.scitation.org/doi/abs/10.1063/1.5119075) Applied Physics Letters 115, no. 16 (2019): 162404.
 
+
 ## Project reports
 
 * UNDC - 11th Report (Pending Embargo)
@@ -26,4 +27,9 @@ permalink: /publications/
 * UNDC - 2nd Report (Pending Embargo)
 * [UNDC - 1st Report](https://www.dropbox.com/s/0cpgh51lhrk9p92/1ST%20PROJECT%20REPORT.%20UNDC%20V3%20ammended.pdf?dl=0)
 
+
 ## Reference papers
+
+The most relevant publications that we have referred to will be listed here.
+
+
