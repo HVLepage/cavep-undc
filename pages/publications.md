@@ -31,4 +31,20 @@ The following reports have been prepared by the project to provide an on-going u
 ## REFERENCE PAPERS
 The most relevant publications that have been referred to by the project are listed below -
 
+## Bioindicators 
+
+
+## Bofedales 
+
+
+## Geology 
+
+
+## Hydrology
+
+
+## Polylepis
+
+
+## Shrimps (Camerones)
 
