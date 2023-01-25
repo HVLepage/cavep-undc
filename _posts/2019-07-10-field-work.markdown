@@ -2,7 +2,7 @@
 title: 'Rio Cañete: Measuring discharge - Flowmeter use'
 date: 2019-07-10
 author: hvlepage
-category: fieldwork
+category: field-work
 ---
 
 The OTT flowmeter allows accurate measurements of the width, depth, and discharge of a river to be obtained at the study sites.
