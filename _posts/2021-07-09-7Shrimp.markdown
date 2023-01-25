@@ -2,7 +2,7 @@
 title: 'Rio Cañete: Selecting the shrimp sample'
 date: 2021-11-09
 author: jforrest
-category: field-work
+category: fieldwork
 ---
 
 
