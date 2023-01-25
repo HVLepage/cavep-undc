@@ -1,7 +1,7 @@
 ---
 title: 'Rio Cañete: Multiparameter use'
 date: 2019-11-21
-author: hvlepage
+author: jforrest
 category: field-work
 ---
 
