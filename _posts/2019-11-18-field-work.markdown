@@ -2,7 +2,7 @@
 title: 'Rio Cañete: Multiparameter use'
 date: 2019-11-18
 author: jforrest
-category: field-work
+category: fieldwork
 ---
 
 Dr Oscar Aguinaga explaining to UNDC students how to use the flowmeter to record the width, depth, velocity and dischrage of the river at site T01A (lower Rio Viñac).
