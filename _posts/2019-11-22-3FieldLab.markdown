@@ -1,8 +1,8 @@
 ---
 title: 'Rio Cañete: Field laboratory'
 date: 2019-11-22
-author: hvlepage
-category: field-work
+author: jforrest
+category: fieldwork
 ---
 
 
