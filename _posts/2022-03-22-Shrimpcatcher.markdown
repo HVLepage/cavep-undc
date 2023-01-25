@@ -1,7 +1,7 @@
 ---
 title: 'Rio Cañete: Shrimp catching'
 date: 2022-03-22
-author: hvlepage
+author: jforrest
 category: field-work
 ---
 
