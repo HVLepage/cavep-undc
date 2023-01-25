@@ -2,7 +2,7 @@
 title: 'Rio Cañete: Birdwatching'
 date: 2022-07-08
 author: jforrest
-category: fieldwork
+category: field-work
 ---
 
 
