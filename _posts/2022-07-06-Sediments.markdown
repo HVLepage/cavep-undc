@@ -1,7 +1,7 @@
 ---
 title: 'Rio Cañete: River sediments'
 date: 2022-07-06
-author: hvlepage
+author: jforrest
 category: field-work
 ---
 
