@@ -1,7 +1,7 @@
 ---
 title: 'Rio Cañete: Drone use demonstration'
 date: 2019-11-20
-author: hvlepage
+author: jforrest
 category: field-work
 ---
 
