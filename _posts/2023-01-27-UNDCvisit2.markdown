@@ -1,6 +1,5 @@
-
 ---
-title: 'UNDC staff visit to the University of Cambridge'
+title: 'UNDC staff visit to London'
 date: 2023-01-27
 author: jforrest
 category: uk-visit
