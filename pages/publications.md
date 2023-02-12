@@ -43,7 +43,19 @@ The most relevant publications that have been referred to by the project are lis
 
 *Salvador, F., Jorge Monerris, and Line Rochefort. ["Peatlands of the Peruvian Puna ecoregion: types, characteristics and disturbance."](http://mires-and-peat.net/media/map15/map_15_03.pdf) Mires and Peat 15.3 (2014): 1-17.
 
+
 ## Geology -
+*Polliand, Marc, et al. ["Formation of intra-arc volcanosedimentary basins in the western flank of the central Peruvian Andes during Late Cretaceous oblique subduction: field evidence and constraints from U–Pb ages and Hf isotopes."](https://link.springer.com/article/10.1007/s00531-005-0464-5) International Journal of Earth Sciences 94 (2005): 231-242.
+
+*Karakouzian, Moses, et al. ["Geology of Lima, Peru."](https://pubs.geoscienceworld.org/aeg/eeg/article-abstract/III/1/55/137020/Geology-of-Lima-Peru) Environmental & Engineering Geoscience 3.1 (1997): 55-88.
+
+*Pfiffner, O. Adrian, and Laura Gonzalez. ["Mesozoic–Cenozoic evolution of the western margin of South America: Case study of the Peruvian Andes."] (https://www.mdpi.com/2076-3263/3/2/262) Geosciences 3.2 (2013): 262-310.
+
+*Gonzalez, Laura, and O. Adrian Pfiffner. ["Morphologic evolution of the Central Andes of Peru."] (https://link.springer.com/article/10.1007/s00531-011-0676-9) International Journal of Earth Sciences 101 (2012): 307-321.
+
+*Szekely, Thomas S. ["Structural Geology, Cochas to Yauricocha, Central High Andes, Peru."] (https://pubs.geoscienceworld.org/aapgbull/article-abstract/53/3/553/35464/Structural-Geology-Cochas-to-Yauricocha-Central) AAPG Bulletin 53.3 (1969): 553-567.
+
+*Hildebrand, Robert S., and Joseph B. Whalen. ["Arc and Slab-Failure Magmatism in Cordilleran Batholiths I: The Cretaceous Coastal Batholith of Peru and its Role in South American Orogenesis and Hemispheric Subduction Flip."] (https://www.erudit.org/en/journals/geocan/1900-v1-n1-geocan01587/1027244ar/) Geoscience Canada 41.3 (2014): 255-282.
 
 
 ## Hydrology -
