@@ -35,13 +35,13 @@ The most relevant publications that have been referred to by the project are lis
 
 
 ## Bofedales -
-Fonkén, MS Maldonado. ["An introduction to the bofedales of the Peruvian High Andes"]. (https://www.researchgate.net/profile/Monica-Sofia-Maldonado-Fonken/publication/269633569_An_introduction_to_the_bofedales_of_the_Peruvian_High_Andes/links/54908be70cf214269f26ce7c/An-introduction-to-the-bofedales-of-the-Peruvian-High-Andes.pdf) Mires and Peat 15.5 (2014): 1-13.
+*Fonkén, MS Maldonado. ["An introduction to the bofedales of the Peruvian High Andes"](https://www.researchgate.net/profile/Monica-Sofia-Maldonado-Fonken/publication/269633569_An_introduction_to_the_bofedales_of_the_Peruvian_High_Andes/links/54908be70cf214269f26ce7c/An-introduction-to-the-bofedales-of-the-Peruvian-High-Andes.pdf) Mires and Peat 15.5 (2014): 1-13.
 
-*Baied, Carlos A., and Jane C. Wheeler. ["Evolution of high Andean puna ecosystems: environment, climate, and culture change over the last 12,000 years in the Central Andes."] (https://www.jstor.org/stable/3673632) Mountain Research and Development (1993): 145-156.
+*Baied, Carlos A., and Jane C. Wheeler. ["Evolution of high Andean puna ecosystems: environment, climate, and culture change over the last 12,000 years in the Central Andes."](https://www.jstor.org/stable/3673632) Mountain Research and Development (1993): 145-156.
 
-*Otto, Marco, Dieter Scherer, and Jochen Richters. ["Hydrological differentiation and spatial distribution of high altitude wetlands in a semi-arid Andean region derived from satellite data."] (https://hess.copernicus.org/articles/15/1713/2011/)  Hydrology and Earth System Sciences 15.5 (2011): 1713-1727.
+*Otto, Marco, Dieter Scherer, and Jochen Richters. ["Hydrological differentiation and spatial distribution of high altitude wetlands in a semi-arid Andean region derived from satellite data."](https://hess.copernicus.org/articles/15/1713/2011/)  Hydrology and Earth System Sciences 15.5 (2011): 1713-1727.
 
-*Salvador, F., Jorge Monerris, and Line Rochefort. ["Peatlands of the Peruvian Puna ecoregion: types, characteristics and disturbance."] (http://mires-and-peat.net/media/map15/map_15_03.pdf) Mires and Peat 15.3 (2014): 1-17.
+*Salvador, F., Jorge Monerris, and Line Rochefort. ["Peatlands of the Peruvian Puna ecoregion: types, characteristics and disturbance."](http://mires-and-peat.net/media/map15/map_15_03.pdf) Mires and Peat 15.3 (2014): 1-17.
 
 ## Geology -
 
