@@ -33,6 +33,14 @@ The most relevant publications that have been referred to by the project are lis
 
 ## Bioindicators -
 
+*Valqui, Mariana, et al. ["Abundance and distribution of the South American altiplano flamingos."](https://www.jstor.org/stable/1522154) Waterbirds (2000): 110-113.
+
+*Montano-Centellas, Flavia A., and Álvaro Garitano-Zavala. ["Andean bird responses to human disturbances along an elevational gradient."](https://www.sciencedirect.com/science/article/abs/pii/S1146609X15000545) Acta Oecologica 65 (2015): 51-60.
+
+*Gibbons, Richard E., Zi Jia, and Isabel Villalba Valdivia. ["Habitat use and seasonality of birds in the Peruvian puna with an emphasis on peatlands (bofedales)."](https://d1wqtxts1xzle7.cloudfront.net/51700363/boletin_unop_vol._11_n2_2016_-_gibbons-libre.pdf?1486571477=&response-content-disposition=inline%3B+filename%3DHabitat_use_and_seasonality_of_birds_in.pdf&Expires=1676324288&Signature=H88fZt2rDG9nxqNOEd9A4zWsd62Ms1oKmZqijBjUoFYcv-d~hODeE8USyPCCH0rWixY4U1gIOhsxg0mfjqZ-B-aJM6bqHRYBoj2Atwm-luXxEEqQ44pFsCxAy1Yt4fk0zG8~HSjcAVZ6m1motSTfwS2E-5jc6iuC6EK~uCOqVi2sTVrEWi7DsTItQK9SudMVACEMyDB2I7pE1IpwryPGzRUxdf12PbuIRfhWsjbQaUdgMKUesXYFiBDN2ojPVj4uZ2rI-U6hkwxVaVMKKRK9biD3vQtYsQiK47m~YpGvWr43dt2SeocxDI5RMjJizkEW8ZvIHX~d~FsncBlLsBdlAg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) Boletın de la Unión de Ornitólogos del Perú (UNOP) 11 (2016): 42-62.
+
+*Quispe-Melgar, Harold Rusbelth, et al. ["The Central Andes of Peru: a key area for the conservation of Polylepis forest biodiversity."](https://link.springer.com/article/10.1007/s10336-019-01703-5) Journal of Ornithology 161.1 (2020): 217-228.
+
 
 ## Bofedales -
 *Fonkén, MS Maldonado. ["An introduction to the bofedales of the Peruvian High Andes"](https://www.researchgate.net/profile/Monica-Sofia-Maldonado-Fonken/publication/269633569_An_introduction_to_the_bofedales_of_the_Peruvian_High_Andes/links/54908be70cf214269f26ce7c/An-introduction-to-the-bofedales-of-the-Peruvian-High-Andes.pdf) Mires and Peat 15.5 (2014): 1-13.
