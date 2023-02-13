@@ -70,9 +70,30 @@ The most relevant publications that have been referred to by the project are lis
 
 *Rosas, Miluska A., et al. ["The potential impact of climate variability on siltation of Andean reservoirs."](https://www.sciencedirect.com/science/article/abs/pii/S002216941931131X) Journal of Hydrology 581 (2020): 124396.
 
+*Camel, Vladimir, et al. "Forest structure of three endemic species of the genus Polylepis (Rosaceae) in central Peru." Ecología austral 29.3 (2019): 285-295.
+
+
 
 ## Polylepis -
+
+*Quispe-Melgar, Harold Rusbelth, et al. ["The Central Andes of Peru: a key area for the conservation of Polylepis forest biodiversity."](https://link.springer.com/article/10.1007/s10336-019-01703-5) Journal of Ornithology 161.1 (2020): 217-228.
+
+*Quispe-Melgar, Harold Rusbelth, et al. ["The Central Andes of Peru: a key area for the conservation of Polylepis forest biodiversity."](https://link.springer.com/article/10.1007/s10336-019-01703-5) Journal of Ornithology 161.1 (2020): 217-228.
+
+*Trinidad, Huber, and Asunción Cano. ["Composición florística de los bosques de Polylepis Yauyinazo y Chaqsii-Chaqsii, Reserva Paisajística Nor Yauyos-Cochas, Lima."](http://www.scielo.org.pe/scielo.php?pid=S1727-99332016000300006&script=sci_arttext&tlng=pt) Revista peruana de biología 23.3 (2016): 271-286.
+
+*Camel, Vladimir, et al. ["Forest structure of three endemic species of the genus Polylepis (Rosaceae) in central Peru."](http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1667-782X2019000300001) Ecología austral 29.3 (2019): 285-295.
+
+*Zutta, Brian R., and Philip W. Rundel. ["Modeled shifts in Polylepis species ranges in the Andes from the last glacial maximum to the present."](https://www.mdpi.com/1999-4907/8/7/232) Forests 8.7 (2017): 232.
 
 
 ## Shrimps (Camerones) -
 
+*Guerrero, Paul M. Baltazar, and César Colán. ["Algunos aspectos biológicos pesqueros de Cryphiops Caementarius" camarón de rio"(Molina, 1782) en la cuenca baja del río Mala."](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ALGUNOS+ASPECTOS+BIOL%C3%93GICOS+PESQUEROS+DE+Cryphiops+caementarius+%22CAMAR%C3%93N+DE+RIO%22+%28MOLINA%2C+1782%29+EN+LA+CUENCA+BAJA+DEL+R%C3%8DO+MALA&btnG=) Científica 11.1 (2014).
+
+*Wasiw, José, and Víctor Yépez. ["Evaluación poblacional del camarón Cryphiops caementarius en ríos de la costa sur del Perú."](http://www.scielo.org.pe/scielo.php?pid=S1609-91172015000200002&script=sci_arttext&tlng=en) Revista de investigaciones veterinarias del Perú 26.2 (2015): 166-181.
+
+*Verástegui, Aníbal S., Jesús A. Mejía, and Andrés Goyburo. ["Design of a biological corridor for migration of freshwater prawn over a dam in the southwestern slopes of Los Andes, Peru."](https://www.researchgate.net/profile/Andres-Goyburo/publication/315703107_Design_of_a_Biological_Corridor_for_Migration_of_Freshwater_Prawn_over_a_Dam_in_the_Southwestern_Slopes_of_Los_Andes_Peru/links/58ed10ebaca2724f0a26b33b/Design-of-a-Biological-Corridor-for-Migration-of-Freshwater-Prawn-over-a-Dam-in-the-Southwestern-Slopes-of-Los-Andes-Peru.pdf) Journal of Water Resource and Hydraulic Engineering Mar 6.1 (2017): 1-8.
+
+
+*
