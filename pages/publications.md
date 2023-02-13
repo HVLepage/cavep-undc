@@ -49,16 +49,26 @@ The most relevant publications that have been referred to by the project are lis
 
 *Karakouzian, Moses, et al. ["Geology of Lima, Peru."](https://pubs.geoscienceworld.org/aeg/eeg/article-abstract/III/1/55/137020/Geology-of-Lima-Peru) Environmental & Engineering Geoscience 3.1 (1997): 55-88.
 
-*Pfiffner, O. Adrian, and Laura Gonzalez. ["Mesozoic–Cenozoic evolution of the western margin of South America: Case study of the Peruvian Andes."] (https://www.mdpi.com/2076-3263/3/2/262) Geosciences 3.2 (2013): 262-310.
+*Pfiffner, O. Adrian, and Laura Gonzalez. ["Mesozoic–Cenozoic evolution of the western margin of South America: Case study of the Peruvian Andes."](https://www.mdpi.com/2076-3263/3/2/262) Geosciences 3.2 (2013): 262-310.
 
-*Gonzalez, Laura, and O. Adrian Pfiffner. ["Morphologic evolution of the Central Andes of Peru."] (https://link.springer.com/article/10.1007/s00531-011-0676-9) International Journal of Earth Sciences 101 (2012): 307-321.
+*Gonzalez, Laura, and O. Adrian Pfiffner. ["Morphologic evolution of the Central Andes of Peru."](https://link.springer.com/article/10.1007/s00531-011-0676-9) International Journal of Earth Sciences 101 (2012): 307-321.
 
-*Szekely, Thomas S. ["Structural Geology, Cochas to Yauricocha, Central High Andes, Peru."] (https://pubs.geoscienceworld.org/aapgbull/article-abstract/53/3/553/35464/Structural-Geology-Cochas-to-Yauricocha-Central) AAPG Bulletin 53.3 (1969): 553-567.
+*Szekely, Thomas S. ["Structural Geology, Cochas to Yauricocha, Central High Andes, Peru."](https://pubs.geoscienceworld.org/aapgbull/article-abstract/53/3/553/35464/Structural-Geology-Cochas-to-Yauricocha-Central) AAPG Bulletin 53.3 (1969): 553-567.
 
-*Hildebrand, Robert S., and Joseph B. Whalen. ["Arc and Slab-Failure Magmatism in Cordilleran Batholiths I: The Cretaceous Coastal Batholith of Peru and its Role in South American Orogenesis and Hemispheric Subduction Flip."] (https://www.erudit.org/en/journals/geocan/1900-v1-n1-geocan01587/1027244ar/) Geoscience Canada 41.3 (2014): 255-282.
+*Hildebrand, Robert S., and Joseph B. Whalen. ["Arc and Slab-Failure Magmatism in Cordilleran Batholiths I: The Cretaceous Coastal Batholith of Peru and its Role in South American Orogenesis and Hemispheric Subduction Flip."](https://www.erudit.org/en/journals/geocan/1900-v1-n1-geocan01587/1027244ar/) Geoscience Canada 41.3 (2014): 255-282.
 
 
 ## Hydrology -
+
+*Rivera, Diego A., Alex Godoy-Faundez, and Mario Lillo Saavedra, eds. ["Andean hydrology"](https://books.google.co.uk/books?hl=en&lr=&id=nj0PEAAAQBAJ&oi=fnd&pg=PP1&dq=andean+hydrology&ots=iZYpkWm5KK&sig=Ye6NIp6hRF7AWyt4J8yQaJVDRsc&redir_esc=y#v=onepage&q=andean%20hydrology&f=false) CRC Press, 2018.
+
+*Castillo Santa María, Bessy, Saúl Cárdenas Ochoa, and Rubén Moreno Sotomayor. ["Contaminación de la Cuenca del Río Cañete y su Influencia en el Desarrollo Sostenible de la Provincia de Cañete–2018."](http://repositorio.usdg.edu.pe/handle/USDG/213) (2018).
+
+*Steffen, Damian, Fritz Schlunegger, and Frank Preusser. ["Drainage basin response to climate change in the Pisco valley, Peru."](https://pubs.geoscienceworld.org/gsa/geology/article-abstract/37/6/491/29928/Drainage-basin-response-to-climate-change-in-the) Geology 37.6 (2009): 491-494.
+
+*Paerregaard, Karsten. ["Power in/of/as water: Revisiting the hydrologic cycle in the Peruvian Andes."](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wat2.1270) Wiley Interdisciplinary Reviews: Water 5.2 (2018): e1270.
+
+*Rosas, Miluska A., et al. ["The potential impact of climate variability on siltation of Andean reservoirs."](https://www.sciencedirect.com/science/article/abs/pii/S002216941931131X) Journal of Hydrology 581 (2020): 124396.
 
 
 ## Polylepis -
