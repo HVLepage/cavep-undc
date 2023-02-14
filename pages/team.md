@@ -22,7 +22,7 @@ Co-investigators
 
 Project administration:
 * John Forrest and Julia Porturas.
-* 
+
 
 ## Universidad Nacional de Cañete
 
@@ -34,6 +34,8 @@ Principal investigators
 * Dr Jorge Jhoncon Kooyip (Vice-President Investigation) (to 2022)
   
 Co-investigators
+* Betsabe Leon Ttacca
+* Edwin Roque
 * Oscar Enrique Aguinaga Vargas - Geochemist; water chemistry analysis.
 * Katharine L Sanchez Caycho - Biologist; bioindicators and biosensors.
 * Miriam Vilca Arana - Chemist; water chemistry fieldwork and analysis.
