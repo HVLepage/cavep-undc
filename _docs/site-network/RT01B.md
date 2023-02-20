@@ -1,4 +1,3 @@
-
 ---
 title: RT01B - Lower Middle Viñac (Below Viñac)
 permalink: /docs/RT01B/
