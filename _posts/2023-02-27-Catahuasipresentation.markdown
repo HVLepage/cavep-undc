@@ -25,12 +25,18 @@ La ultima presentacion se llevo a cabo en la Sala Comunal de Catahuasi -
 
 
 ![UCAM Peru visit](/assets/posts/Catahuasi1.JPG)
+John Forrest (UCAM) presents 'An analysis of water quality in the river Cañete'.
+John Forrest (UCAM) presenta 'Un análisis de la calidad de agua en el rio Cañete'.
 
 
 ![UCAM Peru visit](/assets/posts/Catahuasi2.JPG)
+Eustace Barnes (UCAM) presents 'Andean river shrimp as a bioindicator'.
+Eustace Barnes (UCAM) presenta 'Los camarones del rio Cañete como bioindicadores'.
 
 
 ![UCAM Peru visit](/assets/posts/Catahuasi4.JPG)
+Group discussions after the presentations.
+Debates en grupo tras las presentaciones.
 
 
 ![UCAM Peru visit](/assets/posts/Catahuasi3.JPG)
