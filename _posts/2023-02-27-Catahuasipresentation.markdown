@@ -30,8 +30,8 @@ La ultima presentacion se llevo a cabo en la Sala Comunal de Catahuasi -
 ![UCAM Peru visit](/assets/posts/Catahuasi2.JPG)
 
 
-![UCAM Peru visit](/assets/posts/Catahuasi3.JPG)
-
-
 ![UCAM Peru visit](/assets/posts/Catahuasi4.JPG)
+
+
+![UCAM Peru visit](/assets/posts/Catahuasi3.JPG)
 UCAM & UNDC group photo at the end of the presentations.
