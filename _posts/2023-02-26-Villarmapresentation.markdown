@@ -21,8 +21,10 @@ Las primeras presentaciones tuvieron lugar en el Hotel Villarama, cerca de Alis,
 
 -Un análisis de la calidad de agua en el rio Cañete;
 
--
+-Un analisis de cambios climáticos en el lado occidental de los Andes peruanos usando imágenes de satélites;
 
 
 ![UCAM Peru visit](/assets/posts/Villarma2.JPG)
+Representatives from the local communities of Laraos, Miraflores and Llapay attending the presentation of Eustace Barnes.
+Representantes de las comunidades locales de Laraos, Miraflores y Llapay asisten a la presentación de Eustace Barnes.
 
