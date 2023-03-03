@@ -12,12 +12,12 @@ The second of the four presentations was given at the Hotel Villarama, near Alis
 
 -An analysis of water quality in the river Cañete;
 
--
+-Analysing climate change on the western slopes of the Peruvian Andes using satellite imagery;
 
 
 Docentes de la UCAM visitaron a Lunahuana para hacer una serie de presentaciones a los docentes de la Universidad de Cañete (UNDC), estudiantes, organizaciones locales y miembros interesados del público. 
 La UCAM considera extremadamente importante proporcionar información sobre la investigación de campo realizada a una amplia gama de partes interesadas al final de un proyecto. 
-Las primeras presentaciones tuvieron lugar en el Hotel Villarama, cerca de Alis, en el alto valle Cañete -
+La tercera de las cuatro presentaciones se llevo a cabo en el Hotel Villarama, cerca de Alis, en el alto valle Cañete -
 
 -Un análisis de la calidad de agua en el rio Cañete;
 
