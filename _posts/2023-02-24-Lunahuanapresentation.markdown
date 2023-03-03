@@ -24,5 +24,5 @@ Las primeras presentaciones tuvieron lugar en el campus de la Universidad de Ca√
 -Los camarones del rio Ca√±ete como bioindicadores.
 
 
-![UCAM Peru visit](/assets/posts/Lunahuana.JPG)
+![UCAM Peru visit](/assets/posts/Lunahuana4.JPG)
 UCAM & UNDC group photo at the end of the presentations.
