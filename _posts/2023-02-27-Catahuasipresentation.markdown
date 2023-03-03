@@ -8,7 +8,7 @@ category: peru-visit
 
 UCAM staff visited Lunahuana to make a series of presentations to University of Cañete (UNDC) staff, students, local organisations and interested members of the public. 
 UCAM considers it extremely important to provide feedback about the field research undertaken to a wide range of interested parties at the end of a project. 
-The final presentation was given in the Sala Comunal, in Catahuasi -
+The final presentation was given to members of the communities of Catahuasi and San Jeronimo in the Sala Comunal, in Catahuasi -
 
 -An analysis of water quality in the river Cañete;
 
@@ -17,7 +17,7 @@ The final presentation was given in the Sala Comunal, in Catahuasi -
 
 Docentes de la UCAM visitaron a Lunahuana para hacer una serie de presentaciones a los docentes de la Universidad de Cañete (UNDC), estudiantes, organizaciones locales y miembros interesados del público. 
 La UCAM considera extremadamente importante proporcionar información sobre la investigación de campo realizada a una amplia gama de partes interesadas al final de un proyecto. 
-La ultima presentacion se llevo a cabo en la Sala Comunal de Catahuasi -
+La ultima presentacion se llevo a cabo a miembros de las comunidades de Catahuasi y San Jeronimo en la Sala Comunal de Catahuasi -
 
 -Un análisis de la calidad de agua en el rio Cañete;
 
