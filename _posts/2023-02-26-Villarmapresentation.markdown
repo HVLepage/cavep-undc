@@ -25,6 +25,6 @@ La tercera de las cuatro presentaciones se llevo a cabo en el Hotel Villarama, c
 
 
 ![UCAM Peru visit](/assets/posts/Villarma2.JPG)
-Representatives from the local communities of Laraos, Miraflores and Llapay attending the presentation of Eustace Barnes.
-Representantes de las comunidades locales de Laraos, Miraflores y Llapay asisten a la presentación de Eustace Barnes.
+Representatives from the local communities of Laraos, Miraflores and Llapay attending the presentation of Eustace Barnes, in the dining-room of the Hotel Villarma.
+Representantes de las comunidades locales de Laraos, Miraflores y Llapay asisten a la presentación de Eustace Barnes, en el comedor del Hotel Villarma.
 
