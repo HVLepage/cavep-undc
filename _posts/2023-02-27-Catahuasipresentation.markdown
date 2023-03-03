@@ -24,11 +24,14 @@ La ultima presentacion se llevo a cabo en la Sala Comunal de Catahuasi -
 -Los camarones del rio Cañete como bioindicadores.
 
 
-![UCAM Peru visit](/assets/posts/Catahuasi.JPG)
+![UCAM Peru visit](/assets/posts/Catahuasi1.JPG)
 
 
-![UCAM Peru visit](/assets/posts/Catahuasi.JPG)
+![UCAM Peru visit](/assets/posts/Catahuasi2.JPG)
 
 
-![UCAM Peru visit](/assets/posts/Catahuasi.JPG)
+![UCAM Peru visit](/assets/posts/Catahuasi3.JPG)
+
+
+![UCAM Peru visit](/assets/posts/Catahuasi4.JPG)
 UCAM & UNDC group photo at the end of the presentations.
