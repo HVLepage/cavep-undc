@@ -6,7 +6,7 @@ category: peru-visit
 ---
 
 
-UCAM staff visited Cañete to make a series of presentations to University of Cañete (UNDC) staff, students, local organisations and interested members of the public. UCAM considers it extremely important to provide feedback about the field research undertaken to a wide range of interested parties at the end of a project. The first presentations were given at the University of Cañete, in San Vicente de Cañete -
+UCAM staff visited Cañete to make a series of presentations to University of Cañete (UNDC) staff, students, local organisations and interested members of the public. UCAM considers it extremely important to provide feedback about the field research undertaken to a wide range of interested parties at the end of a project. The first presentations were given at the University of Cañete, in San Vicente de Cañete, to a large audience which included the President of the University of Cañete (Dr A.Ortega Mallqui) -
 
 -An analysis of water quality in the river Cañete;
 
@@ -17,7 +17,7 @@ UCAM staff visited Cañete to make a series of presentations to University of Ca
 UNDC students also made a very interesting presentation about a new UNDC platform to assist UNDC students with their research projects. 
 
 
-Docentes de la UCAM visitaron Cañete para hacer una serie de presentaciones a los docentes de la Universidad de Cañete (UNDC), estudiantes, organizaciones locales y miembros interesados del público. La UCAM considera extremadamente importante proporcionar información sobre la investigación de campo realizada a una amplia gama de partes interesadas al final de un proyecto. Las primeras presentaciones tuvieron lugar en la Universidad de Cañete, en San Vicente de Cañete -
+Docentes de la UCAM visitaron Cañete para hacer una serie de presentaciones a los docentes de la Universidad de Cañete (UNDC), estudiantes, organizaciones locales y miembros interesados del público. La UCAM considera extremadamente importante proporcionar información sobre la investigación de campo realizada a una amplia gama de partes interesadas al final de un proyecto. Las primeras presentaciones tuvieron lugar en la Universidad de Cañete, en San Vicente de Cañete, ante un numeroso público entre el que se encontraba el Presidente de la Universidad de Cañete (Dr. A.Ortega Mallqui) -
 
 -Un analisis de cambios climáticos en el lado occidental de los Andes peruanos usando imágenes de satélites;
 
