@@ -17,7 +17,7 @@ The second of the four presentations was given at the University of Cañete camp
 
 Docentes de la UCAM visitaron a Lunahuana para hacer una serie de presentaciones a los docentes de la Universidad de Cañete (UNDC), estudiantes, organizaciones locales y miembros interesados del público. 
 La UCAM considera extremadamente importante proporcionar información sobre la investigación de campo realizada a una amplia gama de partes interesadas al final de un proyecto. 
-Las primeras presentaciones tuvieron lugar en el campus de la Universidad de Cañete, en Lunahuana -
+La segunda de las cuatro presentaciones se llevo a cabo en el campus de la Universidad de Cañete, en Lunahuana -
 
 -Un análisis de la calidad de agua en el rio Cañete;
 
