@@ -18,11 +18,11 @@ The following river and water quality data was collected from this site:
 |     Date:                            |     11.07.2019            |     21.11.2019            |     15.11.21              |     28.3.2022                             |     29.6.22                      |
 |     Time:                            |     16.30                 |     15.45                 |     12.30                 |     9.45                                  |     9.00                         |
 |     Width (m)                        |     8.0                   |     6.0                   |     7.5                   |     10.7                                  |     9.2                          |
-|     Depth (Av.) (m)                  |     0.64                  |     0.90                  |     0.63                  |                                           |     0.82                         |
-|     CSA (Av.) (m²)                   |     5.09                  |     5.40                  |     4.73                  |                                           |     7.54                         |
-|     Velocity (Av.) (m/s)             |     1.17                  |     0.68                  |     0.73                  |                                           |     0.94                         |
-|     Discharge (Av.) (m³/s)           |     5.958                 |     3.661                 |     3.45                  |                                           |     7.09                         |
-|     Riverbed sediment                |     Cobbles & Boulders    |     Cobbles & Boulders    |     Cobbles & Boulders    |                                           |     Cobbles & Pebbles            |
+|     Depth (Av.) (m)                  |     0.64                  |     0.90                  |     0.63                  |    0.82                                   |     0.82                         |
+|     CSA (Av.) (m²)                   |     5.09                  |     5.40                  |     4.73                  |    5.44                                   |     7.54                         |
+|     Velocity (Av.) (m/s)             |     1.17                  |     0.68                  |     0.73                  |    1.08                                   |     0.94                         |
+|     Discharge (Av.) (m³/s)           |     5.958                 |     3.661                 |     3.45                  |    5.875                                  |     7.09                         |
+|     Riverbed sediment                |     Cobbles & Boulders    |     Cobbles & Boulders    |     Cobbles & Boulders    |    Cobbles & Pebbles                       |     Cobbles & Pebbles            |
 |     Temp. (Atmospheric) (°C)         |     16                    |     24                    |     19                    |     15                                    |     10.5                         |
 |     Temp. (Water) (°C)               |     11.24                 |     12.69                 |     12.22                 |     11.36                                 |     10.90                        |
 |     Atmospheric pressure (mbar)      |     599                   |     680                   |                           |     702                                   |     <600                         |
