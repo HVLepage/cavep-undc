@@ -5,7 +5,7 @@ author: jforrest
 category: peru-visit
 ---
 
-UCAM UNDC presentations in Lunahuana
+UCAM UNDC project presentations in Lunahuana
 
 UCAM staff visited Lunahuana to make a series of presentations to University of Cañete (UNDC) staff, students, local organisations and interested members of the public. 
 UCAM considers it extremely important to provide feedback about the field research undertaken to a wide range of interested parties at the end of a project. 
