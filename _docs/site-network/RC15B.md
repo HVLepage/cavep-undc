@@ -16,11 +16,11 @@ The following river and water quality data was collected from this site:
 |     Season:                                |     Austral Winter    |
 |     Date:                                  |          3.7.22       |
 |     Time:                                  |          11.30        |
-|     Width (m)                              |                       |
-|     Depth (Av.) (m)                        |                       |
-|     CSA (Av.) (m²)                         |                       |
-|     Velocity (Av.) (m/s)                   |                       |
-|     Discharge (Av.) (m³/s)                 |                       |
+|     Width (m)                              |           5.10        |
+|     Depth (Av.) (m)                        |           0.376       |
+|     CSA (Av.) (m²)                         |           1.916       |
+|     Velocity (Av.) (m/s)                   |           0.24        |
+|     Discharge (Av.) (m³/s)                 |           0.46        |
 |     Riverbed sediment                      |     Mainly Pebbles    |
 |     Temp. (Atmospheric) (°C)               |           6.6         |
 |     Temp. (Water) (°C)                     |          11.53        |
