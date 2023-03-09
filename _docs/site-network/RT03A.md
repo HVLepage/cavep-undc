@@ -18,8 +18,8 @@ The following river and water quality data was collected from this site:
 |     Date:                            |     10.07.2019            |     18.11.2019            |     10.11.2021        |     8.7.22                |
 |     Time:                            |     14.00                 |     16.30                 |     14.00             |     11.30                 |
 |     Width (m)                        |     8.0                   |     6.0                   |     RIVER DRY         |      0.60                    |
-|     Depth (Av.) (m)                  |     0.10                  |     0.06                  |                       |      0.103                   |
-|     CSA (Av.) (m²)                   |     0.78                  |     0.38                  |                       |      0.062                   |
+|     Depth (Av.) (m)                  |     0.10                  |     0.06                  |                       |      0.10                    |
+|     CSA (Av.) (m²)                   |     0.78                  |     0.38                  |                       |      0.06                    |
 |     Velocity (Av.) (m/s)             |     0.06                  |     0.04                  |                       |      0.58                    |
 |     Discharge (Av.) (m³/s)           |     0.046                 |     0.014                 |                       |      0.036                   |
 |     Riverbed sediment                |     Cobbles & boulders    |     Cobbles & boulders    |                       |     Cobbles & Boulders    |
