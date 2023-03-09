@@ -17,12 +17,12 @@ The following river and water quality data was collected from this site:
 |     Season:                                |     Austral Summer    |
 |     Date:                                  |     24.3.2022         |
 |     Time:                                  |     15.00             |
-|     Width (m)                              |                       |
-|     Depth (Av.) (m)                        |                       |
-|     CSA (Av.) (m²)                         |                       |
-|     Velocity (Av.) (m/s)                   |                       |
-|     Discharge (Av.) (m³/s)                 |                       |
-|     Riverbed sediment                      |                       |
+|     Width (m)                              |       -               |
+|     Depth (Av.) (m)                        |       -               |
+|     CSA (Av.) (m²)                         |       -               |
+|     Velocity (Av.) (m/s)                   |       -               |
+|     Discharge (Av.) (m³/s)                 |       -               |
+|     Riverbed sediment                      |       -               |
 |     Temp. (Atmospheric) (°C)               |     9.4               |
 |     Temp. (Water) (°C)                     |     14.37             |
 |     Atmospheric pressure (mbar)            |     640               |
