@@ -6,6 +6,8 @@ category: peru-visit
 ---
 
 
+UCAM UNDC presentations in Cañete
+
 UCAM staff visited Cañete to make a series of presentations to University of Cañete (UNDC) staff, students, local organisations and interested members of the public. UCAM considers it extremely important to provide feedback about the field research undertaken to a wide range of interested parties at the end of a project. The first presentations were given at the University of Cañete, in San Vicente de Cañete, to a large audience which included the President of the University of Cañete (Dr A.Ortega Mallqui) -
 
 -An analysis of water quality in the river Cañete;
