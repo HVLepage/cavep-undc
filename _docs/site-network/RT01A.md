@@ -17,10 +17,10 @@ The following river and water quality data was collected from this site:
 |     Date:                            |     10.07.19              |     18.11.19                |     10.11.21                       |     21.3.22              |     8.7.22                |
 |     Time:                            |     9.30                  |     11.00                   |     10.30                          |     16.15                |     10.15                 |
 |     Width (m)                        |     6.5                   |     1.5                     |     2.3                            |     25.0                 |     9.4                   |
-|     Depth (Av.) (m)                  |     0.07                  |     0.05                    |     0.12                           |     0.36                 |                           |
-|     CSA (Av.) (m²)                   |     0.42                  |     0.07                    |     0.28                           |     9.00                 |                           |
-|     Velocity (Av.) (m/s)             |     0.22                  |     0.11                    |     0.13                           |     0.60                 |                           |
-|     Discharge (Av.) (m³/s)           |     0.094                 |     0.008                   |     0.036                          |     5.400                |                           |
+|     Depth (Av.) (m)                  |     0.07                  |     0.05                    |     0.12                           |     0.36                 |      0.085                 |
+|     CSA (Av.) (m²)                   |     0.42                  |     0.07                    |     0.28                           |     9.00                 |      0.695                 |
+|     Velocity (Av.) (m/s)             |     0.22                  |     0.11                    |     0.13                           |     0.60                 |      0.085                 |
+|     Discharge (Av.) (m³/s)           |     0.094                 |     0.008                   |     0.036                          |     5.400                |     0.226                 |
 |     Riverbed sediment                |     Cobbles & Boulders    |     Cobbles & Boulders      |     Pebbles, cobbles & boulders    |     Pebbles & Cobbles    |     Cobbles & Boulders    |
 |     Temp. (Atmospheric) (°C)         |     26                    |     33                      |     24                             |     22.75                |     27.88                 |
 |     Temp. (Water) (°C)               |     18.87                 |     26.84                   |     22.61                          |     17.71                |     18.62                 |
