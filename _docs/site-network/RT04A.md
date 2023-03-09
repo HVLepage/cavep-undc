@@ -16,11 +16,11 @@ The following river and water quality data was collected from this site:
 |     Season:                          |     Austral Winter        |     Austral Summer                     |     Austral Summer        |     Austral Winter     |
 |     Date:                            |     10.07.2019            |     19.11.2019                         |     12.11.2021            |     8.7.22             |
 |     Time:                            |     16.05                 |     9.30                               |     12.00                 |     13.30              |
-|     Width (m)                        |     5.0                   |     8.0                                |     0.90                  |                        |
-|     Depth (Av.) (m)                  |     0.01                  |     0.05                               |     0.05                  |                        |
-|     CSA (Av.) (m²)                   |     0.07                  |     0.42                               |     0.05                  |                        |
-|     Velocity (Av.) (m/s)             |     0.22                  |     0.19                               |     0.43                  |                        |
-|     Discharge (Av.) (m³/s)           |     0.014                 |     0.080                              |     0.019                 |                        |
+|     Width (m)                        |     5.0                   |     8.0                                |     0.90                  |      2.0               |
+|     Depth (Av.) (m)                  |     0.01                  |     0.05                               |     0.05                  |      0.07              |
+|     CSA (Av.) (m²)                   |     0.07                  |     0.42                               |     0.05                  |      0.14              |
+|     Velocity (Av.) (m/s)             |     0.22                  |     0.19                               |     0.43                  |      0.57              |
+|     Discharge (Av.) (m³/s)           |     0.014                 |     0.080                              |     0.019                 |      0.078             |
 |     Riverbed sediment                |     Cobbles & boulders    |     Cobbles & boulders                 |     Cobbles & boulders    |     Mainly boulders    |
 |     Temp. (Atmospheric) (°C)         |     23                    |     25                                 |     26                    |     23                 |
 |     Temp. (Water) (°C)               |     16.39                 |     18.10                              |     21.55                 |     17.34              |
