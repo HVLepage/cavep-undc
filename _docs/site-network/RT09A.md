@@ -2,7 +2,11 @@
 title: RT09A1 - Lower Alis
 permalink: /docs/RT09A/
 ---
-
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
 
 Site Code: RT09A1.  GPS: S12°28671, W75°787584. Elevation:
 3254m asl.

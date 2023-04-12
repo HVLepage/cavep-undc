@@ -2,6 +2,11 @@
 title: RT01A - Lower Viñac
 permalink: /docs/RT01A/
 ---
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
 
 Site Code: RT01A.  GPS: S12°85054, W75°940725. Elevation:
 1032m asl.
