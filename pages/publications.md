@@ -6,11 +6,16 @@ permalink: /publications/
 
 ## JOURNAL PAPERS
 The following papers have been published by the project as a consequence of the UNDC/UCAM agreement -
+
 * Idros, Noorhayati, Katherine Stott, Jasmina Allen, Varun S. Kamboj, Warren T. Corns, Peter J. Newton, Hernán Verde-Luján et al. ["Highly sensitive fluorescence-based mercury (II) DNA sensor enhanced by silver (I) activation."](https://www.sciencedirect.com/science/article/pii/S2665917422000022) Measurement: Sensors 20 (2022): 100368.
 
 * Sanchez Cornejo, H., L. De Los Santos Valladares, V. S. Kamboj, A. Bustamante Dominguez, J. C. González, A. M. Osorio Anaya, N. O. Moreno et al. ["Texture and terahertz analysis of YBa2Cu3O7 grown onto LaAlO3 by the chemical solution deposition technique."](https://www.tandfonline.com/doi/full/10.1080/25787616.2021.2022294) Heat Treatment and Surface Engineering just-accepted (2021): 1-25.
 
 * Newton, P. J., Luis De Los Santos Valladares, R. Celis Rojas, and C. H. W. Barnes. ["The magnetic reversal characteristics of 32-bit composite element magnetic barcodes."](https://aip.scitation.org/doi/abs/10.1063/1.5119075) Applied Physics Letters 115, no. 16 (2019): 162404.
+
+* Lepage, Hugo V., et al. ["Greening and Browning Trends on the Pacific Slope of Peru and Northern Chile."] (https://www.mdpi.com/2072-4292/15/14/3628) Remote Sensing 15.14 (2023): 3628.
+
+* Newton, P. J., et al.["The single power law relationship between coercivity and width in pointed composite element magnetic barcodes."] (https://pubs.aip.org/aip/jap/article/134/13/133903/2915071)  Journal of Applied Physics 134.13 (2023).
 
 
 ## PROJECT REPORTS
@@ -31,8 +36,7 @@ The following reports have been prepared by the project to provide an on-going u
 ## REFERENCE PAPERS
 The most relevant publications that have been referred to by the project are listed below -
 
-## Bioindicators -
-
+## Bioindicators / Bioindicadores -
 *Valqui, Mariana, et al. ["Abundance and distribution of the South American altiplano flamingos."](https://www.jstor.org/stable/1522154) Waterbirds (2000): 110-113.
 
 *Montano-Centellas, Flavia A., and Álvaro Garitano-Zavala. ["Andean bird responses to human disturbances along an elevational gradient."](https://www.sciencedirect.com/science/article/abs/pii/S1146609X15000545) Acta Oecologica 65 (2015): 51-60.
@@ -52,7 +56,7 @@ The most relevant publications that have been referred to by the project are lis
 *Salvador, F., Jorge Monerris, and Line Rochefort. ["Peatlands of the Peruvian Puna ecoregion: types, characteristics and disturbance."](http://mires-and-peat.net/media/map15/map_15_03.pdf) Mires and Peat 15.3 (2014): 1-17.
 
 
-## Geology -
+## Geology / Geologia -
 *Polliand, Marc, et al. ["Formation of intra-arc volcanosedimentary basins in the western flank of the central Peruvian Andes during Late Cretaceous oblique subduction: field evidence and constraints from U–Pb ages and Hf isotopes."](https://link.springer.com/article/10.1007/s00531-005-0464-5) International Journal of Earth Sciences 94 (2005): 231-242.
 
 *Karakouzian, Moses, et al. ["Geology of Lima, Peru."](https://pubs.geoscienceworld.org/aeg/eeg/article-abstract/III/1/55/137020/Geology-of-Lima-Peru) Environmental & Engineering Geoscience 3.1 (1997): 55-88.
@@ -66,8 +70,7 @@ The most relevant publications that have been referred to by the project are lis
 *Hildebrand, Robert S., and Joseph B. Whalen. ["Arc and Slab-Failure Magmatism in Cordilleran Batholiths I: The Cretaceous Coastal Batholith of Peru and its Role in South American Orogenesis and Hemispheric Subduction Flip."](https://www.erudit.org/en/journals/geocan/1900-v1-n1-geocan01587/1027244ar/) Geoscience Canada 41.3 (2014): 255-282.
 
 
-## Hydrology -
-
+## Hydrology / Hidrologia -
 *Rivera, Diego A., Alex Godoy-Faundez, and Mario Lillo Saavedra, eds. ["Andean hydrology"](https://books.google.co.uk/books?hl=en&lr=&id=nj0PEAAAQBAJ&oi=fnd&pg=PP1&dq=andean+hydrology&ots=iZYpkWm5KK&sig=Ye6NIp6hRF7AWyt4J8yQaJVDRsc&redir_esc=y#v=onepage&q=andean%20hydrology&f=false) CRC Press, 2018.
 
 *Castillo Santa María, Bessy, Saúl Cárdenas Ochoa, and Rubén Moreno Sotomayor. ["Contaminación de la Cuenca del Río Cañete y su Influencia en el Desarrollo Sostenible de la Provincia de Cañete–2018."](http://repositorio.usdg.edu.pe/handle/USDG/213) (2018).
@@ -82,8 +85,7 @@ The most relevant publications that have been referred to by the project are lis
 
 
 
-## Polylepis -
-
+## Bosques de Polylepis -
 *Quispe-Melgar, Harold Rusbelth, et al. ["The Central Andes of Peru: a key area for the conservation of Polylepis forest biodiversity."](https://link.springer.com/article/10.1007/s10336-019-01703-5) Journal of Ornithology 161.1 (2020): 217-228.
 
 *Quispe-Melgar, Harold Rusbelth, et al. ["The Central Andes of Peru: a key area for the conservation of Polylepis forest biodiversity."](https://link.springer.com/article/10.1007/s10336-019-01703-5) Journal of Ornithology 161.1 (2020): 217-228.
@@ -95,8 +97,7 @@ The most relevant publications that have been referred to by the project are lis
 *Zutta, Brian R., and Philip W. Rundel. ["Modeled shifts in Polylepis species ranges in the Andes from the last glacial maximum to the present."](https://www.mdpi.com/1999-4907/8/7/232) Forests 8.7 (2017): 232.
 
 
-## Shrimps (Camerones) -
-
+## Shrimps / Camerones -
 *Guerrero, Paul M. Baltazar, and César Colán. ["Algunos aspectos biológicos pesqueros de Cryphiops Caementarius" camarón de rio"(Molina, 1782) en la cuenca baja del río Mala."](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ALGUNOS+ASPECTOS+BIOL%C3%93GICOS+PESQUEROS+DE+Cryphiops+caementarius+%22CAMAR%C3%93N+DE+RIO%22+%28MOLINA%2C+1782%29+EN+LA+CUENCA+BAJA+DEL+R%C3%8DO+MALA&btnG=) Científica 11.1 (2014).
 
 *Wasiw, José, and Víctor Yépez. ["Evaluación poblacional del camarón Cryphiops caementarius en ríos de la costa sur del Perú."](http://www.scielo.org.pe/scielo.php?pid=S1609-91172015000200002&script=sci_arttext&tlng=en) Revista de investigaciones veterinarias del Perú 26.2 (2015): 166-181.
