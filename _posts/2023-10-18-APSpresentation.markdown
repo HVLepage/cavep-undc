@@ -9,9 +9,9 @@ category: UK presentations
 UCAM UNDC project presentation to the Anglo-Peruvian Society at the Peruvian Embassy in London
 
 On 26th September 2023, John Forrest & Hugo Lepage made a presentation to the members of the Anglo-Peruvian Society (APS) at the Peruvian Embassy, in London. This was the first in-person presentation organsied by the APS since prior to the Covid-29 pandemic. 
-John Forrest
-Hugo Lepage
-The presentations were receieved with much enthusiasm and a request was made to repeat the event to make two further presentations about the work o the UCAM UNDC project in the Canete valley in 2024.
+The presentation of John Forrest was entitled: '‘An introduction to the Cañete Valley: challenges and opportunities for remote Andean communities’.
+The presentation of Hugo Lepage was entitled: 'Greening and Browning Trends on the Pacific Slope of Peru and Northern Chile'.
+The presentations were received with much enthusiasm and a request was made to repeat the event to make two further presentations about the work o the UCAM UNDC project in the Canete valley in 2024.
 
 
 ![UCAM Peru visit](/assets/posts/APS1.JPG)
