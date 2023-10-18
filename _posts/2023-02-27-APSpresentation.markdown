@@ -1,9 +1,12 @@
 ---
 title: 'UCAM UNDC project presentations'
-date: 2023-02-27
+date: 2023-10-18
 author: jforrest
-category: peru-visit
+category: UK presentations
 ---
 
 
-UCAM UNDC project presentations in Catahuasi
+UCAM UNDC project presentation to the Anglo-Peruvian Society at the Peruvian Embassy in London
+
+
+
