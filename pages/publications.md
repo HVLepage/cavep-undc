@@ -15,7 +15,7 @@ The following papers have been published by the project as a consequence of the 
 
 * Lepage, Hugo V., et al. ["Greening and Browning Trends on the Pacific Slope of Peru and Northern Chile."] (https://www.mdpi.com/2072-4292/15/14/3628) Remote Sensing 15.14 (2023): 3628.
 
-* Newton, P. J., et al.["The single power law relationship between coercivity and width in pointed composite element magnetic barcodes."] (https://pubs.aip.org/aip/jap/article/134/13/133903/2915071)  Journal of Applied Physics 134.13 (2023).
+* Newton, P. J., et al. ["The single power law relationship between coercivity and width in pointed composite element magnetic barcodes."] (https://pubs.aip.org/aip/jap/article/134/13/133903/2915071) Journal of Applied Physics 134.13 (2023).
 
 
 ## PROJECT REPORTS
