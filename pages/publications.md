@@ -13,9 +13,9 @@ The following papers have been published by the project as a consequence of the 
 
 * Newton, P. J., Luis De Los Santos Valladares, R. Celis Rojas, and C. H. W. Barnes. ["The magnetic reversal characteristics of 32-bit composite element magnetic barcodes."](https://aip.scitation.org/doi/abs/10.1063/1.5119075) Applied Physics Letters 115, no. 16 (2019): 162404.
 
-* Lepage, Hugo V., et al. ["Greening and Browning Trends on the Pacific Slope of Peru and Northern Chile."] (https://www.mdpi.com/2072-4292/15/14/3628) Remote Sensing 15.14 (2023): 3628.
+* Lepage, Hugo V., et al. ["Greening and Browning Trends on the Pacific Slope of Peru and Northern Chile."](https://www.mdpi.com/2072-4292/15/14/3628) Remote Sensing 15.14 (2023): 3628.
 
-* Newton, P. J., et al. ["The single power law relationship between coercivity and width in pointed composite element magnetic barcodes."] (https://pubs.aip.org/aip/jap/article/134/13/133903/2915071) Journal of Applied Physics 134.13 (2023).
+* Newton, P. J., et al. ["The single power law relationship between coercivity and width in pointed composite element magnetic barcodes."](https://pubs.aip.org/aip/jap/article/134/13/133903/2915071) Journal of Applied Physics 134.13 (2023).
 
 
 ## PROJECT REPORTS
