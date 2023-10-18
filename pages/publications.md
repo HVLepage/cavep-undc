@@ -46,7 +46,7 @@ The most relevant publications that have been referred to by the project are lis
 *Quispe-Melgar, Harold Rusbelth, et al. ["The Central Andes of Peru: a key area for the conservation of Polylepis forest biodiversity."](https://link.springer.com/article/10.1007/s10336-019-01703-5) Journal of Ornithology 161.1 (2020): 217-228.
 
 
-## Bofedales -
+## High altitude wetlands / Bofedales -
 *Fonkén, MS Maldonado. ["An introduction to the bofedales of the Peruvian High Andes"](https://www.researchgate.net/profile/Monica-Sofia-Maldonado-Fonken/publication/269633569_An_introduction_to_the_bofedales_of_the_Peruvian_High_Andes/links/54908be70cf214269f26ce7c/An-introduction-to-the-bofedales-of-the-Peruvian-High-Andes.pdf) Mires and Peat 15.5 (2014): 1-13.
 
 *Baied, Carlos A., and Jane C. Wheeler. ["Evolution of high Andean puna ecosystems: environment, climate, and culture change over the last 12,000 years in the Central Andes."](https://www.jstor.org/stable/3673632) Mountain Research and Development (1993): 145-156.
@@ -84,8 +84,7 @@ The most relevant publications that have been referred to by the project are lis
 *Camel, Vladimir, et al. "Forest structure of three endemic species of the genus Polylepis (Rosaceae) in central Peru." Ecología austral 29.3 (2019): 285-295.
 
 
-
-## Bosques de Polylepis -
+## Polylepis woodlands / Bosques de Polylepis -
 *Quispe-Melgar, Harold Rusbelth, et al. ["The Central Andes of Peru: a key area for the conservation of Polylepis forest biodiversity."](https://link.springer.com/article/10.1007/s10336-019-01703-5) Journal of Ornithology 161.1 (2020): 217-228.
 
 *Quispe-Melgar, Harold Rusbelth, et al. ["The Central Andes of Peru: a key area for the conservation of Polylepis forest biodiversity."](https://link.springer.com/article/10.1007/s10336-019-01703-5) Journal of Ornithology 161.1 (2020): 217-228.
@@ -104,5 +103,3 @@ The most relevant publications that have been referred to by the project are lis
 
 *Verástegui, Aníbal S., Jesús A. Mejía, and Andrés Goyburo. ["Design of a biological corridor for migration of freshwater prawn over a dam in the southwestern slopes of Los Andes, Peru."](https://www.researchgate.net/profile/Andres-Goyburo/publication/315703107_Design_of_a_Biological_Corridor_for_Migration_of_Freshwater_Prawn_over_a_Dam_in_the_Southwestern_Slopes_of_Los_Andes_Peru/links/58ed10ebaca2724f0a26b33b/Design-of-a-Biological-Corridor-for-Migration-of-Freshwater-Prawn-over-a-Dam-in-the-Southwestern-Slopes-of-Los-Andes-Peru.pdf) Journal of Water Resource and Hydraulic Engineering Mar 6.1 (2017): 1-8.
 
-
-*
