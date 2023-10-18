@@ -17,19 +17,26 @@ The presentations were received with much enthusiasm and a request was made to r
 
 ![UCAM Peru visit](/assets/posts/APS1.JPG)
 Hugo Lepage & John Forrest (UCAM) are introduced at the start of the presentations by Paola Budgen, APS Events organiser.
+
 Hugo Lepage y John Forrest (UCAM) son presentados al comienzo de sus presentaciones por Paola Budgen, organizadora de APS Events.
+
 
 ![UCAM Peru visit](/assets/posts/APS2.JPG)
 Hugo Lepage (UCAM) introduces his audio-visual presentation.
+
 Hugo Lepage (UCAM) introduce su presentación audiovisual.
+
 
 ![UCAM Peru visit](/assets/posts/APS3.JPG)
 Hugo Lepage & John Forrest (UCAM) take questions at the end of the presentations.
+
 Hugo Lepage y John Forrest (UCAM) responden a las preguntas al final de las presentaciones.
+
 
 
 ![UCAM Peru visit](/assets/posts/APS4.JPG)
 Hugo Lepage & John Forrest (UCAM) pose for an official APS & Embassy photo.
+
 Hugo Lepage y John Forrest (UCAM) posan para una foto oficial de la APS.
 
 
